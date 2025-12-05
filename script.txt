@@ -1,0 +1,64 @@
+Bem-vindos ao podcast Na Boca do Sol.
+
+O podcast Na Boca do Sol visa divulgar a imortal ciência do proletáriado, o marxismo. 
+De forma gratuíta e livre como material de estudo para qualquer pessoa que se interessa pelo tema.
+Aqui vamos realizar a leitura de textos marxistas de vários autores, lugares e épocas. 
+
+Eu me chamo Faber e sou a voz que conduzirá esse episódio, preciso te contar um segredo antes de seguir.
+Eu sou um pacote de voz sintetizado por inteligência artificial disponibilizado na internet de graça.
+Mas, já peço perdão pelo vacilo, minha pronúncia não é das melhores, que é o maior ponto negativo do podcast.
+Em minha defesa, também sou o maior ponto positivo, pois os episódios deste podcast são gerados automáticamente por um código payton que gera este roteiro lido por mim.
+Vocês serão poupados do papo técnico por hora, pois o foco aqui é o marxismo.
+
+Bom, imagino que você ainda têm dúvidas.
+Todos os textos lidos aqui são de domínio público disponibilizados pela biblioteca internacional chamada Marxists Internet Archive, M I A.
+O M I A é uma biblioteca pública sem fins lucrativos, totalmente mantida por voluntários.
+O arquivo conta com 76 voluntários ativos de dezenas de países e disponibiliza os escritos de cerca de 1000 autores em 83 idiomas diferentes, totalizando mais de 180.000 documentos e 288 Gigas de dados.
+
+O arquivo M I A segue princípios fundamentais que concordamos: será sempre 100% gratuito, não julga os escritores e prioriza o fornecimento de informações. 
+O objetivo do arquivo é manter qualquer escrito marxista ou relevante para a compreensão do marxismo que possa ser legalmente publicado, sem filtrar opiniões controversas dos autores, fornecendo todo o material exclusivamente para informação dos ouvintes.
+
+O objetivo do podcast Na Boca do Sol é claro: 
+difundir textos marxistas no formato em podcast.
+Os textos escolhidos não serão somente sobre teoria marxista propriamente dita, mas também de 
+notórios marxistas.
+
+Você já parou para pensar o que o romancista brasileiro autor dos clássicos 'os capitães de areia' e 'Dona Flor e Seus Dois Maridos' pensava sobre como os artistas e escritores se relacionavam com o partido comunista?
+
+Ou, o quê o primeiro ser humano que viajou o espaço sideral discursou sobre seu voo? 
+
+Mas, há momentos que você pode estar em só em dúvida: o quê é o comunismo definido por seus fundadores? 
+Para todas essas perguntas e outras mais, te garanto que existe um texto no M I A!
+
+O podcast Na Boca do Sol é um projeto realizado por um time pequeno e independente.
+Nosso compromisso é em servir ao povo de todo coração com teoria marxista.
+O podcast não consegue cobrir por completo todos os textos e conteúdo do M I A.
+Portanto, o código utilizado para gerar este podcast é aberto e está disponível no Guît Hub.  
+Assim, qualquer pessoa pode gerar um arquivo de áudio para me escutar ler outros texto marxistas.
+Se você está interessado em saber mais sobre atualizações do projeto nos siga no Instagram em arroba na boca do sol podcast.
+
+
+No episódio de hoje vamos apresentar o texto: {{TITLE}}.
+Escrito por {{AUTHOR}} em {{YEAR}}.
+O número de linhas do texto é de {{LINE_COUNT}}.
+
+Antes de começarmos, um último recado. 
+Ao fim de todas as leituras vamos ler a biografia do autor.
+Fiquem com o texto de hoje do podcast Na Boca do Sol.
+Bons estudos!
+
+{{CONTENT}}
+
+
+Obrigado por sintonizar na Boca do Sol podcast! 
+Convido a todos para conhecer o projeto e especialmente os textos marxistas.
+A revolução brasileira está em construção por todos nós!
+
+Acreditem que todos os reacionários são tigres de papel. 
+Na aparência, os reacionários são terríveis, mas na realidade não são assim tão poderosos. 
+Vendo a longo prazo, não são os reacionários mas sim o povo quem é realmente poderoso.
+O povo brasileiro é bravo e heróico!
+Fé na luta! Venceremos!
+
+Finalmente, fiquem com uma pequena biografia do autor 
+{{BIOGRAFY}}
