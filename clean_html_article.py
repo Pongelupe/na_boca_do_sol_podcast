@@ -14,9 +14,14 @@ if len(hrs) >= 2:
             current.decompose()
         current = next_sibling
 
-for tag in soup.find_all(['nav', 'footer', 'img', 'hr']):
+for tag in soup.find_all(['nav', 'footer', 'img', 'hr', 'sup', 'div']):
     tag.decompose()
-for toplink in soup.find_all('p', class_='toplink'):
-    toplink.decompose()
+for clzz in ['toplink', 'estrelavermelha', 'link', 'note']:
+    for p in soup.find_all('p', class_= clzz):
+        p.decompose()
+# for toplink in soup.find_all('p', class_='toplink'):
+    # toplink.decompose()
+# for estrela in soup.find_all('p', class_='estrelavermelha'):
+    # estrela.decompose()
 
 print(soup)

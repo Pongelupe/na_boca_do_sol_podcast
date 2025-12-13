@@ -30,8 +30,8 @@ echo -e "\n📖 Título: $title"
 # Limpar o título para nome de arquivo
 clean_title=$(echo "$title" | tr -cd '[:alnum:][:space:]' | tr ' ' '_' | tr -s '_')
 
-lynx -dump -nolist -display_charset=utf-8 artigo.tmp.html > artigo_limpo.txt
-lynx -dump -nolist -display_charset=utf-8 autor.tmp.html > autor.tmp.txt
+lynx -dump -nolist -width=1000 -display_charset=utf-8 artigo.tmp.html | sed 's/^[[:space:]]*//' | tr '\n' ' ' | sed 's/  */\n\n/g' > artigo_limpo.txt
+lynx -dump -nolist -width=1000 -display_charset=utf-8 autor.tmp.html > autor.tmp.txt
 mv artigo.tmp.html "$clean_title.html"
 
 # Clean encoding issues
@@ -52,7 +52,8 @@ fi
 echo "🔊 Convertendo com Piper:"
 
 #python -m piper --model ./pt_BR-faber-medium.onnx --length-scale 0.8 --input_file "$INPUT_FILE"  --output_file "$clean_title.wav" &
-python -m piper --model ./pt_BR-faber-medium.onnx --length-scale 1.25 --input_file "$INPUT_FILE"  --output_file "$clean_title.wav" &
+#python -m piper --model ./pt_BR-faber-medium.onnx --length-scale 1.25 --input_file "$INPUT_FILE"  --output_file "$clean_title.wav" &
+python kokoro_tts.py "$INPUT_FILE" "$clean_title.wav" &
 
 # Barra de progresso simples
 while jobs %% > /dev/null 2>&1; do
@@ -71,4 +72,4 @@ else
 fi
 
 # Limpar arquivos temporários
-rm -f "$clean_title.html" "$clean_title.txt"
+#rm -f "$clean_title.html" "$clean_title.txt"
