@@ -30,7 +30,12 @@ echo -e "\n📖 Título: $title"
 # Limpar o título para nome de arquivo
 clean_title=$(echo "$title" | tr -cd '[:alnum:][:space:]' | tr ' ' '_' | tr -s '_')
 
-lynx -dump -nolist -width=1000 -display_charset=utf-8 artigo.tmp.html | sed 's/^[[:space:]]*//' | tr '\n' ' ' | sed 's/  */\n\n/g' > artigo_limpo.txt
+lynx -dump -nolist -width=1000 -display_charset=utf-8 artigo.tmp.html |
+sed 's/^[[:space:]]*//' |
+# Juntar linhas que não começam com espaço (continuam o parágrafo)
+awk '!/^[[:space:]]/ && NR>1 {print ""} {printf "%s", $0} END {print ""}' |
+sed 's/  */ /g' > artigo_limpo.txt
+#lynx -dump -nolist -width=1000 -display_charset=utf-8 artigo.tmp.html | sed 's/^[[:space:]]*//' | tr '\n' ' ' | sed 's/  */\n\n/g' > artigo_limpo.txt
 lynx -dump -nolist -width=1000 -display_charset=utf-8 autor.tmp.html > autor.tmp.txt
 mv artigo.tmp.html "$clean_title.html"
 
