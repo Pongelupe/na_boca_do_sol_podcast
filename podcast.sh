@@ -54,10 +54,8 @@ else
     INPUT_FILE="$clean_title.txt"
 fi
 
-echo "🔊 Convertendo com Piper:"
+echo "🔊 Convertendo com Kokoro:"
 
-#python -m piper --model ./pt_BR-faber-medium.onnx --length-scale 0.8 --input_file "$INPUT_FILE"  --output_file "$clean_title.wav" &
-#python -m piper --model ./pt_BR-faber-medium.onnx --length-scale 1.25 --input_file "$INPUT_FILE"  --output_file "$clean_title.wav" &
 python kokoro_tts.py "$INPUT_FILE" "$clean_title.wav" &
 
 # Barra de progresso simples
@@ -77,4 +75,4 @@ else
 fi
 
 # Limpar arquivos temporários
-#rm -f "$clean_title.html" "$clean_title.txt"
+rm -f artigo_limpo.txt autor.tmp* 
