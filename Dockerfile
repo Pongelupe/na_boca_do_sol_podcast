@@ -12,12 +12,8 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY podcast.sh .
-COPY script.txt .
-COPY *.py ./
-#COPY clean_html_article.py .
-#COPY clean_html_author.py .
-
+COPY podcast.sh kokoro_tts.py clean_html_*.py process_author_info.py process_template.py script.txt ./
+COPY sounds/ ./sounds/
 RUN chmod +x podcast.sh
 
 ENTRYPOINT ["./podcast.sh"]

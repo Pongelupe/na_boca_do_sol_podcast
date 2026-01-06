@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import sys
+import re
 from bs4 import BeautifulSoup
 
 html = sys.stdin.read()
@@ -14,14 +15,14 @@ if len(hrs) >= 2:
             current.decompose()
         current = next_sibling
 
-for tag in soup.find_all(['nav', 'footer', 'img', 'hr', 'sup', 'div']):
+for tag in soup.find_all(['nav', 'footer', 'img', 'hr']):
     tag.decompose()
-for clzz in ['toplink', 'estrelavermelha', 'link', 'note']:
-    for p in soup.find_all('p', class_= clzz):
-        p.decompose()
-# for toplink in soup.find_all('p', class_='toplink'):
-    # toplink.decompose()
-# for estrela in soup.find_all('p', class_='estrelavermelha'):
-    # estrela.decompose()
+for toplink in soup.find_all('p', class_='toplink'):
+    toplink.decompose()
 
-print(soup)
+# Clean text for better TTS rhythm
+text = str(soup)
+text = re.sub(r'\^?\(\d+\)', '', text)  # Remove footnote markers
+text = re.sub(r'[★]+', '', text)  # Remove star separators
+
+print(text)
