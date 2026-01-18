@@ -41,7 +41,7 @@ Portanto, o código utilizado para gerar este podcast é aberto e está disponí
 Assim, qualquer pessoa pode gerar um arquivo de áudio para me escutar ler outros textos marxistas.
 Se você está interessado em saber mais sobre atualizações do projeto nos siga no Instagram em arroba na boca do sol podcast.
 
-|SOUND:tp.mp3|
+|SOUND:tp.wav|
 
 No episódio de hoje vamos apresentar o texto: {{TITLE}}.
 Escrito por {{AUTHOR}} em {{YEAR}}.
