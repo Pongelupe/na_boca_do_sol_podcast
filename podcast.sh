@@ -19,10 +19,10 @@ fi
 URL=$1
 
 raw_html=$(curl -s "$URL")
-echo "$raw_html" | python "clean_html_${TYPE}.py" > artigo.tmp.html
+echo "$raw_html" | python3 "clean_html_${TYPE}.py" > artigo.tmp.html
 
 # Process author info
-echo "$raw_html" | python process_author_info.py "$URL" > autor.tmp.html 2>/dev/null
+echo "$raw_html" | python3 process_author_info.py "$URL" > autor.tmp.html 2>/dev/null
 
 title=$(awk -F'<title>|</title>' '/<title>/ {print $2}' artigo.tmp.html)
 echo -e "\n📖 Título: $title"
@@ -48,7 +48,7 @@ echo "📄 Texto extraído: $(wc -l < "$clean_title.txt") linhas"
 # Process template if script.txt exists
 if [ -f "script.txt" ]; then
     echo "📝 Processando template..."
-    python process_template.py script.txt autor.tmp.txt "$clean_title.txt" "$clean_title.html" > "${clean_title}_podcast.txt"
+    python3 process_template.py script.txt autor.tmp.txt "$clean_title.txt" "$clean_title.html" > "${clean_title}_podcast.txt"
     INPUT_FILE="${clean_title}_podcast.txt"
 else
     INPUT_FILE="$clean_title.txt"
@@ -56,7 +56,7 @@ fi
 
 echo "🔊 Convertendo com Kokoro:"
 
-python kokoro_tts.py "$INPUT_FILE" "$clean_title.wav" &
+python3 kokoro_tts.py "$INPUT_FILE" "$clean_title.wav" &
 
 # Barra de progresso simples
 while jobs %% > /dev/null 2>&1; do

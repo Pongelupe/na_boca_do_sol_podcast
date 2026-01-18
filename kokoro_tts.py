@@ -50,5 +50,5 @@ for part in parts:
             audio_chunks.append(audio)
 
 full_audio = np.concatenate(audio_chunks)
-sf.write(output_file, full_audio, 24000)
+sf.write(output_file, full_audio, 24000, format='WAV')
 print(f"✅ Audio saved: {output_file}")
