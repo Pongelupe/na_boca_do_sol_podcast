@@ -9,11 +9,13 @@ Jorge Amado morreu em Salvador, no dia 6 de agosto de 2001. Foi cremado conforme
 
 ## Obras
 
-- [Entrevista ao Jornal Folha da Noite](https://www.marxists.org/portugues/amado/1945/03/02.htm) (1945 - mar)
-- [A Classe era Pão e Luz](https://www.marxists.org/portugues/amado/1946/03/09.htm) (1946 - mar)
-- [Escritores, artistas e o Partido](https://www.marxists.org/portugues/amado/1946/03/16.htm) (1946 - mar)
-- [Homens e Coisas do Partido Comunista](https://www.marxists.org/portugues/amado/1946/homens/index.htm) (1946 )
-- [Saudação a Stálin em seu Aniversário](https://www.marxists.org/portugues/amado/1949/12/17.htm) (1949 - dez)
-- [Carta aos Jovens Brasileiros](https://www.marxists.org/portugues/amado/1951/05/15.htm) (1951 - mai )
-- [Exposição Jorge Amado 30 anos de Literatura](https://www.marxists.org/portugues/amado/1961/mes/90.pdf) (1961)
-- [Memória de Maurício Grabois](https://www.marxists.org/portugues/amado/ano/mes/grabois.htm) (&nbsp;)
+| Obra | Ano | Repo | MIA |
+|------|-----|:----:|:---:|
+| Entrevista ao Jornal Folha da Noite | 1945 - mar |  | [🔗](https://www.marxists.org/portugues/amado/1945/03/02.htm) |
+| A Classe era Pão e Luz | 1946 - mar |  | [🔗](https://www.marxists.org/portugues/amado/1946/03/09.htm) |
+| Escritores, artistas e o Partido | 1946 - mar | [📁](Escritores_artistas_e_o_Partido/) | [🔗](https://www.marxists.org/portugues/amado/1946/03/16.htm) |
+| Homens e Coisas do Partido Comunista | 1946  |  | [🔗](https://www.marxists.org/portugues/amado/1946/homens/index.htm) |
+| Saudação a Stálin em seu Aniversário | 1949 - dez |  | [🔗](https://www.marxists.org/portugues/amado/1949/12/17.htm) |
+| Carta aos Jovens Brasileiros | 1951 - mai  |  | [🔗](https://www.marxists.org/portugues/amado/1951/05/15.htm) |
+| Exposição Jorge Amado 30 anos de Literatura | 1961 |  | [🔗](https://www.marxists.org/portugues/amado/1961/mes/90.pdf) |
+| Memória de Maurício Grabois | &nbsp; |  | [🔗](https://www.marxists.org/portugues/amado/ano/mes/grabois.htm) |
