@@ -15,10 +15,10 @@ if len(hrs) >= 2:
             current.decompose()
         current = next_sibling
 
-for tag in soup.find_all(['nav', 'footer', 'img', 'hr']):
+for tag in soup.find_all(['nav', 'footer', 'img', 'hr', 'table']):
     tag.decompose()
-for toplink in soup.find_all('p', class_='toplink'):
-    toplink.decompose()
+for p in soup.find_all('p', class_=['toplink', 'link', 'note']):
+    p.decompose()
 
 # Clean text for better TTS rhythm
 text = str(soup)
