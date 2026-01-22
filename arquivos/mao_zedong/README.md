@@ -131,5 +131,5 @@ Mao ocupou a Presidência da República Popular da China até após o “Grande 
 | Sobre a Educação | 1964  |  | [🔗](https://www.marxists.org/portugues/mao/1964/mes/educa.htm) |
 | Citações do Presidente Mao Tsetung | 1966 | [📁](citacoes/) | [🔗](https://www.marxists.org/portugues/mao/1966/citas/index.htm) |
 | Vinte Manifestações de Burocracia | 1970 - fev  |  | [🔗](https://www.marxists.org/portugues/mao/1970/02/burocracia.htm) |
-| Povos de todo o mundo, uni-vos e derrotai os agressores americanos e todos os seus lacaios! | 1970 - mai  |  | [🔗](https://www.marxists.org/portugues/mao/1970/05/20.htm) |
+| Povos de todo o mundo, uni-vos e derrotai os agressores americanos e todos os seus lacaios! | 1970 - mai  | [📁](Povos_de_todo_o_mundo_univos_e_derrotai_os_agressores_americanos_e_todos_os_seus_lacaios/) | [🔗](https://www.marxists.org/portugues/mao/1970/05/20.htm) |
 | Mensagem Dirigida a Todo o Partido, a Todo o Exército e ao Povo de Todas as Nacionalidades do País | 1976 - set |  | [🔗](https://www.marxists.org/portugues/mao/1976/09/mensagem.htm) |
