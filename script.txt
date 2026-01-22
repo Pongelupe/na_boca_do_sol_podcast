@@ -6,10 +6,9 @@ O podcast Na Boca do Sol visa divulgar a imortal ciência do proletariado, o mar
 De forma gratuíta e livre como material de estudo para qualquer pessoa que se interessa pelo tema.
 Aqui vamos realizar a leitura de textos marxistas de vários autores, lugares e épocas.
 
-Eu me chamo Alex, uma voz sintetizada por inteligência artificial que conduzirá esse episódio.
+Eu me chamo Alex, sou uma voz sintetizada por inteligência artificial que conduzirá esse episódio.
 Todos os textos lidos aqui são de domínio público disponibilizados pela biblioteca internacional chamada Marxists Internet Archive, M I A.
-
-O código utilizado para gerar este podcast é aberto e está disponível no Git Hub.
+O código utilizado para gerar este podcast é aberto e está disponível no GitHub.
 Nos siga no Instagram em arroba na boca do sol podcast.
 
 |PAUSE:0.5|
