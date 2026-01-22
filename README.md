@@ -1,19 +1,101 @@
-# Abimael Guzmán
+# Na Boca do Sol Podcast 🎙️
 
-<p align="center"><img src="https://www.marxists.org/portugues/gonzalo/img/retrato.jpg" alt="Abimael Guzmán"></p>
+Gerador automático de podcasts com síntese de voz por IA para leitura de textos marxistas.
 
-Manuel Rubén Abimael Guzmán Reynoso, também chamado Presidente Gonzalo, nasceu em 3 de dezembro de 1934, na cidade de Mollendo, na província de Islay, Peru. Foi chefatura do Partido Comunista do Peru — Fração Vermelha, apelidado pela reação e pelo governo peruano como Sendero Luminoso. Gonzalo sintetizou o até então marxismo-leninismo-pensamento Mao Tsé-Tung para uma terceira etapa, o marxismo-leninismo-maoísmo.
-O Presidente Gonzalo foi um dos principais articuladores da guerra popular do Peru, iniciada em maio de 1980 e durando até os dias de hoje. A guerra encontrou seu ápice em 1990, quando chegou a ter controle e atividade em aproximadamente 47% do país, tudo isso com a organização de camponeses, operários, mulheres e todas as classes oprimidas do Peru, seguindo a chamada linha chinesa e sustentando a universalidade da guerra popular prolongada, enquanto combatia o revisionismo soviético de Khruschov, do revisionismo albanês de Hoxha e dos oportunistas e reacionários de todo tipo.
-Foi preso em 1992, quando pronunciou seu famoso Discurso da jaula. Foi julgado somente em 2006. Morreu em 11 de setembro de 2021 aos 86 anos, muito provavelmente por negligência médica. Jamais delatou nenhum de seus companheiros.
+## Sobre
 
-## Obras
+O **Na Boca do Sol** é um podcast que divulga textos marxistas de domínio público disponibilizados pelo [Marxists Internet Archive (MIA)](https://www.marxists.org/). O projeto utiliza a voz sintetizada "Alex" através do [Kokoro TTS](https://github.com/hexgrad/kokoro) para gerar os episódios automaticamente.
 
-| Obra | Ano | Repo | MIA |
-|------|-----|:----:|:---:|
-| A problemática nacional | 1974 |  | [🔗](https://www.marxists.org/portugues/gonzalo/1974/mes/40.htm) |
-| Dar a vida pelo Partido e pela Revolução | 1987 - jun |  | [🔗](https://www.marxists.org/portugues/gonzalo/1987/06/40.htm) |
-| Entrevista do Século | 1988 - jul |  | [🔗](https://www.marxists.org/portugues/gonzalo/1988/07/24.htm) |
-| Sobre a tese do Presidente Mao “Delineiam-se Três Mundos” | 1988 |  | [🔗](https://www.marxists.org/portugues/gonzalo/1988/mes/40.htm) |
-| Acerca do pensamento Gonzalo | 1988 |  | [🔗](https://www.marxists.org/portugues/gonzalo/1988/mes/41.htm) |
-| Em comemoração do 40.º aniversário da Revolução Chinesa | 1989 - set |  | [🔗](https://www.marxists.org/portugues/gonzalo/1989/09/30.htm) |
-| Início da página | 1992 - set |  | [🔗](https://www.marxists.org/portugues/gonzalo/#topp) |
+## Funcionalidades
+
+- Extração automática de artigos de URLs do Marxists.org
+- Limpeza e formatação de HTML para texto
+- Extração de biografia do autor
+- Síntese de voz em português com Kokoro TTS
+- Inserção de vinhetas de áudio (intro, pausas)
+- Template personalizável para episódios
+
+## Requisitos
+
+- Python 3
+- lynx
+- curl
+- GPU NVIDIA (recomendado para Kokoro TTS)
+
+## Instalação
+
+```bash
+pip install -r requirements.txt
+```
+
+### Com Docker [PREFERIDO]
+
+```bash
+docker build -t nabocadosol .
+docker run --gpus all nabocadosol <URL>
+```
+
+## Uso
+
+### Gerar podcast a partir de URL
+
+```bash
+./podcast.sh https://www.marxists.org/portugues/autor/ano/texto.htm
+```
+
+Os arquivos gerados serão salvos em uma pasta com o título do artigo:
+- `Titulo.html` - HTML limpo
+- `Titulo.txt` - Texto extraído
+- `Titulo_podcast.txt` - Script completo do episódio
+- `Titulo.wav` - Áudio final
+
+### Gerar áudio de script existente
+
+```bash
+./podcast.sh -p arquivo_podcast.txt
+```
+
+### Gerar índice de obras em Markdown
+
+```bash
+./index_to_md.sh https://www.marxists.org/portugues/autor/index.htm
+```
+
+## Estrutura
+
+```
+├── podcast.sh           # Script principal
+├── kokoro_tts.py        # Síntese de voz com Kokoro
+├── clean_html_article.py # Limpeza de HTML do artigo
+├── clean_html_author.py  # Limpeza de HTML do autor
+├── process_author_info.py # Extração de biografia
+├── process_template.py   # Processamento do template
+├── script.txt           # Template do episódio
+├── sounds/              # Vinhetas de áudio
+│   ├── intro.wav
+│   └── virgula.wav
+└── arquivos/            # Exemplos de textos processados
+```
+
+## Template
+
+O arquivo `script.txt` define a estrutura do episódio com variáveis:
+
+- `{{TITLE}}` - Título do texto
+- `{{AUTHOR}}` - Nome do autor
+- `{{YEAR}}` - Ano de publicação
+- `{{LINE_COUNT}}` - Número de linhas
+- `{{CONTENT}}` - Conteúdo do texto
+- `{{BIOGRAFY}}` - Biografia do autor
+
+Marcadores especiais:
+- `|SOUND:arquivo.wav|` - Insere áudio
+- `|PAUSE:segundos|` - Insere pausa
+
+## Redes Sociais
+
+- Instagram: [@nabocadosolpodcast](https://instagram.com/nabocadosolpodcast)
+
+## Licença
+
+Código aberto. Textos são de domínio público via Marxists Internet Archive.
