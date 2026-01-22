@@ -33,10 +33,10 @@ Mao ocupou a Presidência da República Popular da China até após o “Grande 
 | As Tarefas do Partido Comunista da China no Período da Resistência ao Japão | 1937 - mai  |  | [🔗](https://www.marxists.org/portugues/mao/1937/05/03.htm) |
 | Lutemos Para Incorporar as Massas por Milhões na Frente Única Nacional Anti-Japonesa | 1937 - mai  |  | [🔗](https://www.marxists.org/portugues/mao/1937/05/07.htm) |
 | Sobre a  Prática | 1937 - jul |  | [🔗](https://www.marxists.org/portugues/mao/1937/07/pratica-ga.htm) |
-| Sobre a Prática | 1937 - jul  |  | [🔗](https://www.marxists.org/portugues/mao/1937/07/pratica.htm) |
+| Sobre a Prática | 1937 - jul  | [📁](Sobre_a_Prtica_Sobre_a_relao_entre_o_conhecimento_e_a_prtica_A_Relao_entre_o_Conhecer_o_Agir/) | [🔗](https://www.marxists.org/portugues/mao/1937/07/pratica.htm) |
 | Linha Política, Medidas e Perspectivas na Luta Contra a Ofensiva Japonesa | 1937 - jul  |  | [🔗](https://www.marxists.org/portugues/mao/1937/07/23.htm) |
 | Lutar Pela Mobilização de Todas as Forças Para a Vitória da Guerra de Resistência | 1937 - ago  |  | [🔗](https://www.marxists.org/portugues/mao/1937/08/25.htm) |
-| Sobre a Contradição | 1937 - ago  |  | [🔗](https://www.marxists.org/portugues/mao/1937/08/contra.htm) |
+| Sobre a Contradição | 1937 - ago  | [📁](Sobre_a_Contradio/) | [🔗](https://www.marxists.org/portugues/mao/1937/08/contra.htm) |
 | Contra o Liberalismo | 1937 - set  |  | [🔗](https://www.marxists.org/portugues/mao/1937/09/07.htm) |
 | Tarefas Urgentes Após o Estabelecimento da Cooperação Entre o Kuomintang e o Partido Comunista | 1937 - set  |  | [🔗](https://www.marxists.org/portugues/mao/1937/09/29.htm) |
 | Entrevista com o Jornalista Inglês James Bertram | 1937 - out  |  | [🔗](https://www.marxists.org/portugues/mao/1937/10/25.htm) |
@@ -89,7 +89,7 @@ Mao ocupou a Presidência da República Popular da China até após o “Grande 
 | A Viragem da Segunda Guerra Mundial | 1942 - out |  | [🔗](https://www.marxists.org/portugues/mao/1942/10/12.htm) |
 | Em Comemoração do Vigésimo Quinto Aniversário da Revolução de Outubro | 1942 - nov |  | [🔗](https://www.marxists.org/portugues/mao/1942/11/06.htm) |
 | Problemas Econômicos e Financeiros no Período de Resistência ao Japão | 1942 - dez |  | [🔗](https://www.marxists.org/portugues/mao/1942/12/japao.htm) |
-| A Propósito dos Métodos de Direcção | 1943 - jun |  | [🔗](https://www.marxists.org/portugues/mao/1943/06/01.htm) |
+| A Propósito dos Métodos de Direcção | 1943 - jun | [📁](A_Propsito_dos_Mtodos_de_Direco/) | [🔗](https://www.marxists.org/portugues/mao/1943/06/01.htm) |
 | Interpelação ao Kuomintang | 1943 - jul |  | [🔗](https://www.marxists.org/portugues/mao/1943/07/12.htm) |
 | Desencadeemos nas Bases de Apoio Campanhas para a Redução das Rendas, a Produção e o "Apoio ao Governo e Preocupação pelo Povo" | 1943 - out |  | [🔗](https://www.marxists.org/portugues/mao/1943/10/01.htm) |
 | Comentário à XI Sessão Plenária do Comitê Executivo Central do Kuomintang e à II Sessão do III Conselho Político Nacional | 1943 - out |  | [🔗](https://www.marxists.org/portugues/mao/1943/10/05.htm) |
@@ -118,7 +118,7 @@ Mao ocupou a Presidência da República Popular da China até após o “Grande 
 | Sobre a Ditatura da Democracia Popular | 1949  |  | [🔗](https://www.marxists.org/portugues/mao/1949/mes/ditadura.htm) |
 | Sobre o problema da cooperação agrícola | 1955 - jul  |  | [🔗](https://www.marxists.org/portugues/mao/../tematica/mst/Caderno-Exp-02.pdf#page=55) |
 | O lugar de Stálin na História | 1956 - abr  |  | [🔗](https://www.marxists.org/portugues/mao/1956/04/05.htm) |
-| Sobre o tratamento correto das contradições no seio do povo | 1957 - fev  |  | [🔗](https://www.marxists.org/portugues/mao/1957/02/27.htm) |
+| Sobre o tratamento correto das contradições no seio do povo | 1957 - fev  | [📁](Sobre_o_tratamento_correto_das_contradies_no_seio_do_povo/) | [🔗](https://www.marxists.org/portugues/mao/1957/02/27.htm) |
 | Sobre o trabalho de Propaganda | 1957 - mar  |  | [🔗](https://www.marxists.org/portugues/mao/obras/40.pdf) |
 | Sobre os "Problemas Econômicos do Socialismo na URSS" de Stalin | 1958 - nov |  | [🔗](https://www.marxists.org/portugues/mao/1958/11/sobre.htm) |
 | Exemplos de Dialética (Compilação resumida) | 1959 |  | [🔗](https://www.marxists.org/portugues/mao/1959/mes/90.htm) |
