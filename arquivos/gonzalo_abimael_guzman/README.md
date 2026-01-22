@@ -12,7 +12,7 @@ Foi preso em 1992, quando pronunciou seu famoso Discurso da jaula. Foi julgado s
 |------|-----|:----:|:---:|
 | A problemática nacional | 1974 |  | [🔗](https://www.marxists.org/portugues/gonzalo/1974/mes/40.htm) |
 | Dar a vida pelo Partido e pela Revolução | 1987 - jun |  | [🔗](https://www.marxists.org/portugues/gonzalo/1987/06/40.htm) |
-| Entrevista do Século | 1988 - jul |  | [🔗](https://www.marxists.org/portugues/gonzalo/1988/07/24.htm) |
+| Entrevista do Século | 1988 - jul | [📁](Entrevista_do_Sculo_com_o_Presidente_Gonzalo/) | [🔗](https://www.marxists.org/portugues/gonzalo/1988/07/24.htm) |
 | Sobre a tese do Presidente Mao “Delineiam-se Três Mundos” | 1988 |  | [🔗](https://www.marxists.org/portugues/gonzalo/1988/mes/40.htm) |
 | Acerca do pensamento Gonzalo | 1988 |  | [🔗](https://www.marxists.org/portugues/gonzalo/1988/mes/41.htm) |
 | Em comemoração do 40.º aniversário da Revolução Chinesa | 1989 - set |  | [🔗](https://www.marxists.org/portugues/gonzalo/1989/09/30.htm) |
