@@ -123,10 +123,10 @@ Mao ocupou a Presidência da República Popular da China até após o “Grande 
 | Sobre os "Problemas Econômicos do Socialismo na URSS" de Stalin | 1958 - nov |  | [🔗](https://www.marxists.org/portugues/mao/1958/11/sobre.htm) |
 | Exemplos de Dialética (Compilação resumida) | 1959 |  | [🔗](https://www.marxists.org/portugues/mao/1959/mes/90.htm) |
 | Princípios para Educar os Jovens | 1960 |  | [🔗](https://www.marxists.org/portugues/mao/1960/mes/jovens.htm) |
-| De Onde Vêm as Idéias Corretas | 1963 - mai  |  | [🔗](https://www.marxists.org/portugues/mao/1963/05/ideias.htm) |
+| De Onde Vêm as Idéias Corretas | 1963 - mai  | [📁](Mao_De_Onde_Vm_as_Idias_Corretas/) | [🔗](https://www.marxists.org/portugues/mao/1963/05/ideias.htm) |
 | Contra a discriminação racial do imperialismo americano | 1963 - ago  |  | [🔗](https://www.marxists.org/portugues/mao/1963/08/08.htm) |
 | A Questão Racial é uma Questão de Classe | 1963 - ago  |  | [🔗](https://www.marxists.org/portugues/mao/1963/08/09.htm) |
-| Sobre o Falso Comunismo de Khrushchev e Suas Lições Históricas para o Mundo | 1964 - jul  |  | [🔗](https://www.marxists.org/portugues/mao/1964/07/14.htm) |
+| Sobre o Falso Comunismo de Khrushchev e Suas Lições Históricas para o Mundo | 1964 - jul  | [📁](Sobre_o_Falso_Comunismo_de_Khrushchev_e_Suas_Lies_Histricas_Para_o_Mundo/) | [🔗](https://www.marxists.org/portugues/mao/1964/07/14.htm) |
 | Conversa do Presidente Mao Tsé-Tung com um Grupo de Delegados na Conferência de Paz | 1964 - ago |  | [🔗](https://www.marxists.org/portugues/mao/1964/08/22.htm) |
 | Sobre a Educação | 1964  |  | [🔗](https://www.marxists.org/portugues/mao/1964/mes/educa.htm) |
 | Citações do Presidente Mao Tsetung | 1966 | [📁](citacoes/) | [🔗](https://www.marxists.org/portugues/mao/1966/citas/index.htm) |
