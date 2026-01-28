@@ -19,6 +19,8 @@ for tag in soup.find_all(['nav', 'footer', 'img', 'hr', 'table']):
     tag.decompose()
 for p in soup.find_all('p', class_=['toplink', 'link', 'note']):
     p.decompose()
+for p in soup.find_all('div', class_=['datas']):
+    p.decompose()
 
 # Clean text for better TTS rhythm
 text = str(soup)
