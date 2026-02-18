@@ -1,0 +1,252 @@
+|SOUND:intro.wav|
+|PAUSE:0.3|
+Bem-vindos ao podcast Na Boca do Sol.
+
+O podcast Na Boca do Sol visa divulgar a imortal ciência do proletariado, o marxismo.
+De forma gratuíta e livre como material de estudo para qualquer pessoa que se interessa pelo tema.
+Aqui vamos realizar a leitura de textos marxistas de vários autores, lugares e épocas.
+
+Eu me chamo Alex, sou uma voz sintetizada por inteligência artificial que conduzirá esse episódio.
+Todos os textos lidos aqui são de domínio público disponibilizados pela biblioteca internacional chamada Marxists Internet Archive, M I A.
+O código utilizado para gerar este podcast é aberto e está disponível no GitHub.
+Nos siga no Instagram em arroba na boca do sol podcast.
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+No episódio de hoje vamos apresentar o texto: O Estado e a Revolução.
+|PAUSE:0.3|
+Capítulo III. A Experiência da Comuna de Paris de 1871. A Análise de Marx
+|PAUSE:0.3|
+O número de linhas do texto é de 197.
+
+Ao fim da leitura vamos ler a biografia do autor.
+|PAUSE:0.5|
+Fiquem com o texto de hoje do podcast Na Boca do Sol.
+Bons estudos!
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+O Estado e a Revolução
+
+Vladimir Ilitch Lénine
+
+III. A Experiência da Comuna de Paris de 1871. A Análise de Marx
+
+1. Em Que Consiste o Heroísmo da Tentativa dos Communards^
+
+É sabido que, alguns meses antes da Comuna, no Outono de 1870, Marx preveniu os operários parisienses, provando que a tentativa para derrubar o governo seria uma asneira inspirada pelo desespero^. Mas quando, em Março de 1871, se impôs aos operários a batalha decisiva, e eles a aceitaram, quando a insurreição se tornou um facto, Marx, apesar dos maus presságios, saudou com o maior entusiasmo a revolução proletária. Marx não se obstinou na condenação pedante de um movimento «extemporâneo», como o tristemente célebre renegado russo do marxismo Plekhánov, que em Novembro de 1905 escreveu encorajando a luta dos operários e dos camponeses, mas que, após Dezembro de 1905, gritava à maneira dos liberais: «não se devia ter pegado em armas.»
+
+Marx, porém, não apenas se entusiasmou com o heroísmo dos communards, «que assaltavam o céu», segundo a sua expressão^. No movimento revolucionário das massas, se bem que ele não tivesse atingido o seu fim, via uma experiência histórica com uma importância imensa, um certo passo em frente da revolução proletária mundial, um passo prático mais importante do que centenas de programas e de raciocínios. Analisar esta experiência, tirar dela lições de táctica, rever na base dela a sua teoria — eis como Marx colocou a sua tarefa.
+
+A única «correcção» que Marx julgou necessário fazer no Manifesto Comunista foi feita por ele na base da experiência revolucionária dos communards parisienses.
+
+O último prefácio à nova edição alemã do Manifesto Comunista, assinado por ambos os seus autores, é datado de 24 de Junho de 1872. Neste prefácio os autores, Karl Marx e Friedrich Engels, dizem que o programa do Manifesto Comunista «está hoje, num passo ou noutro, obsoleto».
+
+«... A Comuna, nomeadamente — prosseguem —, forneceu a prova de que “a classe operária não pode limitar-se a tomar conta da máquina de Estado que encontra montada e a pô-la em funcionamento para atingir os seus objectivos próprios”...»
+
+As palavras desta citação postas duas vezes entre aspas foram tiradas pelos autores da obra de Marx “A Guerra Civil em França”.
+
+Assim, Marx e Engels consideravam que uma das lições principais e fundamentais da Comuna de Paris tinha uma importância tão gigantesca que a introduziram como uma correcção essencial ao Manifesto Comunista.
+
+É extraordinariamente característico que precisamente esta correcção essencial tenha sido deturpada pelos oportunistas, e nove décimos, se não noventa e nove centésimos, dos leitores do Manifesto Comunista ignoram certamente o seu sentido. Adiante falaremos pormenorizadamente desta deturpação, num capítulo especialmente consagrado às deturpações. Por agora bastará assinalar que a «compreensão» corrente, vulgar, da famosa máxima de Marx citada por nós consiste em que Marx teria sublinhado aqui a ideia de um desenvolvimento lento, em oposição à conquista do poder, e outras coisas semelhantes.
+
+Na realidade, é exactamente o contrário. A ideia de Marx consiste em que a classe operária deve quebrar, demolir a «máquina de Estado que encontra montada» e não limitar-se simplesmente à sua conquista.
+
+Em 12 de Abril de 1871, isto é, exactamente durante a Comuna, Marx escreveu a Kugelmann:
+
+«Se fores ver o último capítulo do meu 18 de Brumário verificarás que declaro que a próxima tentativa da revolução francesa será não já, como até aqui, passar a maquinaria burocrática e militar de umas mãos para outras mas destruí-la» (sublinhado de Marx; no original está zerbrechen), «e esta é a condição prévia de qualquer verdadeira revolução popular no continente. Esta é também a tentativa dos nossos heróicos camaradas de partido parisienses» (p. 709, Neue Zeit, XX, 1, 1901-1 902). (As cartas de Marx a Kugelmann foram publicadas em russo não menos do que em duas edições, uma das quais sob a minha redacção e com um prefácio meu.)
+
+Nestas palavras: «destruir a maquinaria de Estado burocrática e militar», encerra-se, numa expressão curta, a principal lição do marxismo sobre a questão das tarefas do proletariado relativamente ao Estado na revolução. E precisamente esta lição não só foi absolutamente esquecida mas ainda francamente deturpada pela «interpretação» dominante, kautskiana do marxismo!
+
+Quanto à referência de Marx ao 18 de Brumário, citámos atrás na íntegra a passagem correspondente.
+
+É interessante assinalar especialmente dois lugares no citado raciocínio de Marx. Em primeiro lugar, limita a sua conclusão ao continente. Isto era compreensível em 1871, quando a Inglaterra era ainda um modelo de país puramente capitalista mas sem casta militar e, em grau significativo, sem burocracia. Por isso Marx excluía a Inglaterra, onde a revolução e até a revolução popular parecia, e era então possível, sem a condição prévia da destruição da «máquina de Estado que encontra montada».
+
+Agora, em 1917, na época da primeira grande guerra imperialista, esta limitação de Marx já não é válida. Tanto a Inglaterra como a América, os maiores e os legítimos representantes em todo o mundo da «liberdade» anglo-saxónica no sentido da ausência de casta militar e de burocratismo, escorregaram completamente para o pântano lamacento e sangrento, comum a toda a Europa, das instituições burocrático-militares, que tudo subjugam, que tudo esmagam. Agora, tanto em Inglaterra como na América, «a condição prévia de qualquer verdadeira revolução popular» é a demolição, a destruição da «máquina de Estado que encontra montada» (preparada aí, de 1914 a 1917, até à perfeição «europeia», comum ao imperialismo).
+
+Em segundo lugar, merece uma especial atenção a observação extraordinariamente profunda de Marx de que a destruição da máquina burocrática e militar de Estado é «a condição prévia de qualquer verdadeira revolução popular». Esta noção de revolução «popular» parece estranha na boca de Marx, e os plekhanovistas russos e os mencheviques, esses discípulos de Struve que desejam passar por marxistas, poderiam talvez declarar um «lapso» tal expressão em Marx. Eles reduziram o marxismo a uma deturpação tão miseravelmente liberal que, excepto a antítese: revolução burguesa e revolução proletária, nada existe para eles, e mesmo esta antítese é compreendida por eles de uma maneira extremamente morta.
+
+Se tomarmos como exemplo as revoluções do século XX, teremos naturalmente que reconhecer que as revoluções portuguesa e turca são burguesas. Mas nem uma nem outra é «popular», pois a massa do povo, a sua imensa maioria, não intervém de uma forma visível, activa, autónoma, com as suas reivindicações económicas e políticas próprias, nem numa nem noutra destas revoluções. Pelo contrário, a revolução burguesa russa de 1905-1907, embora nela não tenha havido êxitos tão «brilhantes» como por vezes aconteceu nas revoluções portuguesa e turca, foi, indubitavelmente, uma revolução «verdadeiramente popular», porque a massa do povo, a sua maioria, as «camadas inferiores» mais profundas da sociedade, esmagadas pelo jugo e pela exploração, levantaram-se autonomamente, e deixaram em todo o curso da revolução a marca das suas reivindicações, das suas tentativas para construir à sua maneira uma sociedade nova no lugar da antiga, em destruição.
+
+Na Europa de 1871, o proletariado não constituía a maioria do povo em nenhum país do continente. A revolução «popular» que arrasta verdadeiramente a maioria para o movimento só podia ser popular englobando tanto o proletariado como o campesinato. Ambas as classes constituíam então o «povo». Ambas as classes estão unidas porque a «máquina de Estado burocrática e militar» as oprime, as esmaga, as explora. Quebrar esta máquina, demoli-la — tal é verdadeiramente o interesse do «povo», da sua maioria, dos operários e da maioria dos camponeses, tal é a "condição prévia» da livre aliança dos camponeses pobres e dos proletários, e sem tal aliança a democracia é instável e a transformação socialista é impossível.
+
+Era para esta aliança que, como é sabido, a Comuna de Paris abria caminho, não atingindo os fins devido a uma série de razões de carácter interno e externo.
+
+Consequentemente, ao falar de uma «verdadeira revolução popular», Marx, sem esquecer de modo nenhum as particularidades da pequena burguesia (delas falou muito e frequentemente), tinha em conta, com o maior rigor, a efectiva correlação das classes na maioria dos Estados continentais da Europa em 1871. E, por outro lado, ele constatava que «quebrar» a máquina de Estado é exigido pelos interesses tanto dos operários como dos camponeses, os une e coloca perante eles a tarefa comum da eliminação do «parasita» e a sua substituição por algo de novo.
+
+Pelo quê precisamente?
+
+2. Pelo Que Substituir a Máquina de Estado Quebrada?
+
+A esta pergunta Marx dava em 1847, no Manifesto Comunista, uma resposta ainda completamente abstracta, ou melhor, uma resposta que indicava as tarefas mas não os meios para as resolver. Substitui-la pela «organização do proletariado como classe dominante», pela «luta pela democracia» — tal era a resposta do Manifesto Comunista.
+
+Sem cair em utopias, Marx esperava da experiência do movimento de massas a resposta à questão de quais as formas concretas que tomaria esta organização do proletariado como classe dominante, de que maneira precisa esta organização se conciliaria com a mais completa e a mais consequente «luta pela democracia».
+
+Marx, na Guerra Civil em França, submete a experiência da Comuna, por mais limitada que tenha sido, à análise mais atenta. Citemos as passagens mais importantes desta obra:
+
+No século XIX desenvolveu-se, vindo da Idade Média, «o poder de Estado centralizado, com os seus órgãos omnipresentes — exército permanente, polícia, burocracia, clero, magistratura». Com o desenvolvimento do antagonismo de classe entre o capital e o trabalho, «o poder de Estado foi adquirindo cada vez mais o carácter de um poder público para reprimir a classe operária, de uma máquina de dominação de classe. Depois de cada revolução que caracteriza um processo da luta de classes, o carácter puramente repressivo do poder de Estado apresenta-se cada vez mais abertamente». O poder de Estado torna-se, depois da revolução de 1848-1849, «o instrumento nacional da guerra do capital contra o trabalho». O segundo Império consolida isto.
+
+«O contrário directo do Império foi a Comuna.» «A Comuna foi a forma determinada» «de uma república que devia eliminar não apenas a forma monárquica da dominação de classe mas a própria dominação de classe...».
+
+Em que consistia precisamente esta forma «determinada» de república proletária, socialista? Qual era o Estado que ela tinha começado a fundar?
+
+«... O primeiro decreto da Comuna foi a supressão do exército permanente e a sua substituição pelo povo armado...»
+
+Esta reivindicação figura agora no programa de todos os partidos que querem chamar-se socialistas. Mas o que valem os seus programas, isso vê-se da melhor maneira pela conduta dos nossos socialistas-revolucionários e mencheviques, que, de facto, recusaram, exactamente depois da revolução de 27 de Fevereiro, a realização desta reivindicação!
+
+«... A Comuna constituiu-se a partir dos conselheiros municipais eleitos por sufrágio universal nas varias circunscrições de Paris. Estes eram responsáveis e amovíveis a cada momento. A sua maioria consistia naturalmente de operários ou de representantes reconhecidos da classe operária...
+
+... A polícia, até aí o instrumento do governo estatal, foi imediatamente privada de todos os seus atributos políticos e transformada no instrumento responsável e amovível a cada momento da Comuna ... Do mesmo modo os funcionários de todos os outros ramos administrativos ... A começar pelos membros da Comuna e daí para baixo, o serviço público tinha de ser exercido mediante um salário operário. Os direitos adquiridos e os dinheiros de representação dos altos dignitários desapareceram com os próprios dignitários... Uma vez eliminados o exército permanente e a polícia, os instrumentos do poder material do velho governo, a Comuna estabeleceu imediatamente como objectivo quebrar o instrumento de repressão espiritual, o poder dos padres ... Os funcionários judiciais perderam aquela aparente independência... daí em diante deviam ser eleitos, responsáveis e amovíveis ...»^
+
+Deste modo, a Comuna substitui aparentemente a máquina de Estado quebrada «apenas» por uma democracia mais completa: supressão do exército permanente, plena elegibilidade e amovibilidade de todos os funcionários públicos. Mas na realidade este «apenas» significa a substituição gigantesca de umas instituições por instituições de tipo fundamentalmente diferente. Aqui observa-se exactamente um dos casos de «transformação da quantidade em qualidade»: a democracia, realizada de modo tão completo e consequente quanto é concebível, converte-se de democracia burguesa em proletária, de Estado ( = força especial para a repressão de uma classe determinada) em qualquer coisa que já não é, para falar propriamente, Estado.
+
+Reprimir a burguesia e a sua resistência continua a ser necessário. Para a Comuna isto foi especialmente necessário, e uma das causas da sua derrota reside em que ela não o fez com suficiente decisão. Mas o órgão de repressão é aqui já a maioria da população e não a minoria, como tinha sido sempre tanto na escravatura, como na servidão, como na escravatura assalariada. E uma vez que é a própria maioria do povo que reprime os seus opressores, já não é necessária uma «força especial» para a repressão! É neste sentido que o Estado começa a extinguir-se. Em vez de instituições especiais de uma minoria privilegiada (funcionalismo privilegiado, comando do exército permanente), a própria maioria pode realizar directamente isto, e, quanto mais a própria realização das funções do poder de Estado se tornar de todo o povo, menos necessário se torna esse poder.
+
+A este respeito é particularmente notável uma medida da Comuna sublinhada por Marx: abolição de todos os dinheiros de representação, de todos os privilégios pecuniários dos funcionários, redução dos vencimentos de todos os funcionários do Estado ao nível do «salário operário». É aqui exactamente que se manifesta de modo mais evidente a viragem da democracia burguesa para a democracia proletária, da democracia dos opressores para a democracia das classes oprimidas, do Estado como «força especial» para a repressão de uma classe determinada, para a repressão dos opressores pela força geral da maioria do povo, dos operários e dos camponeses. E é precisamente sobre este ponto, particularmente evidente e talvez o mais importante no que respeita à questão do Estado, que as lições de Marx são mais esquecidas! Os comentários populares — são inumeráveis — não falam disto. «É costume» silenciar isto como uma «ingenuidade» que fez a sua época — à maneira dos cristãos que
+, tendo chegado à situação de religião de Estado, «esqueceram» as «ingenuidades» do cristianismo primitivo com o seu espírito democrático revolucionário.
+
+A redução da remuneração dos altos funcionários do Estado parece «simplesmente» uma reivindicação de um democratismo ingénuo, primitivo. Um dos «fundadores» do oportunismo moderno, o ex-social-democrata Ed. Bernstein, exercitou-se mais de uma vez a repetir os gracejos burgueses vulgares sobre o democratismo «primitivo». Como todos os oportunistas, como os kautskianos actuais, não compreendeu de modo nenhum que, em primeiro lugar, é impossível a transição do capitalismo para o socialismo sem um certo «regresso» ao democratismo «primitivo» (pois como passar de outro modo para a realização das funções do Estado pela maioria da popula-ção e por toda a população sem excepção?), e, em segundo lugar, que o «democratismo primitive» na base do capitalismo e da cultura capitalista não é o democratismo primitivo dos tempos antigos ou pré-capitalistas. A cultura capitalista criou a grande produção, as fábricas, os caminhos-de-ferro, os correios, os telefones, etc. E, nesta base,
+a imensa maioria das funções do velho «poder de Estado» simplificou-se de tal maneira, e pode ser reduzida a operações de registo, de inscrição, de controlo tão simples, que estas funções estão completamente ao alcance de qualquer pessoa alfabetizada, que estas funções podem perfeitamente ser realizadas pelo habitual «salário operário», que se pode (e se deve) tirar a estas funções qualquer sombra de privilégio, de «hierarquia».
+
+A elegibilidade completa, a amovibilidade a cada momento de todos os funcionários públicos sem excepção, a redução dos seus vencimentos ao habitual «salário operário», estas medidas democráticas simples e «compreensíveis por si mesmas», unindo completamente os interesses dos operários e da maioria dos camponeses, servem ao mesmo tempo de ponte que conduz do capitalismo para o socialismo. Estas medidas dizem respeito à reorganização estatal, puramente política da sociedade, mas só adquirem, naturalmente, todo o seu sentido e importância em ligação com a realização ou a preparação da «expropriação dos expropriadores», isto é, com a transformação da propriedade privada capitalista dos meios de produção em propriedade social.
+
+«A Comuna — escrevia Marx — fez da palavra de ordem de todas as revoluções burguesas, governo barato, uma verdade ao suprimir as duas maiores fontes de despesas, o exército e o funcionalismo.»
+
+Do campesinato, assim como de outras camadas da pequena burguesia, apenas uma insignificante minoria «sobe», «se torna alguém» no sentido burguês, isto é, se converte ou em pessoas abastadas, em burgueses, ou em funcionários privilegiados e com uma posição garantida. A imensa maioria do campesinato, em qualquer país capitalista em que exista campesinato (e estes países capitalistas são a maioria), é oprimida pelo governo e aspira a derrubá-lo, aspira a um governo «barato». Só o proletariado pode realizar isto, e, ao realizá-lo, dá ao mesmo tempo um passo para a reorganização socialista do Estado.
+
+3. A Supressão do Parlamentarismo
+
+«A Comuna — escrevia Marx — devia ser não um corpo parlamentar mas um corpo de trabalho, executivo e legislativo ao mesmo tempo ...
+
+... Em vez de decidir, de três em três anos ou de seis em seis, que membro da classe dominante havia de representar e reprimir o povo no parlamento, o sufrágio universal devia servir ao povo constituído em Comunas como o voto individual serve a todos os outros patrões para escolherem operários, capatazes e contabilistas no seu negócio.»
+
+Esta notável crítica do parlamentarismo, feita em 1871, também pertence agora, gracas a dominação do social-chauvinismo e do oportunismo, ao número das «palavras esquecidas» do marxismo. Os ministros e os parlamentares de profissão, os traidores do proletariado e os socialistas «interesseiros» dos nossos dias deixaram inteiramente aos anarquistas a crítica do parlamentarismo e, nesta base espantosamente razoável, declararam «anarquista» toda a crítica ao parlamentarismo!! Não é de admirar que o proletariado dos países parlamentares «avançados», sentindo repugnância ao ver «socialistas» tais como os Scheidemann, David, Legien, Sembat, Renaudel, Henderson, Vandervelde, Stauning, Branting, Bissolati e Cª, tenha cada vez mais concedido as suas simpatias ao anarco-sindicalismo, embora este seja irmão gémeo do oportunismo.
+
+Mas, para Marx, a dialéctica revolucionária nunca foi esta frase oca na moda, esta roca de criança que dela fizeram Plekhánov, Kautsky e outros. Marx soube romper impiedosamente com o anarquismo devido à sua incapacidade para utilizar mesmo a «pocilga» do parlamentarismo burguês, sobretudo quando manifestamente não há uma situação revolucionária; mas soube também, ao mesmo tempo, fazer uma crítica verdadeiramente proletária e revolucionária do parlamentarismo.
+
+Decidir uma vez em cada certo número de anos que membro da classe dominante reprimirá, esmagará o povo no parlamento, eis onde está a verdadeira essência do parlamentarismo burguês, não só nas monarquias constitucionais parlamentares mas também nas repúblicas mais democráticas.
+
+Mas, se se põe a questão do Estado, se se considera o parlamentarismo como uma das instituições do Estado, do ponto de vista das tarefas do proletariado neste domínio, qual é pois o meio de sair do parlamentarismo? como se pode passar sem ele?
+
+Somos forçados a dizer uma e outra vez: as lições de Marx, baseadas no estudo da Comuna, estão tão esquecidas que, para o «social-democrata» contemporâneo (lede: o traidor contemporâneo do socialismo), é simplesmente incompreensível outra crítica do parlamentarismo que não seja a crítica anarquista ou reaccionária.
+
+O meio para sair do parlamentarismo, naturalmente, não consiste na supressão das instituições representativas e da elegibilidade, mas na transformação das instituições representativas de lugares de charlatanice em instituições «de trabalho». «A Comuna devia ser não um corpo parlamentar mas um corpo de trabalho, executivo e legislativo ao mesmo tempo.»
+
+Uma instituição «não parlamentar mas de trabalho», isto atinge directamente os parlamentares contemporâneos e os «cãezinhos de colo» parlamentares da social-democracia! Olhai para qualquer país parlamentar, da América à Suíça, da França à Inglaterra, à Noruega, etc.: o verdadeiro trabalho «de Estado» faz-se nos bastidores, é executado pelos departamentos, pelas chancelarias, pelos estados-maiores. Nos parlamentos apenas se palra, com a finalidade especial de enganar a «gente simples». Isto é tão verdade que, mesmo na república russa, república democrático-burguesa, todos estes vícios do parlamentarismo se manifestaram imediatamente, mesmo antes de ter tido tempo para constituir um verdadeiro parlamento. Heróis do filistinismo apodrecido como os Skobelev e os Tseretéli, os Tchernov e os Avxentiev conseguiram apodrecer mesmo os Sovietes segundo o modelo do mais ignóbil parlamentarismo burguês, convertendo-os em ocos lugares de charlatanice. Nos Sovietes, os senhores ministros
+«socialistas» enganam os mujiques crédulos com fraseologia e resoluções. No governo decorre uma dança permanente, por um lado, para fazer sentar à vez à volta do «tacho», dos lugarzinhos lucrativos e honrosos, o maior número possível de socialistas-revolucionários e de mencheviques, por outro lado, para «distrair a atenção» do povo. E nas chancelarias, nos estados-maiores, «faz-se» o trabalho «de Estado»!
+
+O Delo Naroda, órgão do partido dirigente dos «socialistas-revolucionários», confessava recentemente num editorial, com a incomparável franqueza das pessoas da «boa sociedade», onde «todos» exercem a prostituição política, que mesmo nos ministérios pertencentes aos «socialistas» (desculpai a expressão), que mesmo neles todo o aparelho burocrático permanece no fundo o antigo, funciona à antiga e sabota com completa «liberdade» as iniciativas revolucionárias! Mas, mesmo que não existisse esta confissão, será que a história real da participação dos socialistas-revo-lucionários e dos mencheviques no governo não o demonstra? O que é aqui característico é apenas que, encontrando-se no ministério juntamente com os democratas-constitucionalistas, os senhores Tchernov, Russanov, Zenzinov e outros redactores do Delo Naroda percam tanto a vergonha que não se coíbam de contar em público como uma ninharia, sem corar, que «entre eles», nos minis-térios, tudo continua à antiga!! Fra
+se democrática revolucionária para enganar o tonto da aldeia e a morosidade burocrática para «agradar» aos capitalistas: eis a essência da «honesta» coligação.
+
+A Comuna substitui o parlamentarismo venal e apodrecido da sociedade burguesa por instituições onde a liberdade de opinião e de discussão não degenera em engano, porque os próprios parlamentares têm de trabalhar, executar eles próprios as suas leis, comprovar eles próprios o que se consegue na vida, responder eles próprios directamente perante os seus eleitores. As instituições representativas permanecem, mas o parlamentarismo como sistema especial, como divisão do trabalho legislativo e executivo, como situação privilegiada para os deputados, não existe aqui. Não podemos conceber uma democracia, mesmo uma democracia proletária, sem instituições representativas, mas podemos e devemos concebê-la sem parlamentarismo, se a crítica da sociedade burguesa não é para nós uma palavra oca, se a aspiração a derrubar a dominação da burguesia é a nossa aspiração séria e sincera e não uma frase «eleitoral» destinada a captar os votos dos operários, como para os mencheviques e os socia
+listas-revolucionários, como para os Scheidemann e os Legien, os Sembat e os Vandervelde.
+
+É extremamente instrutivo que, ao falar das funções daquele funcionalismo de que tanto a Comuna como a democracia proletária precisam, Marx tome para comparação os empregados de «todos os outros patrões», isto é, uma empresa capitalista vulgar com «operários, capatazes e contabilistas».
+
+Em Marx não existe um grão de utopismo, no sentido de ter inventado, imaginado, uma sociedade «nova». Não, ele estuda, como um processo de história natural, o nascimento da nova sociedade a partir da velha, as formas de passagem da segunda para a primeira. Toma a experiência real do movimento proletário de massas e esforça-se por tirar dela lições práticas. «Aprende» com a Comuna, como todos os grandes pensadores revolucionários não recearam aprender com a experiência dos grandes movimentos da classe oprimida, nunca se referindo a eles com «sermões» pedantes (à semelhança do «não se devia ter pegado em armas» de Plekhánov, ou o «uma classe deve auto-refrear-se» de Tseretéli).
+
+Não se trata de suprimir de uma só vez, em todo o lado, até ao fim, o funcionalismo. Isso é uma utopia. Mas quebrar de uma só vez a velha máquina burocrática e começar imediatamente a construir uma nova, que permita gradualmente acabar com todo o funcionalismo, isto não é utopia, isto é a experiência da Comuna, isto é a tarefa imediata, directa, do proletariado revolucionário.
+
+O capitalismo simplifica as funções da administração «estatal», permite pôr de parte a «hierarquização» e reduzir tudo a uma organização de proletários (como classe dominante) que contrata, em nome de toda a sociedade, «operários, capatazes e contabilistas».
+
+Não somos utopistas. Não «sonhamos» com dispensar imediatamente toda a administração, toda a subordinação; estes sonhos anarquistas, baseados na incompreensão das tarefas da ditadura do proletariado, são fundamentalmente estranhos ao marxismo e só servem na realidade para protelar a revolução socialista até ao momento em que os homens sejam diferentes. Não, nós queremos a revolução socialista com homens como os de agora, que não poderão passar sem subordinação, sem controlo, sem «capatazes e contabilistas».
+
+Mas é ao proletariado, vanguarda armada de todos os explorados e trabalhadores, que é preciso subordinar-se. Podemos e devemos, desde já, de hoje para amanhã, começar a substituir a «hierarquização» específica dos funcionários do Estado pelas simples funções dos «capatazes e contabilistas», funções que, já hoje, estão completamente ao alcance do nível de desenvolvimento dos citadinos em geral e que podem ser perfeitamente executadas mediante o «salário operário».
+
+Organizaremos a grande produção partindo do que já foi criado pelo capitalismo, nós próprios, os operários, apoiando-nos na nossa experiência operária, criando uma disciplina rigorosíssima, de ferro, apoiada pelo poder de Estado dos operários armados, reduziremos os funcionários públicos ao papel de simples executantes das nossas directivas, de «capatazes e contabilistas» (naturalmente com técnicos de todos os géneros e níveis) responsáveis, amovíveis e modestamente pagos — eis a nossa tarefa proletária, eis por onde podemos e devemos começar na realização da revolução proletária. Tal começo, na base da grande produção, conduz por si mesmo à «extinção» gradual de todo o funcionalismo, ao estabelecimento gradual de uma ordem — ordem sem aspas, ordem sem semelhança nenhuma com a escravatura assalariada — uma ordem em que as funções de fiscalização e de contabilidade, cada vez mais simplificadas, serão desempenhadas por todos, por turnos, tornar-se-ão depois um
+hábito e finalmente tornar-se-ão caducas como funções especiais de uma categoria especial de indivíduos.
+
+Um espirituoso social-democrata alemão dos anos 70 do século passado chamou aos correios um modelo de empresa socialista. Isto é muito justo. Os correios são agora uma empresa organizada segundo o tipo do monopólio capitalista de Estado. O imperialismo transforma progressivamente todos os trusts em organizações de tipo semelhante. Acima dos «simples» trabalhadores, que estão sobrecarregados de trabalho e que passam fome, encontra-se aqui exactamente a mesma burocracia burguesa. Mas o mecanismo de gestão social aqui já está pronto. Derrubar os capitalistas, quebrar a resistência destes exploradores com a mão de ferro dos operários armados e demolir a máquina burocrática do Estado contemporâneo — e temos diante de nós um mecanismo de elevado equipamento técnico, liberto do «parasita» e que os próprios operários unidos podem perfeitamente pôr a funcionar contratando técnicos, capatazes, contabilistas, pagando o trabalho de todos eles, assim como o de todos os funcionários do
+«Estado» em geral, com um salário de operário. Tal é a tarefa concreta, prática, imediatamente realizável em relação a todos os trusts, e que liberta os trabalhadores da exploração, tendo em conta a experiência já começada na prática (especialmente no domínio da construção do Estado) pela Comuna.
+
+Toda a economia nacional organizada como os correios, de forma que os técnicos, os capatazes, os contabilistas, como todos os funcionários públicos, recebam um vencimento que não exceda um «salário operário», sob o controlo e a direcção do proletariado armado — eis o nosso fim imediato. Eis de que Estado, eis de que base económica temos necessidade. Eis o que trarão a supressão do parlamentarismo e a manutenção das instituições representativas — eis o que libertará as classes trabalhadoras da prostituição destas instituições pela burguesia.
+
+4. A Organização da Unidade da Nação
+
+«... Num breve esboço da organização nacional, que a Comuna não teve tempo para elaborar mais desenvolvidamente, diz-se expressamente que a Comuna devia ser... a forma política mesmo da aldeia mais pequena...» Pelas Comunas devia também ser eleita a «Delegação Nacional» em Paris.
+
+«... As poucas mas importantes funções que depois ainda restavam a um governo central não deviam ser abolidas, como deliberadamente se falsificou, mas entregues a funcionários comunais, isto é, rigorosamente responsáveis...
+
+... A unidade da nação não devia ser quebrada, mas, pelo contrário, organizada pela Constituição Comunal; devia tornar-se uma realidade por meio da destruição daquele poder de Estado que se fazia passar pela encarnação desta unidade, mas que queria ser independente e superior face à nação, junto de cujos corpos ele era de facto apenas uma excrescência parasitária... Enquanto houvesse que amputar os órgãos meramente repressivos do velho poder governamental, as suas funções justificadas deviam ser despidas de um poder que reivindicava estar acima da sociedade e devolvidas aos servidores responsáveis da sociedade.»
+
+Até que ponto os oportunistas da social-democracia contemporânea não compreenderam — seria talvez mais certo dizer: não quiseram compreender — estes raciocínios de Marx, é o que mostra da melhor maneira o livro, famoso à maneira de Heróstrato, As Premissas do Socialismo e as Tarefas da Social-Democracia, do renegado Bernstein. Precisamente a propósito das palavras citadas de Marx, Bernstein escrevia que este programa, «pelo seu conteúdo político, revela, em todos os traços essenciais, a maior semelhança com o federalismo — de Proudhon ... Apesar de todas as outras divergências entre Marx e o “pequeno-burguês” Proudhon (Bernstein coloca a palavra “pequeno-burguês” entre aspas, as quais deviam ser, na opinião dele, irónicas), nestes pontos o curso do seu pensamento é tão próximo quanto possível». Naturalmente, prossegue Bernstein, a importância das municipalidades cresce, mas «parece-me duvidoso que a primeira tarefa da democracia seja esta abolição (Auflosung — lite
+ralmente: dissolução, decomposição) dos Estados contemporâneos e esta mudança completa (Umwandlung — transformação) da sua organização como a imaginam Marx e Proudhon — formação de uma assembleia nacional, de delegados das assembleias provinciais ou regionais, as quais, por seu turno, seriam compostas por delegados das comunas — de maneira que toda a forma anterior das representações nacionais desapareceria completamente» (Bernstein, As Premissas, pp. 134 e 136 da edição alemã de 1899).
+
+Isto é simplesmente monstruoso: confundir as concepções de Marx sobre a «supressão do poder de Estado-parasita» com o federalismo de Proudhon! Mas isto não é casual, pois não vem sequer à ideia do oportunista que Marx não fala aqui de modo nenhum do federalismo em oposição ao centralismo, mas de quebrar a velha máquina de Estado burguesa existente em todos os países burgueses.
+
+Só vem à ideia do oportunista aquilo que vê à sua volta, no meio de filistinismo pequeno-burguês e de estagnação «reformista», a saber: unicamente as «municipalidades»! Quanto à revolução do proletariado, o oportunista até desaprendeu de pensar nela!
+
+Isto é ridículo. Mas é de notar que neste ponto não se tenha discutido com Bernstein. Muitos refutaram Bernstein — especialmente Plekhánov na literatura russa, Kautsky na europeia, mas nem um nem outro disseram alguma coisa acerca desta deturpação de Marx por Bernstein.
+
+O oportunista desaprendeu tão bem de pensar revolucionariamente e de reflectir acerca da revolução que atribui «federalismo» a Marx, confundindo-o com o fundador do anarquismo, Proudhon. E Kautsky, e Plekhanov, que querem ser marxistas ortodoxos, defender a doutrina do marxismo revolucionário, calam-se acerca disto! Aqui reside uma das raízes desta extrema vulgarização das concepções sobre a diferença entre o marxismo e o anarquismo, que é característica tanto dos kautskianos como dos oportunistas, e de que ainda teremos que falar.
+
+Nos citados raciocínios de Marx acerca da experiência da Comuna não há nenhum vestígio de federalismo. Marx coincide com Proudhon exactamente acerca de uma coisa que o oportunista Bernstein não vê. Marx diverge de Proudhon acerca de uma coisa na qual Bernstein vê a sua coincidência.
+
+Marx coincide com Proudhon em que ambos defendem que se deve «quebrar» a máquina de Estado actual. Esta coincidência do marxismo com o anarquismo (tanto com Proudhon como com Bakúnine), nem os oportunistas, nem os kautskianos querem vê-la porque se afastaram do marxismo neste ponto.
+
+Marx diverge quer de Proudhon quer de Bakúnine na questão do federalismo (não falando já da ditadura do proletariado). O federalismo é uma derivação de princípio das concepções pequeno-burguesas do anarquismo. Marx é centralista. E nos raciocínios que citamos dele não existe o menor desvio do centralismo. Só as pessoas cheias de uma filistina «fé supersticiosa» no Estado podem tomar a supressão da máquina de Estado burguesa pela supressão do centralismo!
+
+Pois, se o proletariado e o campesinato pobre tomarem nas mãos o poder de Estado, se se organizarem com toda a liberdade em comunas e unirem a acção de todas as comunas para os ataques contra o capital, para destruir a resistência dos capitalistas, para restituir a toda a nação, a toda a sociedade, a propriedade privada dos caminhos-de-ferro, das fábricas, da terra, etc., não será isto centralismo? não será isto o centralismo democrático mais consequente? e, além disso, centralismo proletário?
+
+A Bernstein simplesmente não pode entrar na cabeça que é possível um centralismo voluntário, uma união voluntária das comunas na nação, uma fusão voluntária das comunas proletárias com o fim de destruir a dominação burguesa e a máquina de Estado burguesa. Como todo o filisteu, Bernstein imagina o centralismo como uma coisa que só pode ser imposta e mantida de cima, apenas por meio do funcionalismo e da casta militar.
+
+Marx sublinha intencionalmente, como que prevendo a possibilidade da deturpação das suas concepções, que constituem uma falsificação consciente as acusações à Comuna de que ela queria suprimir a unidade da nação, abolir o poder central. Marx emprega intencionalmente a expressão «organizar a unidade da nação» para contrapôr o centralismo consciente, democrático, proletário, ao burguês, militar, burocrático.
+
+Mas... não há pior surdo do que aquele que não quer ouvir. E os oportunistas da social-democracia actual não querem precisamente ouvir falar de suprimir o poder de Estado, de amputar o parasita.
+
+5. A Supressão do Estado Parasita
+
+Já citámos as correspondentes palavras de Marx e devemos completá-las.
+
+«... O destino habitual de novas criações históricas — escrevia Marx — é serem confundidas com contrapartidas de formas mais antigas e mesmo já caducas da vida social, às quais em certa medida se assemelham. Assim, esta nova Comuna, a qual quebra (bricht) o Estado moderno, tem sido vista como uma revivescência das comunas medievais ..., uma liga de pequenos Estados como Montesquieu e os girondinos^ a sonharam ..., como uma forma exagerada da velha luta contra a super-centralização ...
+
+... A Constituição comunal teria, pelo contrário, devolvido ao corpo social todas as forças até aqui devoradas pelo “Estado” excrescência parasitária, o qual se alimenta da sociedade e tolhe o livre movimento desta. Só por esta acção ela teria posto em movimento o renascimento da França...
+
+... Na realidade, porém, a Constituição Comunal teria colocado os produtores rurais sob a direcção espiritual das capitais distritais, e ter-lhes-ia assegurado nestas, nos operários urbanos, os defensores naturais dos seus interesses. A simples existência da Comuna implicava, como é evidente, o autogoverno local, mas agora já não como um contrapeso contra o poder estatal já tornado supérfluo.»
+
+«Supressão do poder de Estado», que era uma «excrescência parasitária», a sua «amputação», a sua «destruição», «o poder de Estado já tornado supérfluo» — eis em que termos Marx falava do Estado, avaliando e analisando a experiência da Comuna.
+
+Tudo isto foi escrito há um pouco menos de meio século, e agora é preciso realizar verdadeiras escavações para levar ao conhecimento das amplas massas um marxismo não deturpado. As conclusões tiradas da observação da última grande revolução que Marx viveu foram esquecidas exactamente quando chegava a época das seguintes grandes revoluções do proletariado.
+
+«... A multiplicidade das interpretações a que a Comuna foi submetida e a multiplicidade dos interesses que nela se viram expressos provam que ela era uma forma política integralmente capaz de expansão, ao passo que todas as formas de governo anteriores tinham sido essencialmente repressivas. O seu verdadeiro segredo era este: ela era essencialmente um governo da classe operária, o resultado da luta da classe que produz contra a que apropria, a forma política, finalmente descoberta, na qual se podia realizar a libertação económica do trabalho ...
+
+Sem esta última condição a Constituição Comunal era uma impossibilidade e um engano ...»
+
+Os utopistas dedicaram-se a «descobrir» as formas políticas sob as quais devia ter lugar a reorganização socialista da sociedade. Os anarquistas esquivavam-se completamente à questão das formas políticas. Os oportunistas da social-democracia actual aceitaram as formas políticas burguesas do Estado democrático parlamentar como um limite intransponível e quebraram a cabeça a prosternar-se diante deste «modelo», classificando de anarquismo qualquer aspiração de demolir estas formas.
+
+Marx deduziu de toda a história do socialismo e da luta política que o Estado deverá desaparecer e que a forma transitória do seu desaparecimento (passagem do Estado para o não-Estado) será «o proletariado organizado como classe dominante». Mas Marx não se propunha descobrir as formas políticas deste futuro. Limitou-se a uma observação precisa da história francesa, à sua análise e à conclusão a que o conduziu o ano de 1851: as coisas aproximam-se da destruição da máquina de Estado burguesa.
+
+E quando o movimento revolucionário de massas do proletariado eclodiu, Marx, apesar do fracasso deste movimento, apesar da sua curta duração e da sua fraqueza evidente, entregou-se ao estudo das formas que ele tinha descoberto.
+
+A Comuna é a forma, «finalmente descoberta» pela revolução proletária, na qual se pode realizar a libertação económica do trabalho.
+
+A Comuna é a primeira tentativa da revolução proletária para quebrar a máquina de Estado burguesa e a forma política «finalmente descoberta» pela qual se pode e se deve substituir o que foi quebrado.
+
+Veremos mais adiante na nossa exposição que as revoluções russas de 1905 e de 1917, noutra situação, noutras condições, continuam a obra da Comuna e confirmam a genial análise histórica de Marx.
+
+
+|SOUND:intro.wav|
+|PAUSE:0.3|
+
+Obrigado por sintonizar na Boca do Sol podcast!
+|PAUSE:0.3|
+Convido a todos para conhecer o projeto e especialmente os textos marxistas.
+|PAUSE:0.3|
+A revolução brasileira está em construção por todos nós!
+Venceremos!
+
+|PAUSE:0.5|
+
+Biografia do autor
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Vladimir Ilitch Lênin
+
+   1870-1924
+
+   Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu o partido e os sovietes à tomada de poder na Revolução Russa de 1917. Fundou a Internacional Comunista, identificou o Imperialismo como fase superior do Capitalismo e enfatizou o papel do partido como vanguarda da revolução.
+
+|PAUSE:2.0|
+

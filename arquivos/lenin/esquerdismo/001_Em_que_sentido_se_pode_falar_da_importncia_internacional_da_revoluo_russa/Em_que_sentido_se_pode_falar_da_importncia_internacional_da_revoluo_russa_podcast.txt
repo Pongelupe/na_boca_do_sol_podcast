@@ -1,0 +1,76 @@
+|SOUND:intro.wav|
+|PAUSE:0.3|
+Bem-vindos ao podcast Na Boca do Sol.
+
+O podcast Na Boca do Sol visa divulgar a imortal ciência do proletariado, o marxismo.
+De forma gratuíta e livre como material de estudo para qualquer pessoa que se interessa pelo tema.
+Aqui vamos realizar a leitura de textos marxistas de vários autores, lugares e épocas.
+
+Eu me chamo Alex, sou uma voz sintetizada por inteligência artificial que conduzirá esse episódio.
+Todos os textos lidos aqui são de domínio público disponibilizados pela biblioteca internacional chamada Marxists Internet Archive, M I A.
+O código utilizado para gerar este podcast é aberto e está disponível no GitHub.
+Nos siga no Instagram em arroba na boca do sol podcast.
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+No episódio de hoje vamos apresentar o texto: A Doença Infantil do «Esquerdismo» no Comunismo.
+|PAUSE:0.3|
+Capítulo I. Em que sentido se pode falar da importância internacional da revolução russa?
+|PAUSE:0.3|
+O número de linhas do texto é de 21.
+
+Ao fim da leitura vamos ler a biografia do autor.
+|PAUSE:0.5|
+Fiquem com o texto de hoje do podcast Na Boca do Sol.
+Bons estudos!
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+A Doença Infantil do «Esquerdismo» no Comunismo
+
+Vladimir Ilitch Lénine
+
+I. Em que sentido se pode falar da importância internacional da revolução russa?
+
+Nos primeiros meses depois da conquista pelo proletariado do poder político na Rússia (25.X.-7.XI.1917) poderia parecer que as enormes diferenças entre a Rússia atrasada e os países avançados da Europa Ocidental tornarão a revolução do proletariado nestes últimos muito pouco parecida com a nossa. Agora temos já uma experiência internacional muito considerável, que diz com a mais completa precisão que alguns dos traços fundamentais da nossa revolução têm uma importância não local, não nacional particular, não apenas russa, mas internacional. E não falo aqui da importância internacional no sentido amplo da palavra: não são apenas alguns, mas todos os traços fundamentais e muitos dos secundários da nossa revolução que têm importância internacional no sentido da sua influência sobre todos os países. Não, no sentido mais estrito da palavra, isto é, entendendo por importância internacional o significado internacional ou a inevitabilidade histórica da repetição à escala inte
+rnacional daquilo que aconteceu no nosso país, é preciso reconhecer essa importância a alguns traços fundamentais da nossa revolução.
+
+Naturalmente, seria o maior erro exagerar esta verdade, estendendo-a não só a alguns traços fundamentais da nossa revolução. Seria igualmente errado perder de vista que, depois da vitória da revolução proletária, ainda que apenas num dos países avançados, começará por certo uma mudança brusca, a saber: a Rússia deixará logo depois disto de ser um país modelo, e será outra vez atrasado (no sentido «soviético» e socialista).
+
+Mas no presente momento histórico, trata-se precisamente de que o exemplo russo mostra a todos os países algo de muito essencial do seu futuro inevitável e próximo. Os operários avançados de todos os países já o compreenderam há muito, e frequentemente não tanto compreenderam, como o captaram, o sentiram com o seu instinto de classe revolucionária. Daí a «importância» (no sentido estrito da palavra) internacional do Poder Soviético e também dos fundamentos da teoria e da táctica bolcheviques. Isto não o compreenderam os chefes «revolucionários» da II Internacional, como Kautsky na Alemanha, Otto Bauer e Friedrich Adler na Áustria, que precisamente por isso se tornaram reaccionários, defensores do pior dos oportunismos e da social-traição. Diga-se de passagem que a brochura anónima A Revolução Mundial (Weltrevolution)^, aparecida em 1919 em Viena (Sozialistische Bücherei, Heft 11; Ignaz Brand^), mostra com particular evidência todo o curso do pensamento e todo o ciclo de
+ideias, mais exactamente, todo esse abismo de irreflexão, de pedantismo, de infâmia e de traição aos interesses da classe operária, além disso com o molho da «defesa» da ideia da «revolução mundial».
+
+Mas teremos de deixar para outra vez a análise pormenorizada dessa brochura. Indiquemos aqui apenas mais uma coisa: nos tempos, já bastante distantes, em que Kautsky era ainda marxista e não um renegado, ao abordar a questão como historiador previa a possibilidade do aparecimento de uma situação na qual o espírito revolucionário do proletariado russo se tornaria um modelo para a Europa Ocidental. Isto era em 1902, quando Kautsky escreveu no Iskra^ revolucionário o artigo Os Eslavos e a Revolução. Eis o que ele escrevia nesse artigo:
+
+«Actualmente» (em contraposição a 1848) «pode-se pensar que os eslavos não só entraram nas fileiras dos povos revolucionários, mas também que o centro de gravidade do pensamento revolucionário e da acção revolucionária se desloca cada vez mais para os eslavos. O centro revolucionário desloca-se de Ocidente para Oriente. Na primeira metade do século XIX encontrava-se em França, e, por momentos, na Inglaterra. Em 1848, também a Alemanha entrou para as fileiras das nações revolucionárias... O novo século começa com acontecimentos que sugerem a ideia de que vamos ao encontro de uma nova deslocação do centro revolucionário, a saber: a sua deslocação para a Rússia... A Rússia, que assimilou tanta iniciativa revolucionária do Ocidente, está agora talvez ela própria pronta a servir de fonte de energia revolucionária. O entusiástico movimento revolucionário russo tornar-se-á talvez o meio mais poderoso para sacudir esse espírito de filistinismo flácido e de politiquice ponderada
+que começa a difundir-se nas nossas fileiras e fará surgir de novo a chama da sede de luta e a entrega apaixonada aos nossos grandes ideais. Há já muito que a Rússia deixou de ser para a Europa Ocidental um simples baluarte da reacção e do absolutismo. As coisas são agora, talvez, precisamente ao contrário. A Europa Ocidental converte-se no baluarte da reacção e do absolutismo na Rússia ... Talvez os revolucionários russos tivessem já há muito acabado com o tsar se não tivessem de lutar ao mesmo tempo contra o seu aliado, o capital europeu. Esperemos que desta vez eles consigam acabar com ambos os inimigos e que a nova ‘santa aliança’ se desmorone mais depressa do que as suas predecessoras. Mas seja qual for o resultado da actual luta na Rússia, o sangue e a sorte dos mártires que ela gerará, infelizmente mais do que suficientes, não serão em vão. Eles fecundarão os germes da revolução social em todo o mundo civilizado e fa-los-ão crescer de uma forma mais exuberante e mais
+rápida. Em 1848, os eslavos eram um frio horrível que queimava as flores da Primavera popular. Talvez estejam agora destinados a ser a tempestade que quebra o gelo da reacção e traz consigo irresistivelmente uma nova e feliz Primavera para os povos.» (Karl Kautsky, «Os Eslavos e a Revolução», artigo no Iskra, jornal revolucionário social-democrata russo, 1902, nº 18, 10 de Março de 1902.)
+
+Que bem escrevia Karl Kautsky há 18 anos!
+
+
+|SOUND:intro.wav|
+|PAUSE:0.3|
+
+Obrigado por sintonizar na Boca do Sol podcast!
+|PAUSE:0.3|
+Convido a todos para conhecer o projeto e especialmente os textos marxistas.
+|PAUSE:0.3|
+A revolução brasileira está em construção por todos nós!
+Venceremos!
+
+|PAUSE:0.5|
+
+Biografia do autor
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Vladimir Ilitch Lênin
+
+   1870-1924
+
+   Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu o partido e os sovietes à tomada de poder na Revolução Russa de 1917. Fundou a Internacional Comunista, identificou o Imperialismo como fase superior do Capitalismo e enfatizou o papel do partido como vanguarda da revolução.
+
+|PAUSE:2.0|
+

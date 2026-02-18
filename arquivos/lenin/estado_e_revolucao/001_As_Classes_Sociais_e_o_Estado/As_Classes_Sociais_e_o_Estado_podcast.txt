@@ -1,0 +1,195 @@
+|SOUND:intro.wav|
+|PAUSE:0.3|
+Bem-vindos ao podcast Na Boca do Sol.
+
+O podcast Na Boca do Sol visa divulgar a imortal ciência do proletariado, o marxismo.
+De forma gratuíta e livre como material de estudo para qualquer pessoa que se interessa pelo tema.
+Aqui vamos realizar a leitura de textos marxistas de vários autores, lugares e épocas.
+
+Eu me chamo Alex, sou uma voz sintetizada por inteligência artificial que conduzirá esse episódio.
+Todos os textos lidos aqui são de domínio público disponibilizados pela biblioteca internacional chamada Marxists Internet Archive, M I A.
+O código utilizado para gerar este podcast é aberto e está disponível no GitHub.
+Nos siga no Instagram em arroba na boca do sol podcast.
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+No episódio de hoje vamos apresentar o texto: O Estado e a Revolução.
+|PAUSE:0.3|
+Capítulo I. As Classes Sociais e o Estado
+|PAUSE:0.3|
+O número de linhas do texto é de 140.
+
+Ao fim da leitura vamos ler a biografia do autor.
+|PAUSE:0.5|
+Fiquem com o texto de hoje do podcast Na Boca do Sol.
+Bons estudos!
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+O Estado e a Revolução
+
+Vladimir Ilitch Lénine
+
+I. As Classes Sociais e o Estado
+
+1. O Estado, Produto do Carácter Inconciliável das Contradições de Classe
+
+Com a doutrina de Marx acontece hoje o que aconteceu mais de uma vez na história com as doutrinas dos pensadores revolucionários e dos chefes das classes oprimidas na sua luta pela libertação. As classes opressoras, durante a vida dos grandes revolucionários, retribuíram-nos com incessantes perseguições, acolhiam a sua doutrina com a fúria mais selvagem, com o ódio mais feroz, com as mais furibundas campanhas de mentiras e calúnias. Depois da sua morte tenta-se transformá-los em ícones inofensivos, canonizá-los, por assim dizer, conceder ao seu nome uma certa glória para «consolar» as classes oprimidas e para as enganar, castrando o conteúdo da doutrina revolucionária, embotando o seu gume revolucionário, vulgarizando-o. Neste «arranjo» do marxismo encontram-se agora a burguesia e os oportunistas dentro do movimento operário. Esquece-se, afasta-se, deturpa-se o lado revolucionário da doutrina, a sua alma revolucionária. Coloca-se em primeiro plano, glorifica-se, aquilo que é
+aceitável ou que parece aceitável para a burguesia. Todos os sociais-chauvinistas são hoje «marxistas» — não se riam! E cada vez mais frequentemente os sábios burgueses alemães, ainda ontem especialistas na destruição do marxismo, falam de um Marx «nacional-alemão», que teria educado as associações operárias tão admiravelmente organizadas para a condução da guerra de rapina!
+
+Perante esta situação, perante esta difusão inaudita das deturpações do marxismo, a nossa tarefa consiste, antes de mais, em restabelecer a verdadeira doutrina de Marx sobre o Estado. Para isto é necessário apresentar toda uma série de longas citações das próprias obras de Marx e de Engels. Naturalmente, as longas citações tornarão a exposição pesada e não ajudarão de modo nenhum a dar-lhe um carácter popular. Mas é absolutamente impossível passar sem elas. Todas as passagens, ou pelo menos todas as decisivas, das obras de Marx e de Engels sobre a questão do Estado devem necessariamente ser apresentadas tão completamente quanto possível, a fim de que o leitor possa fazer uma ideia independente do conjunto das concepções dos fundadores do socialismo científico e do desenvolvimento dessas concepções, e também para que a sua deturpação pelo «kautskianismo» hoje dominante seja provada documentalmente e demonstrada claramente.
+
+Comecemos pela obra mais divulgada de Friedrich Engels: A Origem da Família, da Propriedade Privada e do Estado, que foi publicada em Estugarda em 1894 já em sexta edição. Seremos obrigados a traduzir as citações a partir de originais alemães, porque as traduções russas, apesar de muito numerosas, são, na maior parte, ou incompletas ou extremamente insatisfatórias.
+
+«O Estado — diz Engels, fazendo o balanço da sua análise histórica — não é, portanto, de modo nenhum, um poder imposto de fora à sociedade; tão-pouco é “a realidade da ideia moral”, “a imagem e a realidade da razão”, como Hegel afirma. É, isso sim, um produto da sociedade em determinada etapa de desenvolvimento; é a admissão de que esta sociedade se envolveu numa contradição insolúvel consigo mesma, se cindiu em contrários inconciliáveis que ela é impotente para banir. Mas para que estes contrários, classes com interesses económicos em conflito, não se devorem e à sociedade numa luta infrutífera, tornou-se necessário um poder, que aparentemente está acima da sociedade, que abafe o conflito e o mantenha dentro dos limites da “ordem”; e este poder, nascido da sociedade mas que se coloca acima dela, e que cada vez mais se aliena dela, é o Estado» (pp. 177-178 da 6ª edição alemã)^.
+
+Encontra-se aqui expressa com toda a clareza a ideia básica do marxismo sobre a questão do papel histórico e do significado do Estado. O Estado é o produto e a manifestação do carácter inconciliável das contradições de classe. O Estado surge precisamente onde, quando e na medida em que as contradições de classe objectivamente não podem ser conciliadas. E inversamente: a existência do Estado prova que as contradições de classe são inconciliáveis.
+
+É precisamente neste ponto essencial e importantíssimo que começa a deturpação do marxismo, que segue duas linhas principais.
+
+Por um lado, os ideólogos burgueses, e especialmente pequeno-burgueses — obrigados sob a pressão de factos históricos incontestáveis a reconhecer que o Estado existe apenas onde existem contradições de classe e luta de classes —, «corrigem» Marx de tal maneira que o Estado aparece como um órgão de conciliação de classes. Segundo Marx, o Estado não poderia nem surgir nem manter-se se a conciliação de classes fosse possível. Segundo os professores e publicistas pequeno-burgueses e filisteus — frequentemente com referências benevolentes a Marx! — o Estado precisamente concilia as classes. Segundo Marx, o Estado é um órgão de dominação de classe, um órgão de opressão de uma classe por outra, é a criação da «ordem» que legaliza e consolida esta opressão moderando o conflito de classes. Segundo a opinião dos políticos pequeno-burgueses, a ordem é precisamente a conciliação das classes e não a opressão de uma classe por outra; moderar o conflito significa conciliar, e
+não tirar às classes oprimidas determinados meios e processos de luta pelo derrubamento dos opressores.
+
+Por exemplo, todos os socialistas-revolucionários e mencheviques na revolução de 1917, quando a questão do significado e do papel do Estado se pôs precisamente em toda a sua grandeza, se pôs na prática, como uma questão de acção imediata e, além disso, acção de massas — todos caíram imediata e inteiramente na teoria pequeno-burguesa da «conciliação» das classes pelo «Estado». Inúmeras resoluções e artigos de políticos de ambos estes partidos estão completamente impregnados desta teoria pequeno-burguesa e filistina da «conciliação». Que o Estado é o órgão de dominação de uma determinada classe, que não pode ser conciliada com o seu antípoda (com a classe que lhe é oposta), isto a democracia pequeno-burguesa nunca poderá compreender. A atitude em relação ao Estado é uma das provas mais evidentes de que os nossos socialistas-revolucionários e mencheviques não são de modo nenhum socialistas (o que nós, bolcheviques, sempre demonstrámos), mas democratas pequeno-burg
+ueses com uma fraseologia quase-socialista.
+
+Por outro lado, a deturpação «kautskiana» do marxismo é muito mais subtil. «Teoricamente» não se nega nem que o Estado seja um órgão de dominação de classe nem que as contradições de classe sejam inconciliáveis. Mas perde-se de vista ou esbate-se o seguinte: se o Estado é o produto do caracter inconciliável das contradições de classe, se ele é um poder que está acima da sociedade e que «cada vez mais se aliena da sociedade», então é evidente que a emancipação da classe oprimida é impossível não só sem uma revolução violenta mas também sem a destruição do aparelho do poder de Estado que foi criado pela classe dominante e no qual está encarnada esta «alienação». Esta conclusão, teoricamente clara por si mesma, foi tirada por Marx, como veremos mais adiante, com a mais completa precisão, na base da análise histórica concreta das tarefas da revolução. E é precisamente esta conclusão que Kautsky — mostrá-lo-emos em pormenor mais adiante na nossa exposição
+—... «esqueceu» e adulterou.
+
+2. Destacamentos Especiais de Homens Armados, Prisões, etc.
+
+«Face à velha organização gentílica^ (de tribos ou de clãs) — prossegue Engels —, o Estado caracteriza-se em primeiro lugar pela divisão dos cidadãos segundo a região.»
+
+Esta divisão parece-nos «natural», mas exigiu uma longa luta contra a velha organização por gens ou por tribos.
+
+«... A segunda característica é a instituição de um poder público, o qual já não coincide directamente com a população que a si própria se organiza como força armada. Este poder público especial é necessário porque desde a divisão em classes se tornou impossível uma organização armada espontânea da população... este poder público existe em cada Estado; não consiste meramente de homens armados, mas também de apêndices materiais, prisões e instituições de coacção de toda a ordem, das quais a sociedade gentílica (de clãs) nada conheceu...»
+
+Engels desenvolve a noção desta «força» que se chama Estado, força nascida da sociedade, mas que se coloca acima dela e cada vez mais se aliena dela. Em que consiste fundamentalmente esta força? Em destacamentos especiais de homens armados tendo à sua disposição prisões, etc.
+
+Temos o direito de falar de destacamentos especiais de homens armados porque o poder público próprio de qualquer Estado «não coincide directamente» com a população armada, com a sua «organização armada espontânea».
+
+Como todos os grandes pensadores revolucionários, Engels procura chamar a atenção dos operários conscientes precisamente para aquilo que o filistinismo dominante apresenta como o menos digno de atenção, o mais habitual, consagrado por preconceitos não só tenazes mas, pode dizer-se, petrificados. O exército permanente e a polícia são os principais instrumentos da força do poder de Estado, mas — como poderia ser de outra maneira?
+
+Do ponto de vista da imensa maioria dos europeus do final do século XIX, a quem Engels se dirigia e que não tinham vivido nem observado de perto uma única grande revolução, isto não podia ser de outra maneira. Para eles é completamente incompreensível o que é a «organização armada espontânea da população». À questão de por que surgiu a necessidade de destacamentos especiais de homens armados (polícia, exército permanente), colocados acima da sociedade, que se alienam da sociedade, os filisteus europeus ocidentais e russos inclinam-se a responder com um par de frases copiadas de Spencer ou Mikhailovski, com uma referência à complexidade crescente da vida social, à diferenciação das funções, etc.
+
+Tal referência parece «científica» e adormece admiravelmente o filisteu, obscurecendo o principal e fundamental: a divisão da sociedade em classes inconciliavelmente hostis.
+
+Sem esta divisão, a «organização armada espontânea da população» distinguir-se-ia pela sua complexidade, pelo nível elevado da sua técnica, etc., da organização primitiva de um bando de macacos armados de paus, ou da de homens primitivos ou da de homens associados na sociedade de clãs, mas tal organização seria possível.
+
+Ela é impossível porque a sociedade da civilização está dividida em classes hostis e, alem disso, inconciliavelmente hostis, cujo armamento «espontâneo» conduziria a uma luta armada entre elas. Forma-se o Estado; cria-se uma força especial, destacamentos especiais de homens armados, e cada revolução, ao destruir o aparelho de Estado, mostra-nos uma luta de classes descoberta, mostra-nos claramente como a classe dominante se esforça por reconstruir os destacamentos especiais de homens armados que a servem, como a classe oprimida se esforça por criar uma nova organização deste género, capaz de servir não os exploradores, mas os explorados.
+
+No raciocínio citado, Engels coloca em teoria exactamente a mesma questão que qualquer grande revolução coloca na prática, de modo patente e, além disso, à escala da acção de massas, isto é, a questão da inter-relação entre os destacamentos «especiais» de homens armados e a organização armada espontânea da população». Veremos como esta questão é concretamente ilustrada pela experiência das revoluções europeias e russas.
+
+Mas voltemos à exposição de Engels.
+
+Ele indica que, às vezes, em certas regiões da América do Norte, por exemplo, este poder público é fraco (trata-se de uma excepção muito rara na sociedade capitalista e daquelas partes da América do Norte no seu período pré-imperialista em que predominava o colono livre), mas que, falando em geral, se reforça:
+
+«... Ele (o poder público) reforça-se, porém, na medida em que se agudizam os antagonismos de classe no seio do Estado e em que os Estados com fronteiras comuns se tornam maiores e mais populosos — olhemos apenas a nossa Europa de hoje, na qual a luta de classes e a concorrência de conquistas fizeram subir o poder público a um plano em que ele ameaça devorar toda a sociedade e mesmo o Estado ...»
+
+Isto foi escrito não mais tarde do que o começo dos anos 90 do século passado. O último prefácio de Engels tem a data de 16 de Junho de 1891. Então a viragem para o imperialismo — tanto no sentido da dominação completa dos trusts, como no sentido da omnipotência dos maiores bancos, como no sentido de uma grandiosa política colonial, etc. — apenas começava ainda em França, e era ainda mais fraca na América do Norte e na Alemanha. Desde então, a «concorrência de conquistas» deu um gigantesco passo em frente, tanto mais que, no começo do segundo decénio do século XX, o globo terrestre estava definitivamente partilhado entre estes «conquistadores concorrentes», ou seja, as grandes potências saqueadoras. Os armamentos militares e navais cresceram incrivelmente desde então, e a guerra de rapina de 1914-1917 pela dominação sobre o mundo da Inglaterra ou da Alemanha, pela partilha do saque, levou o «devorar» de todas as forças da sociedade pelo poder de Estado rapace até à beira de
+uma catástrofe completa.
+
+Engels soube indicar já em 1891 a «concorrência de conquistas» como um dos principais traços distintivos da política externa das grandes potências, e os canalhas do social-chauvinismo, em 1914-1917, quando precisamente esta concorrência, muitas vezes agravada, gerou a guerra imperialista, encobrem a salvaguarda dos interesses espoliadores da «sua» burguesia com frases sobre a «salvaguarda da pátria», sobre a «defesa da república e da revolução», etc.!
+
+3. O Estado — Instrumento de Exploração da Classe Oprimida
+
+Para manter um poder público especial, colocado acima da sociedade, são necessários impostos e uma dívida pública.
+
+«... Na posse do poder público e do direito de recolher os impostos — escreve Engels —, os funcionários ficam, como órgãos da sociedade, acima da sociedade. O livre respeito voluntário que era devido aos órgãos da constituição gentílica não é bastante para eles, mesmo se o pudessem ter...» Criam-se leis especiais acerca da santidade e imunidade dos funcionários. «O polícia mais miserável ... tem mais “autoridade” do que todos os órgãos da sociedade gentílica juntos; mas o príncipe mais poderoso e o maior estadista ou general da civilização bem podem invejar o mais humilde dirigente gentílico pelo respeito não forçado e incontestado que lhe é devido».
+
+Coloca-se aqui a questão da situação privilegiada dos funcionários como órgãos do poder de Estado. Indica-se como fundamental: o que é que os coloca acima da sociedade? Veremos como esta questão teórica foi resolvida na prática pela Comuna de Paris em 1871, e esbatida de modo reaccionário por Kautsky em 1912.
+
+«...Como o Estado nasceu da necessidade de conter os antagonismos de classe, e como ele, porém, ao mesmo tempo, nasceu no meio do conflito destas classes, ele é, em regra, o Estado da classe mais poderosa, economicamente dominante, a qual por meio dele se torna também a classe politicamente dominante e assim adquire novos meios para a repressão e exploração da classe oprimida.» Não só os Estados antigo e feudal foram os órgãos da exploração dos escravos e dos servos mas também «o moderno Estado parlamentar é instrumento da exploração do trabalho assalariado pelo capital. No entanto, ocorrem excepcionalmente períodos em que as classes em luta se mantém uma à outra tão perto do equilíbrio que o poder de Estado, como mediador aparente, alcança momentaneamente uma certa autonomia face a ambas ...» Assim a monarquia absoluta dos sec. XVII e XVIII, o bonapartismo do primeiro e do segundo impérios em França, Bismarck na Alemanha.
+
+Assim, acrescentaremos nós, o governo de Kérenski na Rússia republicana, depois de passar a perseguir o proletariado revolucionário num momento em que os Sovietes, devido à direcção dos democratas pequeno-burgueses, são já impotentes, e a burguesia não é ainda suficientemente forte para pura e simplesmente os dissolver.
+
+Na república democrática — prossegue Engels — «a riqueza exerce o seu poder indirectamente, mas com tanto mais segurança», a saber: em primeiro lugar, por meio da «corrupção directa dos funcionários» (América), em segundo lugar por meio da «aliança de governo e Bolsa» (França e América).
+
+Actualmente, o imperialismo e a dominação dos bancos «desenvolveram» até uma arte extraordinária ambos estes métodos de defender e pôr em prática a omnipotência da riqueza em quaisquer repúblicas democráticas. Se, por exemplo, logo nos primeiros meses da república democrática na Rússia, poder-se-ia dizer durante a lua-de-mel do casamento dos «socialistas» — dos socialistas-revolucionários e dos mencheviques — com a burguesia no governo de coligação, o Sr. Paltchinski sabotou todas as medidas para domar os capitalistas e o seu banditismo, a sua pilhagem do tesouro por meio dos fornecimentos de guerra, se depois de ter saído do ministério o Sr. Paltchinski (substituído, naturalmente, por um outro Paltchinski, absolutamente igual) foi «premiado» pelos capitalistas com um lugarzinho com um vencimento de 120 000 rublos por ano, então o que é isto? corrupção directa ou indirecta? uma aliança do governo com os consórcios capitalistas, ou «apenas» relações amistosas? Que papel
+desempenham os Tchernov e os Tseretéli, os Avxentiev e os Skobelev? — São aliados «directos» dos milionários dilapidadores dos dinheiros públicos, ou apenas indirectos?
+
+A omnipotência da «riqueza» também está mais segura numa república democrática porque não depende de determinados defeitos do mecanismo político, do mau invólucro político do capitalismo. A república democrática é o melhor invólucro político possível para o capitalismo, e por isso o capital, depois de se ter apoderado (através dos Paltchinski, dos Tchernov, dos Tseretéli e C.ª) deste invólucro, que é o melhor, alicerça o seu poder tão solidamente, tão seguramente, que nenhuma substituição, nem de pessoas, nem de instituições, nem de partidos na república democrática burguesa abala este poder.
+
+É preciso notar ainda que Engels, com completa precisão, chama também ao sufrágio universal instrumento de dominação da burguesia. O sufrágio universal, diz ele, tendo manifestamente em conta a longa experiência da social-democracia alemã, é
+
+«o barómetro da maturidade da classe operária. Mais não pode ser, nem será nunca, no Estado de hoje».
+
+Os democratas pequeno-burgueses semelhantes aos nossos socialistas-revolucionários e mencheviques, bem como os seus irmãos gémeos, todos os sociais-chauvinistas e oportunistas da Europa Ocidental, esperam precisamente «mais» do sufrágio universal. Eles próprios partilham e incutem no povo essa ideia falsa de que o sufrágio universal, «no Estado de hoje», é capaz de revelar realmente a vontade da maioria dos trabalhadores e assegurar que seja posta em prática.
+
+Aqui podemos apenas assinalar esta ideia falsa, apenas indicar que a declaração absolutamente clara, precisa e concreta de Engels é deturpada a cada passo na propaganda e na agitação dos partidos socialistas «oficiais» (isto é, oportunistas). O esclarecimento pormenorizado de toda a falsidade da ideia que Engels repele aqui é dado mais adiante pela nossa exposição das concepções de Marx e de Engels acerca do Estado «de hoje».
+
+O resumo geral das suas concepções, dá-o Engels na sua obra mais popular nas palavras seguintes:
+
+«O Estado não vem, portanto, da eternidade. Houve sociedades que passaram sem ele, que não tinham qualquer noção do Estado e do poder de Estado. Numa determinada etapa do desenvolvimento económico, que esteve necessariamente ligada à cisão da sociedade em classes, o Estado tornou-se, com esta cisão, uma necessidade. Aproximamo-nos agora, a passo rápido, de uma etapa de desenvolvimento da produção em que a existência destas classes não só deixou de ser uma necessidade como se torna um positivo obstáculo à produção. Elas cairão tão inevitavelmente como anteriormente nasceram. Com elas cai inevitavelmente o Estado. A sociedade que de novo organiza a produção sobre a base de uma associação livre e igual dos produtores remete a máquina de Estado inteirinha para onde então há-de ser o lugar dela: para o museu das antiguidades, para junto da roda de fiar e do machado de bronze.»
+
+Não acontece frequentemente encontrar esta citação na literatura de agitação e de propaganda da social-democracia contemporânea. Mas, mesmo quando se encontra esta citação, ela é citada mais frequentemente como se se oficiasse inclinado perante um ícone, isto é, para uma expressão oficial de respeito por Engels, sem qualquer tentativa de reflectir sobre quão ampla e profunda deve ser a envergadura da revolução que implica esse «remeter a máquina de Estado inteirinha para o museu das antiguidades». Na maior parte dos casos, não se vê mesmo a compreensão daquilo a que Engels chamava máquina de Estado.
+
+4. A «Extinção» do Estado e a Revolução Violenta
+
+As palavras de Engels sobre a «extinção» do Estado são tão amplamente conhecidas, são tão frequentemente citadas, mostram com tanto relevo em que consiste a essência da falsificação habitual do marxismo pelo oportunismo, que é necessário determo-nos pormenorizadamente nelas. Citaremos todo o raciocínio de onde são tiradas:
+
+«O proletariado toma o poder de Estado e começa por transformar os meios de produção em propriedade do Estado. Mas, com isto, suprime-se a si próprio como proletariado, com isto suprime todas as diferenças de classes e antagonismos de classes, e com isto também o Estado como Estado. A sociedade anterior, que se movia em antagonismos de classes, precisava do Estado, isto é, de uma organização da respectiva classe exploradora para manutenção das suas condições exteriores de produção, nomeadamente, portanto, para a repressão violenta da classe explorada nas condições de opressão dadas pelo modo de produção vigente (escravidão, servidão feudal, trabalho assalariado). O Estado era o representante oficial de toda a sociedade, a súmula desta num corpo visível, mas era-o apenas na medida em que era o Estado daquela classe que representava ela própria, para o seu tempo, toda a sociedade: na Antiguidade o Estado dos cidadãos proprietários de escravos, na Idade Média da nobreza
+feudal, no nosso tempo da burguesia. Ao tornar-se, por fim, efectivamente, representante de toda a sociedade, a si próprio se torna supérfluo. Assim que deixa de haver uma classe social a manter na opressão, assim que são eliminados, a par do domínio de classe e da luta, fundada na anarquia da produção anteriormente existente, pela existência individual, também as colisões e excessos deles resultantes, já nada mais há a reprimir que torne necessária uma força especial para a repressão, um Estado. O primeiro acto em que o Estado surge realmente como representante de toda a sociedade — a tomada de posse dos meios de produção em nome da sociedade — é, ao mesmo tempo, o seu último acto autónomo como Estado. A intervenção de um poder de Estado em relações sociais torna-se supérflua num domínio após outro, adormecendo, então, por si próprio. Em lugar do governo sobre pessoas surge a administração de coisas e a direcção dos processos de produção. O Estado não é
+“abolido”, extingue-se. Portanto, por aqui se há-de aferir a frase sobre o “Estado livre do povo”, tanto no que toca à sua justificação temporária de agitação como no que toca à sua definitiva insuficiência científica; por aqui, igualmente, se há-de aferir a reivindicação dos chamados anarquistas, segundo a qual o Estado devia ser abolido de hoje para amanhã» (Anti-Dühring, O Senhor Eugen Dühring Revoluciona a Ciência, pp. 301-303 da 3ª ed. Alemã)^.
+
+Pode dizer-se, sem receio de engano, que deste raciocínio de Engels, notável pela riqueza de pensamento, só se tornou verdadeiro património do pensamento socialista nos partidos socialistas contemporâneos que o Estado «se extingue», segundo Marx, diferentemente da doutrina anarquista da «abolição» do Estado. Truncar assim o marxismo significa reduzi-lo ao oportunismo, pois com tal «interpretação» fica apenas a ideia vaga de uma mudança lenta, uniforme, gradual, da ausência de saltos e tempestades, da ausência de revolução. A «extinção» do Estado, na concepção corrente, geralmente divulgada, de massas, se assim se pode dizer, significa indubitavelmente o esbatimento, se não a negação da revolução.
+
+Mas, entretanto, semelhante «interpretação» é a mais grosseira deturpação do marxismo, vantajosa apenas para a burguesia, teoricamente baseada no esquecimento das mais importantes circunstâncias e considerações indicadas, por exemplo, no raciocínio «de resumo» de Engels por nós citado na íntegra.
+
+Primeiro. Logo ao princípio deste raciocínio, Engels diz que o proletariado, ao tomar o poder de Estado, «com isto suprime o Estado como Estado». «Não é costume» pensar no que isto significa. Habitualmente, isto ou é ignorado completamente ou considerado qualquer coisa como uma «fraqueza hegeliana» de Engels. Na realidade, essas palavras exprimem resumidamente a experiência de uma das maiores revoluções proletárias, a experiência da Comuna de Paris de 1871, de que falaremos mais pormenorizadamente no lugar próprio. De facto, Engels fala aqui de «supressão» do Estado da burguesia pela revolução proletária, ao passo que as palavras sobre a «extinção» se referem aos resíduos do Estado proletário, depois da revolução socialista. O Estado burguês, segundo Engels, não «se extingue» mas «é suprimido» pelo proletariado na revolução. O que se extingue depois desta revolução é o Estado proletário, ou um semi-Estado.
+
+Segundo. O Estado é uma «força especial para a repressão». Esta definição admirável e extremamente profunda de Engels é dada por ele aqui com a mais completa clareza. E daí resulta que a «força especial para a repressão» do proletariado pela burguesia, de milhões de trabalhadores por um punhado de ricos, deve ser substituída por uma «força especial para a repressão» da burguesia pelo proletariado (a ditadura do proletariado). É nisso que consiste a «supressão do Estado como Estado». É nisso que consiste o «acto» da tomada de posse dos meios de produção em nome da sociedade. É evidente por si mesmo que uma tal substituição de uma «força especial» (burguesa) por outra «força especial» (proletária) não pode de maneira nenhuma ter lugar sob a forma de «extinção».
+
+Terceiro. Ao falar de «extinção» e, ainda com mais relevo e colorido, de «adormecimento», Engels refere-se de forma absolutamente clara e determinada à época depois «da tomada de posse dos meios de produção pelo Estado em nome de toda a sociedade», isto é, depois da revolução socialista. Todos sabemos que, nesse momento, a forma política do «Estado» é a democracia mais completa. Mas não vem à ideia de nenhum dos oportunistas que deturpam sem vergonha o marxismo que se trata aqui, consequentemente, em Engels, de «adormecimento» e de «extinção» da democracia. Isto parece muito estranho à primeira vista. Mas isto só é «ininteligível» para quem não tenha reflectido no facto de que a democracia é também um Estado e que, consequentemente, a democracia também desaparece quando desaparece o Estado. Só a revolução pode «suprimir» o Estado burguês. O Estado em geral, isto é, a democracia mais completa, apenas pode «extinguir-se».
+
+Quarto. Ao formular a sua famosa tese: «O Estado extingue-se», Engels explica logo, de forma concreta, que esta tese é dirigida tanto contra os oportunistas como contra os anarquistas. Além disso, em Engels está colocada em primeiro lugar a conclusão da tese sobre a «extinção do Estado», que é dirigida contra os oportunistas.
+
+Pode-se apostar que, em 10 000 pessoas que leram ou ouviram qualquer coisa da «extinção» do Estado, 9990 não sabem ou não se lembram em absoluto que Engels não dirigia unicamente contra os anarquistas as suas conclusões. E, das restantes dez pessoas, nove não sabem com certeza o que é o «Estado livre do povo» e porque é que no ataque a esta palavra de ordem está contido o ataque aos oportunistas. Assim se escreve a história! Assim se realiza a adaptação imperceptível da grande doutrina revolucionária ao filistinismo dominante. A conclusão contra os anarquistas foi mil vezes repetida, banalizada, metida na cabeça da maneira mais simplista, adquiriu a solidez de um preconceito. E a conclusão contra os oportunistas foi obscurecida e «esquecida»!
+
+O «Estado livre do povo» era uma reivindicação programática e uma palavra de ordem corrente dos sociais-democratas alemães dos anos 70. Nenhum conteúdo político, excepto uma descrição pequeno-burguesa e enfática do conceito de democracia, existe nesta palavra de ordem. Na medida em que nela se fazia legalmente alusão à república democrática, Engels estava pronto a «justificar» «temporariamente» esta palavra de ordem de um ponto de vista de agitação. Mas era uma palavra de ordem oportunista, porque exprimia não apenas o embelezamento da democracia burguesa mas também a incompreensão da crítica socialista de todo o Estado em geral. Somos pela república democrática como melhor forma de Estado para o proletariado sob o capitalismo, mas não temos o direito de esquecer que a escravatura assalariada é o destino do povo mesmo na república burguesa mais democrática. Mais ainda. Qualquer Estado é uma «força especial para a repressão» da classe oprimida. Por isso, qualquer Estado
+não é livre nem do povo. Isto foi explicado muitas vezes por Marx e Engels aos seus camaradas de partido nos anos 70.^
+
+Quinto. Naquela mesma obra de Engels, da qual todos recordam o raciocínio acerca da extinção do Estado, existe um raciocínio sobre a importância da revolução violenta. A apreciação histórica do seu papel transforma-se em Engels num verdadeiro panegírico da revolução violenta. Disto «ninguém se lembra», não é costume, nos partidos socialistas contemporâneos, falar, nem sequer pensar, na importância desta ideia, estas ideias não desempenham nenhum papel na propaganda e agitação quotidianas entre as massas. E, entretanto, estão indissoluvelmente ligadas à «extinção» do Estado, num todo harmonioso.
+
+Eis o raciocínio de Engels:
+
+«Que a violência, porém, ainda desempenha outro papel na história» (além do de ser agente do mal), «um papel revolucionário, que ela, nas palavras de Marx, é a parteira de toda a velha sociedade que anda grávida com uma nova^, que ela é o instrumento com o qual o movimento social se realiza e quebra formas políticas petrificadas, mortas — sobre isto não há uma palavra do Senhor Dühring. Só com suspiros e gemidos admite a possibilidade de talvez vir a ser necessária a violência para o derrubamento da economia de exploração — infelizmente!, pois todo o uso de violência desmoraliza o que a usa. E isto em face do elevado ascenso moral e espiritual que era a consequência de toda a revolução triunfante! E isto na Alemanha, onde um choque violento, a que o povo pode vir a ser obrigado, teria pelo menos a vantagem de exterminar o servilismo que penetrou na consciência nacional a partir da humilhação da Guerra dos Trinta Anos^. E este modo de pensar de pregador, débil, sem seiva nem
+vigor, reivindica impôr-se ao partido mais revolucionário que a história conhece?» (p. 193 da 3ª ed. alemã, fim do cap. 4, parte II).
+
+Como se pode unir numa mesma doutrina este panegírico da revolução violenta, insistentemente apresentado por Engels aos sociais-democratas alemães de 1878 a 1894, isto é, até à sua própria morte, e a teoria da «extinção» do Estado?
+
+Habitualmente une-se um e outra com a ajuda do eclectismo, tomando arbitrariamente (ou para agradar aos detentores do poder), sem princípios ou de modo sofístico, ora um ora outro argumento, e em 99 casos em 100, se não mais, avança-se para primeiro plano precisamente a «extinção». A dialéctica é substituída pelo eclectismo: este é o fenómeno mais habitual, mais difundido na literatura social-democrata oficial dos nossos dias em relação ao marxismo. Tal substituição, naturalmente, não é uma novidade: observou-se mesmo na história da filosofia grega clássica. Na adaptação do marxismo ao oportunismo, a adaptação da dialéctica ao eclectismo é a que engana as massas com maior facilidade, dá uma satisfação aparente, tem pretensamente em conta todos os aspectos do processo, todas as tendências do desenvolvimento, todas as influências contraditórias, etc., mas, na realidade, não dá nenhuma concepção integral e revolucionária do processo do desenvolvimento social.
+
+Já dissemos acima, e mostraremos mais pormenorizadamente adiante na nossa exposição, que a doutrina de Marx e de Engels sobre a inevitabilidade da revolução violenta diz respeito ao Estado burguês. Ele não pode ser substituído pelo Estado proletário (pela ditadura do proletariado) pela via da «extinção», mas, regra geral, apenas pela revolução violenta. O panegírico que lhe consagra Engels, e que está plenamente de acordo com repetidas declarações de Marx — (recordemos o fim da Miséria da Filosofia e do Manifesto Comunista com a declaração orgulhosa e aberta da inevitabilidade da revolução violenta; recordemos a crítica do programa de Gotha^ de 1875, quase trinta anos depois, em que Marx flagela implacavelmente o oportunismo deste programa) — este panegírico não é de modo nenhum uma «paixão», não é de modo nenhum uma declamação nem uma tirada polémica. A necessidade de educar sistematicamente as massas nesta e precisamente nesta concepção da revolução violenta
+está na base de toda a doutrina de Marx e de Engels. A traição à sua doutrina pelas correntes social-chauvinista e kautskiana hoje dominantes exprime-se com especial relevo no esquecimento tanto por uns como por outros desta propaganda, desta agitação.
+
+A substituição do Estado burguês pelo proletário é impossível sem revolução violenta. A supressão do Estado proletário, isto é, a supressão de todo o Estado, é impossível a não ser pela via da «extinção».
+
+Marx e Engels realizaram um desenvolvimento pormenorizado e concreto destas concepções, estudando cada situação revolucionária particular, analisando as lições da experiência de cada revolução particular. Passemos, pois, a esta parte da sua doutrina, sem dúvida a mais importante.
+
+
+|SOUND:intro.wav|
+|PAUSE:0.3|
+
+Obrigado por sintonizar na Boca do Sol podcast!
+|PAUSE:0.3|
+Convido a todos para conhecer o projeto e especialmente os textos marxistas.
+|PAUSE:0.3|
+A revolução brasileira está em construção por todos nós!
+Venceremos!
+
+|PAUSE:0.5|
+
+Biografia do autor
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Vladimir Ilitch Lênin
+
+   1870-1924
+
+   Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu o partido e os sovietes à tomada de poder na Revolução Russa de 1917. Fundou a Internacional Comunista, identificou o Imperialismo como fase superior do Capitalismo e enfatizou o papel do partido como vanguarda da revolução.
+
+|PAUSE:2.0|
+

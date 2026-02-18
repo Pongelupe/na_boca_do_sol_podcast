@@ -1,0 +1,245 @@
+|SOUND:intro.wav|
+|PAUSE:0.3|
+Bem-vindos ao podcast Na Boca do Sol.
+
+O podcast Na Boca do Sol visa divulgar a imortal ciência do proletariado, o marxismo.
+De forma gratuíta e livre como material de estudo para qualquer pessoa que se interessa pelo tema.
+Aqui vamos realizar a leitura de textos marxistas de vários autores, lugares e épocas.
+
+Eu me chamo Alex, sou uma voz sintetizada por inteligência artificial que conduzirá esse episódio.
+Todos os textos lidos aqui são de domínio público disponibilizados pela biblioteca internacional chamada Marxists Internet Archive, M I A.
+O código utilizado para gerar este podcast é aberto e está disponível no GitHub.
+Nos siga no Instagram em arroba na boca do sol podcast.
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+No episódio de hoje vamos apresentar o texto: O Estado e a Revolução.
+|PAUSE:0.3|
+Capítulo V. As Bases Econômicas da Extinção do Estado
+|PAUSE:0.3|
+O número de linhas do texto é de 190.
+
+Ao fim da leitura vamos ler a biografia do autor.
+|PAUSE:0.5|
+Fiquem com o texto de hoje do podcast Na Boca do Sol.
+Bons estudos!
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+O Estado e a Revolução
+
+Vladimir Ilitch Lénine
+
+V. As Bases Econômicas da Extinção do Estado
+
+A explicação mais pormenorizada desta questão é dada por Marx na sua Crítica ao Programa de Gotha (carta a Bracke, de 5 de Maio de 1875, impressa apenas em 1891 na Neue Zeit, IX, 1, e publicada em russo numa edição separada). A parte polémica desta obra notável, que consiste numa crítica ao lassallianismo, deixou na sombra, por assim dizer, a sua parte afirmativa, a saber: a análise da ligação entre o desenvolvimento do comunismo e a extinção do Estado.
+
+1. A Colocação da Questão por Marx
+
+Numa comparação superficial da carta de Marx a Bracke, de 5 de Maio de 1875, com a carta de Engels a Bebel, de 28 de Março de 1875, atrás examinada, pode parecer que Marx é muito mais «estatista» do que Engels, e que a diferença entre as concepções de ambos os escritores acerca do Estado é muito considerável.
+
+Engels propõe a Bebel que abandone todo o palavreado acerca do Estado, que bana completamente do programa a palavra Estado, substituindo-a pela palavra «comunidade»; Engels declara mesmo que a Comuna já não era um Estado no sentido próprio. Entretanto Marx fala mesmo do «Estado futuro da sociedade comunista», isto é, parece reconhecer a necessidade do Estado mesmo no comunismo.
+
+Mas esta maneira de ver seria radicalmente errada. Um exame mais de perto mostra que as concepções de Marx e de Engels sobre o Estado e a sua extinção coincidem inteiramente e que a expressão citada de Marx se refere precisamente a este Estado em extinção.
+
+É claro que nem se pode falar de determinar o momento desta «extinção» futura, tanto mais que ela representará em si notoriamente um processo prolongado. A diferença aparente entre Marx e Engels explica-se pela diferença dos temas que abordaram e dos objectivos que perseguiam. Engels colocava-se o objectivo de mostrar a Bebel de forma evidente, incisiva, em grandes traços, todo o absurdo dos preconceitos correntes (e partilhados em grande medida por Lassalle) acerca do Estado. Marx apenas de passagem toca esta questão, interessando-se por outro tema: o desenvolvimento da sociedade comunista.
+
+Toda a teoria de Marx é uma ampliação da teoria do desenvolvimento — na sua forma mais consequente, mais completa, mais reflectida e mais rica de conteúdo — ao capitalismo contemporâneo. É natural que a Marx se colocasse a questão da aplicação desta teoria tanto a bancarrota próxima do capitalismo como ao desenvolvimento futuro do comunismo futuro.
+
+Na base de que dados se pode, pois, colocar a questão do desenvolvimento futuro do comunismo futuro?
+
+Na base de que ele provém do capitalismo, se desenvolve historicamente do capitalismo, é o resultado da acção de uma força social que é gerada pelo capitalismo. Não se encontra em Marx nem sombra de tentativa de inventar Utopias, de fazer conjecturas ocas acerca do que não se pode saber. Marx coloca a questão do comunismo como um naturalista colocaria, digamos, a questão do desenvolvimento de uma nova variedade biológica, uma vez que se sabe que ela surgiu desta e desta maneira e se modifica em tal e tal direcção determinada.
+
+Em primeiro lugar, Marx afasta a confusão trazida pelo programa de Gotha na questão da correlação entre o Estado e a sociedade.
+
+«... A “sociedade actual” — escreve ele — é a sociedade capitalista que existe em todos os países civilizados, mais ou menos livre de apêndices medievais, mais ou menos modificada pelo desenvolvimento histórico particular de cada país, mais ou menos desenvolvida. Pelo contrário, o “Estado actual” varia com a fronteira do país. No império prussiano-alemão é diferente do que existe na Suíça, diferente na Inglaterra do que existe nos Estados Unidos. “O Estado actual” é, portanto, uma ficção.
+
+Contudo, os diferentes Estados dos diferentes países civilizados têm todos em comum, apesar das suas variegadas diferenças de forma, o facto de se erguerem sobre o chão da moderna sociedade burguesa, só que o desenvolvimento capitalista pode ser numa delas maior ou menor. Eles têm, por isso, também certos caracteres essenciais em comum. Neste sentido pode-se falar da “natureza do Estado actual” em oposição ao futuro em que a sua raiz de hoje, a sociedade burguesa, terá morrido.
+
+Pergunta-se, então: que transformação sofrerá a natureza do Estado numa sociedade comunista? Por outras palavras, que funções sociais restarão nela que sejam análogas às funções actuais do Estado? A esta pergunta só se pode responder cientificamente, e não é pela múltipla combinação da palavra povo com a palavra Estado que avançamos um palmo no problema ...»^
+
+Depois de ter ridicularizado desta maneira todo o palavreado acerca do «Estado popular», Marx coloca a questão e como que adverte que, para uma resposta científica a ela, só se pode operar com dados científicos solidamente estabelecidos.
+
+A primeira coisa estabelecida com plena precisão por toda a teoria do desenvolvimento, por toda a ciência em geral — e que esqueceram os utopistas, que esquecem os oportunistas de hoje que temem a revolução socialista — e a circunstância de que historicamente tem de haver, indubitavelmente, um estadio particular ou uma etapa particular de transição do capitalismo para o comunismo.
+
+2. A Transição do Capitalismo para o Comunismo
+
+«... Entre a sociedade capitalista e a comunista — prossegue Marx — fica o período da transformação revolucionária da primeira na segunda. Àquele corresponde também um período de transição política cujo Estado não pode ser outra coisa que não a ditadura revolucionária do proletariado...»
+
+Esta conclusão assenta, em Marx, na análise do papel que desempenha o proletariado na sociedade capitalista actual, nos dados sobre o desenvolvimento dessa sociedade e sobre o carácter inconciliável dos interesses opostos do proletariado e da burguesia.
+
+Dantes a questão colocava-se assim: para alcançar a sua libertação o proletariado deve derrubar a burguesia, conquistar o poder político, estabelecer a sua ditadura revolucionária.
+
+Agora a questão coloca-se de maneira um pouco diferente: a transição da sociedade capitalista, que se desenvolve em direcção ao comunismo, para a sociedade comunista, é impossível sem um «período de transição política», e o Estado deste período só pode ser a ditadura revolucionária do proletariado.
+
+Qual é portanto a relação desta ditadura com a democracia?
+
+Vimos que o Manifesto Comunista coloca simplesmente um ao lado do outro dois conceitos: «passagem do proletariado a classe dominante» e «luta pela democracia». Na base de toda a exposição anterior pode-se determinar mais precisamente como se transforma a democracia na transição do capitalismo para o comunismo.
+
+Na sociedade capitalista, nas condições do seu desenvolvimento mais favorável, temos um democratismo mais ou menos completo na república democrática. Mas este democratismo está sempre comprimido nos limites estreitos da exploração capitalista e, por isso, permanece sempre, em essência, um democratismo para a minoria, apenas para as classes possuidoras, apenas para os ricos. A liberdade da sociedade capitalista permanece sempre aproximadamente como era a liberdade nas repúblicas gregas antigas: liberdade para os escravistas. Os escravos assalariados actuais, devido às condições da exploração capitalista, permanecem tão esmagados pela necessidade e pela miséria que «não estão para democracias», «não estão para políticas», que, no curso habitual, pacífico, dos acontecimentos, a maioria da população está afastada da participação na vida político-social.
+
+A justeza desta afirmação é talvez confirmada com a maior evidência pela Alemanha, precisamente porque foi neste país precisamente que a legalidade constitucional se manteve com uma duração e uma estabilidade espantosas durante cerca de meio século (1871-1914) e a social-democracia soube durante este período fazer muito mais do que noutros países para «utilizar a legalidade» e para organizar num partido político uma parte mais considerável dos operários do que em qualquer outra parte do mundo.
+
+Qual é pois esta parte mais considerável observada na sociedade capitalista dos escravos assalariados politicamente conscientes e activos? Um milhão de membros do partido social-democrata — em 15 milhões de operários assalariados! Três milhões organizados sindicalmente — em 15 milhões!
+
+Democracia para uma insignificante minoria, democracia para os ricos, tal é o democratismo da sociedade capitalista. Se se observar de mais perto o mecanismo da democracia capitalista, veremos por todo o lado, tanto nos «pequenos» (pretensamente pequenos) pormenores do direito eleitoral (censo de residência, exclusão das mulheres, etc.) como na técnica das instituições representativas, como nos obstáculos efectivos ao direito de reunião (os edifícios públicos não são para os «miseráveis»!), como na organização puramente capitalista da imprensa diária, etc, etc — veremos restrições e mais restrições ao democratismo.Estas restrições, excepções, exclusões, obstáculos para os pobres parecem pequenos especialmente aos olhos dos que nunca passaram eles próprios pela necessidade nem nunca conheceram de perto as classes oprimidas na sua vida quotidiana (e é o caso de nove dé-cimos, senão de noventa e nove centésimos dos publicistas e políticos burgueses) — mas, no conjunto, es
+tas restrições excluem, eliminam os pobres da política, da participação activa na democracia.
+
+Marx apreendeu magnificamente esta essência da democracia capitalista ao dizer na sua análise da experiência da Comuna: autoriza-se os oprimidos a decidir uma vez de tantos em tantos anos qual precisamente dos representantes da classe opressora os representará e reprimirá no parlamento!
+
+Mas partindo desta democracia capitalista — inevitavelmente estreita, que afasta dissimuladamente os pobres e, por isso, inteiramente hipócrita e enganadora — o desenvolvimento para a frente não leva simplesmente, directamente e sem choques «a uma democracia cada vez maior», como apresentam as coisas os professores liberais e os oportunistas pequeno-burgueses. Não. O desenvolvimento para a frente, isto é, para o comunismo, faz-se através da ditadura do proletariado, e não se pode fazer de outra forma, porque não existe mais ninguém e nenhum caminho para quebrar a resistência dos capitalistas exploradores.
+
+Mas a ditadura do proletariado, isto é, a organização da vanguarda dos oprimidos como classe dominante para a repressão dos opressores, não pode conduzir a um simples alargamento da democracia. Juntamente com uma imensa ampliação do democratismo, que se transforma pela primeira vez em democratismo para os pobres, em democratismo para o povo, e não em democratismo para os ricos, a ditadura do proletariado impõe uma série de excepções à liberdade em relação aos opressores, aos exploradores, aos capitalistas. Temos de os reprimir para libertar a humanidade da escravidão assalariada, é preciso quebrar a sua resistência pela força; é claro que, onde há repressão, há violência, não há liberdade, não há democracia.
+
+Engels expressou isto admiravelmente na carta a Bebel ao dizer, como o leitor se recorda, que «o proletariado usa o Estado não no interesse da liberdade mas da repressão dos seus adversários, e quando for possível falar de liberdade não haverá Estado».
+
+Democracia para a maioria gigantesca do povo e repressão pela força, isto é, exclusão da democracia, para os exploradores, para os opressores do povo — tal é a modificação da democracia na transição do capitalismo para o comunismo.
+
+Só na sociedade comunista, quando a resistência dos capitalistas estiver definitivamente quebrada, quando os capitalistas tiverem desaparecido, quando não houver classes (isto é, não houver diferenças entre os membros da sociedade quanto à sua relação com os meios sociais de produção) — só então «o Estado desaparece e se pode falar de liberdade». Só então se tornará possível e será realizada uma democracia verdadeiramente plena, verdadeiramente sem nenhuma excepção. E só então a democracia começará a extinguir-se devido à simples circunstância de que, libertos da escravatura capitalista, dos inumeráveis horrores, das selvajarias, dos absurdos, das ignomínias da exploração capitalista, os homens habituar-se-ão gradualmente a observar as regras elementares da convivência conhecidas ao longo dos séculos e repetidas durante milénios em todas as prescrições, a observá-las sem violência, sem coacção, sem subordinação, sem o aparelho especial de coacção que se chama E
+stado.
+
+A expressão «o Estado extingue-se» foi muito bem escolhida porque mostra tanto o carácter gradual do processo como a sua espontaneidade. Apenas o hábito pode exercer e indubitavelmente exerce tal efeito, porque observamos milhões de vezes à nossa volta a facilidade com que os homens se habituam a observar as regras de convivência que lhes são necessárias se não existe exploração, se não existe nada que suscite a indignação, que provoque o protesto e a revolta, que crie a necessidade da repressão.
+
+Assim, pois, na sociedade capitalista temos uma democracia truncada, miserável, falsa, uma democracia apenas para os ricos, para a minoria. A ditadura do proletariado, período de transição para o comunismo, estabelecerá pela primeira vez uma democracia para o povo, para a maioria, paralelamente à necessária repressão da minoria, dos exploradores. Só o comunismo está em condições de dar uma democracia verdadeiramente plena, e quanto mais plena for mais depressa se tornara supérflua, se extinguirá por si própria.
+
+Por outras palavras: temos no capitalismo o Estado no sentido próprio da palavra, uma máquina especial para a repressão de uma classe por outra, e, além disso, da maioria pela minoria. Compreende-se que, para o êxito de uma coisa como a repressão sistemática da maioria dos explorados pela minoria dos exploradores, é necessária uma crueldade, uma ferocidade extremas da repressão, são necessários mares de sangue através dos quais a humanidade segue o seu caminho nas condições da escravatura, da servidão, do salariato.
+
+Em seguida, na transição do capitalismo para o comunismo, a repressão é ainda necessária, mas é já repressão da minoria dos exploradores pela maioria dos explorados. O aparelho especial, a máquina especial para a repressão, o «Estado», é ainda necessário, mas é já um Estado de transição, já não é um Estado no sentido próprio, porque a repressão da minoria dos exploradores pela maioria dos escravos assalariados de ontem é algo relativamente tão fácil, simples e natural que custará muito menos sangue do que a repressão das insurreições de escravos, de servos, de operários assalariados, que custará muito menos à humanidade. E é compatível com a extensão da democracia a uma maioria tão esmagadora da população que a necessidade de uma máquina especial para a repressão começa a desaparecer. Os exploradores, como é natural, não estão em condições de reprimir o povo sem uma máquina muito complicada para a execução desta tarefa, mas o povo pode reprimir os exploradore
+s mesmo com uma «máquina» muito simples, quase sem «máquina», sem aparelho especial, pela simples organização das massas armadas (como os Sovietes de deputados operários e soldados — digamos, adiantando-nos).
+
+Finalmente, só o comunismo torna o Estado completamente desnecessário, pois não há ninguém para reprimir, «ninguém» no sentido de uma classe, no sentido de uma luta sistemática contra uma parte determinada da população. Não somos utopistas e não negamos de maneira nenhuma a possibilidade e a inevitabilidade dos excessos de determinadas pessoas, e igualmente a necessidade de reprimir tais excessos. Mas, em primeiro lugar, para isto não é necessária uma maquina especial, um aparelho especial de repressão, isto fá-lo-á o próprio povo armado com a mesma simplicidade e facilidade com que qualquer multidão de homens civilizados, mesmo na sociedade actual, separa pessoas envolvidas numa briga ou não permite violência contra uma mulher. E, em segundo lugar, sabemos que a causa social fundamental dos excessos, que consistem na violação das regras da convivência, é a exploração das massas, a sua necessidade e miséria. Com a eliminação desta causa principal, os excessos começarão inevi
+tavelmente a «extinguir-se». Não sabemos com que rapidez e gradação, mas sabemos que se extinguirão. Com a sua extinção, extinguir-se-á também o Estado.
+
+Sem cair na utopia, Marx determinou mais em pormenor o que se pode determinar agora em relação a este futuro, a saber: a diferença entre a fase (grau, etapa) inferior e superior da sociedade comunista.
+
+3. A Primeira Fase da Sociedade Comunista
+
+Na Crítica do Programa de Gotha, Marx refuta pormenorizadamente a ideia lassalliana de que no socialismo o operário receberá o «produto não reduzido» ou o «produto integral do trabalho». Marx mostra que de todo o trabalho social de toda a sociedade é preciso descontar um fundo de reserva, um fundo para ampliar a produção, para a amortização das máquinas «usadas», etc., e, para além dos artigos de consumo, um fundo para as despesas de administração, para as escolas, hospitais, asilos para velhos, etc.
+
+Em vez da frase nebulosa, obscura e geral de Lassalle («ao operário o produto integral do trabalho»), Marx faz um cálculo sensato de como a sociedade socialista será obrigada a administrar a economia. Marx aborda a análise concreta das condições de vida numa sociedade em que não existirá capitalismo, e diz:
+
+«Aquilo de que aqui estamos a tratar» (no exame do programa do partido operário) «é uma sociedade comunista não como ela se desenvolveu na sua própria base, mas, inversamente, como ela sai precisamente da sociedade capitalista, e portanto traz ainda agarrados, em todos os aspectos — económicos, morais, espirituais —, os sinais da velha sociedade de cujo seio provém.»
+
+É a esta sociedade comunista que acaba de sair das entranhas do capitalismo, que traz em todos os aspectos os sinais da velha sociedade, que Marx chama a «primeira» fase ou fase inferior da sociedade comunista.
+
+Os meios de produção deixaram já de ser propriedade privada dos indivíduos. Os meios de produção pertencem a toda a sociedade. Cada membro da sociedade, realizando uma certa parte do trabalho socialmente necessário, recebe da sociedade um certificado comprovando a quantidade de trabalho que forneceu. Com esse certificado, recebe nos armazéns públicos de artigos de consumo uma quantidade correspondente de produtos. Descontada a quantidade de trabalho que vai para o fundo social, cada operário, por conseguinte, recebe da sociedade tanto quanto lhe deu.
+
+Reina aparentemente a «igualdade».
+
+Mas quando Lassalle diz, tendo em vista tal ordem social (que se chama habitualmente socialismo e a que Marx dá o nome de primeira fase do comunismo), que isto é uma «repartição justa», que isto é o «direito igual de cada um ao produto igual do trabalho», então Lassalle erra, e Marx explica o seu erro.
+
+O «direito igual» — diz Marx — temo-lo aqui, com efeito, mas é ainda o «direito burguês», que, como todo o direito, pressupõe a desigualdade. Todo o direito é a aplicação de uma medida idêntica a pessoas diferentes, que, de facto, não são idênticas, não são iguais umas às outras; e por isso o «direito igual» é uma violação da igualdade e uma injustiça. Na realidade, cada um recebe, tendo fornecido uma parte do trabalho social igual à dos outros, uma parte igual do produto social (com os descontos indicados).
+
+Mas, entretanto, os indivíduos não são iguais: um é mais forte, outro é mais fraco; um é casado, outro não, um tem mais filhos, outro menos, etc.
+
+«... Com a mesma realização de trabalho — conclui Marx —, e por isso com a mesma quota-parte do fundo social de consumo, um recebe portanto, de facto, mais do que o outro, um é mais rico do que o outro, etc. Para evitar todos estes males, o direito teria de ser, em vez de igual, desigual...»
+
+A justiça e a igualdade, consequentemente, não podem ainda ser dadas pela primeira fase do comunismo: subsistirão diferenças de riqueza, e diferenças injustas, mas a exploração do homem pelo homem será impossível, porque ninguém poderá apoderar-se como propriedade privada dos meios de produção, fábricas, máquinas, terra, etc. Refutando a frase obscura e pequeno-burguesa de Lassalle acerca da «igualdade» e da «justiça» em geral, Marx mostra o curso do desenvolvimento da sociedade comunista, que é obrigada a começar por suprimir apenas essa «injustiça» que é a apropriação dos meios de produção pelos indivíduos, e que não está em condições de suprimir imediatamente também a outra injustiça, que consiste na distribuição dos artigos de consumo «segundo o trabalho» (e não segundo as necessidades).
+
+Os economistas vulgares, incluindo os professores burgueses, incluindo o «nosso» Tugan, censuram constantemente os socialistas por esquecerem a desigualdade dos homens e por «sonharem» com a supressão desta desigualdade. Esta censura, como vemos, prova simplesmente a ignorância extrema dos senhores ideólogos burgueses.
+
+Marx não apenas tem em conta do modo mais preciso a inevitável desigualdade dos homens como tem também em conta que a simples passagem dos meios de produção à propriedade comum de toda a sociedade (o «socialismo» na utilização habitual da palavra) não elimina os males da distribuição e da desigualdade do «direito burguês», que continua a dominar, porquanto os produtos são repartidos «segundo o trabalho».
+
+«... Mas estes males — prossegue Marx — são inevitáveis na primeira fase da sociedade comunista tal como esta saiu, depois de longas dores de parto, precisamente da sociedade capitalista. O direito nunca pode ser superior à construção económica e ao desenvolvimento cultural por ela condicionado da sociedade ...»
+
+Desta forma, na primeira fase da sociedade comunista (a que habitualmente se chama socialismo), o «direito burguês» é abolido não completamente mas apenas em parte, apenas na medida da revolução económica já alcançada, isto é, apenas em relação aos meios de produção. O «direito burguês» reconhece a sua propriedade privada por indivíduos. O socialismo faz deles propriedade comum. É nesta medida — e só nesta medida — que o «direito burguês» caduca.
+
+Subsiste no entanto na sua outra parte, subsiste na qualidade de regulador (definidor) da distribuição dos produtos e da distribuição do trabalho entre os membros da sociedade. «Quem não trabalha não deve comer» — este princípio socialista já está realizado; «para igual quantidade de trabalho, igual quantidade de produtos» — também este outro princípio socialista já está realizado. Todavia, isto ainda não é o comunismo e isto ainda não elimina o «direito burguês» que, a homens desiguais e por uma quantidade desigual (desigual de facto) de trabalho, dá uma quantidade igual de produtos.
+
+Isto é um «mal», diz Marx, mas ele é inevitável na primeira fase do comunismo, pois não se pode pensar, sem cair no utopismo, que, tendo derrubado o capitalismo, os homens aprendem imediatamente a trabalhar para a sociedade sem quaisquer normas de direito; e, além do mais, a abolição do capitalismo não dá imediatamente as premissas económicas para uma tal mudança.
+
+Mas não existem outras normas além das do «direito burguês». E nesta medida subsiste ainda a necessidade de um Estado que, protegendo a propriedade comum dos meios de produção, proteja a igualdade do trabalho e a igualdade de repartição do produto.
+
+O Estado extingue-se na medida em que já não há capitalistas, já não há classes e por isso não se pode reprimir nenhuma classe.
+
+Mas o Estado ainda não se extinguiu completamente, pois permanece a protecção do «direito burguês» que consagra a desigualdade de facto. Para que o Estado se extinga completamente é necessário o comunismo completo.
+
+4. A Fase Superior da Sociedade Comunista
+
+Marx prossegue:
+
+«... Numa fase superior da sociedade comunista, depois de ter desaparecido a subordinação opressiva dos indivíduos à divisão do trabalho, e com ela também a oposição de trabalho espiritual e manual; depois de o trabalho se ter tornado, não apenas um meio para viver, mas a própria primeira necessidade vital; depois de, com o desenvolvimento integral dos indivíduos, terem crescido também as forças de produção e jorrarem mais plenamente todas as fontes da riqueza social — só então pode o horizonte estreito do direito burguês ser completamente ultrapassado e a sociedade escrever nos seus estandartes: De cada um segundo as suas capacidades, a cada um segundo as suas necessidades!»
+
+Só agora podemos apreciar toda a justeza das observações de Engels quando escarnecia implacavelmente do absurdo da união das palavras «liberdade» e «Estado». Enquanto há Estado, não há liberdade. Quando houver liberdade não haverá Estado.
+
+A base económica da extinção completa do Estado é um desenvolvimento tão elevado do comunismo que nele desaparece a oposição entre o trabalho espiritual e o trabalho manual, desaparece, consequentemente, uma das principais fontes da desigualdade social actual, e além disso uma fonte tal que a simples passagem dos meios de produção para a propriedade social, a simples expropriação dos capitalistas não pode, de modo nenhum, eliminar imediatamente.
+
+Esta expropriação dará a possibilidade de um desenvolvimento gigantesco das forças produtivas. E, vendo como já hoje o capitalismo retarda incrivelmente este desenvolvimento e como se poderia avançar na base da técnica actual já adquirida, temos o direito de afirmar, com a mais completa certeza, que a expropriação dos capitalistas provocará necessariamente um desenvolvimento gigantesco das forças produtivas da sociedade humana. Mas qual será a rapidez deste desenvolvimento, com que rapidez atingirá uma ruptura com a divisão do trabalho, a supressão da oposição entre o trabalho espiritual e o trabalho manual, a transformação do trabalho em «primeira necessidade vital», isto não sabemos e não podemos saber.
+
+Por isso apenas temos o direito de falar da extinção inevitável do Estado, sublinhando o carácter prolongado deste processo, a sua dependência da rapidez do desenvolvimento da fase superior do comunismo e deixando completamente em aberto a questão dos prazos ou das formas concretas da extinção, pois não há materiais para resolver tais questões.
+
+O Estado poderá extinguir-se completamente quando a sociedade realizar a regra: «De cada um segundo as suas capacidades, a cada um segundo as suas necessidades», isto é, quando os homens estiverem tão habituados a observar as regras fundamentais da convivência e quando o seu trabalho for tão produtivo que trabalharão voluntariamente segundo as suas capacidades. «O horizonte estreito do direito burguês», que obriga a calcular com a insensibilidade de um Shylock^ se não se trabalhou mais meia hora do que outro, se não se recebeu um salário inferior ao de outro — este horizonte estreito será então ultrapassado. A distribuição dos produtos não exigirá então o estabelecimento de normas da parte da sociedade sobre a quantidade de produtos recebidos por cada um; cada um tomará livremente «segundo as suas necessidades».
+
+Do ponto de vista burguês, é fácil declarar semelhante organização social «pura Utopia» e troçar do facto de os socialistas prometerem a cada um o direito de receber da sociedade, sem qualquer controlo do trabalho de cada cidadão, qualquer quantidade de trufas, de automóveis, de pianos, etc. É a troças destas que se limitam hoje ainda a maioria dos «sábios» burgueses, que revelam com isto a sua ignorância e a sua defesa interesseira do capitalismo.
+
+Ignorância — pois não passou pela cabeça de nenhum socialista «prometer» a chegada da fase superior do desenvolvimento do comunismo, e a previsão dos grandes socialistas de que ela chegará pressupõe uma produtividade do trabalho que não é a actual, e um homem que não é o actual filisteu, capaz, como os seminaristas de Pomialóvski^, de dilapidar «à toa» a riqueza social e de exigir o impossível.
+
+Até que chegue a fase «superior» do comunismo, os socialistas exigem o mais rigoroso controlo por parte da sociedade e por parte do Estado sobre a medida do trabalho e a medida do consumo, mas este controlo deve começar com a expropriação dos capitalistas, com o controlo dos capitalistas pelos operários, e deve ser exercido não por um Estado de funcionários mas pelo Estado dos operários armados.
+
+A defesa interesseira do capitalismo pelos ideólogos burgueses (e seus acólitos tais como os Srs. Tseretéli, Tchernov e C.ª) consiste precisamente em que eles substituem por discussões e conversas acerca de um futuro longínquo a questão de premente actualidade da política de hoje: a expropriação dos capitalistas, a transformação de todos os cidadãos em trabalhadores e empregados de um só grande «consórcio», a saber: de todo o Estado, e a subordinação completa de todo o trabalho de todo este consórcio a um Estado verdadeiramente democrático, ao Estado dos Sovietes de deputados operários e soldados.
+
+No fundo, quando um sábio professor, e atrás dele um filisteu, e atrás dele os Srs. Tseretéli e Tchernov falam de Utopias insensatas, de promessas demagógicas dos bolcheviques, da impossibilidade de «introduzir» o socialismo, eles têm em vista precisamente o estádio ou fase superior do comunismo, que nunca ninguém prometeu nem pensou sequer em «introduzir» porque «introduzi-lo» é completamente impossível.
+
+Abordamos aqui a questão da distinção científica entre socialismo e comunismo, que Engels aflorou na passagem citada anteriormente acerca da incorrecção da denominação de «sociais-democratas». No plano político, a diferença entre a primeira fase ou fase inferior e a superior do comunismo será provavelmente enorme com o tempo, mas agora, no capitalismo, seria ridículo tomá-la em conta, e só talvez alguns anarquistas poderiam colocá-la em primeiro plano (se é que subsistem ainda entre os anarquistas pessoas que nada tenham aprendido depois da transformação «plekhanoviana» dos Kropótkine, de Grave, de Cornelissen e outras «estrelas» do anarquismo em sociais-chauvinistas ou em anarquistas-das-trincheiras, segundo a expressão de Gué, um dos poucos anarquistas que conservaram a honra e a consciência).
+
+Mas a diferença científica entre socialismo e comunismo é clara. Aquilo a que se chama habitualmente socialismo, chamou Marx a «primeira» fase ou fase inferior da sociedade comunista. Na medida em que os meios de produção se tornam propriedade comum, a palavra «comunismo» pode aplicar-se também aqui, se não se esquecer que isto não é o comunismo completo. A grande importância das explicações de Marx consiste em que aplica consequentemente, também aqui, a dialéctica materialista, a doutrina do desenvolvimento, considerando o comunismo como qualquer coisa que se desenvolve do capitalismo. Em vez de definições «inventadas», escolasticamente imaginadas e de estéreis discussões sobre palavras (o que é o socialismo, o que é o comunismo), Marx analisa o que se poderia chamar os graus da maturidade económica do comunismo.
+
+Na sua primeira fase, no seu primeiro grau, o comunismo não pode ainda, no plano económico, estar completamente maduro, completamente liberto das tradições ou dos vestígios do capitalismo. Daí um fenómeno tão interessante como a conservação do «horizonte estreito do direito burguês» — no comunismo na sua primeira fase. O direito burguês em relação à distribuição dos produtos de consumo pressupõe, como é natural, também inevitavelmente um Estado burguês, pois o direito nada é sem um aparelho capaz de obrigar à observação das normas do direito.
+
+Daí decorre que no comunismo subsiste durante um certo tempo não só o direito burguês mas também o Estado burguês — sem burguesia!
+
+Isto pode parecer um paradoxo ou simplesmente um jogo dialéctico do espírito, do que frequentemente culpam o marxismo as pessoas que não fizeram o menor esforço para estudar o seu conteúdo extraordinariamente profundo.
+
+Na realidade, a vida mostra-nos a cada passo vestígios do velho no novo, tanto na natureza como na sociedade. E Marx não enfiou arbitrariamente um pedacinho do direito «burguês» no comunismo, antes tomou aquilo que, económica e politicamente, é inevitável numa sociedade saída das entranhas do capitalismo.
+
+A democracia tem uma importância enorme na luta da classe operária contra os capitalistas pela sua libertação. Mas a democracia não é de modo nenhum um limite intransponível, mas apenas uma das etapas no caminho do feudalismo para o capitalismo e do capitalismo para o comunismo.
+
+Democracia significa igualdade. Compreende-se a grande importância que tem a luta do proletariado pela igualdade e a palavra de ordem de igualdade se a compreendermos correctamente no sentido da supressão das classes. Mas democracia significa apenas igualdade formal. E imediatamente depois da realização da igualdade de todos os membros da sociedade em relação à propriedade dos meios de produção, isto é, a igualdade do trabalho, a igualdade do salário, levantar-se-á inevitavelmente perante a humanidade a questão de avançar da igualdade formal para igualdade de facto, isto é, para a realização da regra: «de cada um segundo as suas capacidades, a cada um segundo as suas necessidades.» Por que etapas, através de que medidas práticas a humanidade chegará a este fim supremo, não sabemos nem podemos saber. Mas o que importa é compreender como é imensamente falsa a concepção burguesa habitual segundo a qual o socialismo é qualquer coisa morta, cristalizada, dada de uma vez para
+sempre, quando na realidade apenas com o socialismo começa um movimento de avanço rápido, verdadeiro, efectivamente de massas, com a participação da maioria e depois de toda a população, em todos os domínios da vida social e individual.
+
+A democracia é uma forma de Estado, uma das suas variedades. E, consequentemente, ela representa em si, como qualquer Estado, a aplicação organizada, sistemática, da violência sobre as pessoas. Isto por um lado. Mas, por outro lado, significa o reconhecimento formal da igualdade entre os cidadãos, do direito igual para todos de determinar a organização do Estado e de o dirigir. E isto, por seu turno, liga-se ao facto de que num certo grau de desenvolvimento da democracia, ela, em primeiro lugar, une a classe revolucionária que está contra o capitalismo, o proletariado, e permite-lhe quebrar, demolir completamente, fazer desaparecer da face da terra a máquina de Estado burguesa, mesmo que republicana-burguesa, o exército permanente, a polícia, o funcionalismo, e substituí-los por uma máquina de Estado mais democrática, mas ainda uma máquina de Estado, sob a forma das massas operárias armadas que passam à participação de todo o povo na milícia.
+
+Aqui «a quantidade transforma-se em qualidade»: este grau do democratismo está ligado à saída do quadro da sociedade burguesa, ao começo da sua reorganização socialista. Se todos participam realmente na administração do Estado, então o capitalismo já não poderá manter-se. E o desenvolvimento do capitalismo cria, por sua vez, as premissas para que «todos» possam realmente participar na administração do Estado. Entre estas premissas conta-se a alfabetização geral já realizada por uma série dos países capitalistas mais avançados, em seguida o «educar e disciplinar» milhões de operários pelo grande, complexo e socializado aparelho dos correios, dos caminhos-de-ferro, das grandes fábricas, do grande comércio, dos bancos, etc., etc.
+
+Com tais premissas económicas é perfeitamente possível, depois de derrubados os capitalistas e os funcionários, passar imediatamente à sua substituição de um dia para o outro — em matéria de controlo da produção e da distribuição, em matéria de registo do trabalho e dos produtos — pelos operários armados, por todo o povo armado. (Não se deve confundir a questão do controlo e do registo com a questão do pessoal com formação científica, dos engenheiros, dos agrónomos, etc.: estes senhores trabalham hoje subordinando-se aos capitalistas e trabalharão ainda melhor amanhã subordinando-se aos operários armados.)
+
+Registo e controlo — eis o principal, o que é necessário para a organização, para o funcionamento regular da primeira fase da sociedade comunista. Aqui todos os cidadãos se transformam em empregados assalariados do Estado constituído pelos operários armados. Todos os cidadãos se tornam empregados e operários de um único «consórcio» estatal, nacional. Tudo está em que trabalhem por igual, observando exactamente a medida do trabalho, e recebam por igual. O registo disto, o controlo disto foram simplificados em extremo pelo capitalismo, até operações extraordinariamente simples de vigilância acessíveis a qualquer pessoa alfabetizada, até ao conhecimento das quatro operações da aritmética e à entrega dos recibos correspondentes^.
+
+Quando a maioria do povo começar a realizar autonomamente e por toda a parte tal registo, tal controlo dos capitalistas (transformados agora em empregados) e dos senhores intelectuaizinhos que conservem os hábitos capitalistas, então esse controlo será verdadeiramente universal, geral, de todo o povo, então ninguém se poderá esquivar a ele, «não haverá para onde fugir».
+
+Toda a sociedade será um único escritório e uma única fábrica, com igualdade de trabalho e igualdade de salário.
+
+Mas esta disciplina «fabril» que o proletariado, depois de ter vencido os capitalistas e derrubado os exploradores, tornará extensiva a toda a sociedade, não é de forma alguma nem o nosso ideal nem o nosso objectivo final, mas apenas um degrau necessário para limpar radicalmente a sociedade da baixeza e das ignomínias da exploração capitalista e para continuar o movimento para a frente.
+
+A partir do momento em que todos os membros da sociedade, ou pelo menos a sua imensa maioria, tenham aprendido a administrar eles próprios o Estado, tenham tomado eles próprios as coisas nas suas mãos, tenham «organizado» o controlo sobre a insignificante minoria dos capitalistas, sobre os senhoritos que desejam conservar os hábitos capitalistas, sobre os operários profundamente corrompidos pelo capitalismo — a partir desse momento começa a desaparecer a necessidade de toda a administração em geral. Quanto mais completa for a democracia mais próximo está o momento em que se tornará desnecessária. Quanto mais democrático for o «Estado» constituído pelos operários armados, e que «já não é um Estado no sentido próprio da palavra», mais depressa começará a extinguir-se todo o Estado.
+
+Pois quando todos tiverem aprendido a administrar e administrarem de facto autonomamente a produção social, realizarem autonomamente o registo e o controlo sobre os parasitas, os fidalgotes, os vigaristas e os outros «depositários das tradições do capitalismo» — então esquivar-se a este registo e controlo de todo o povo tornar-se-á inevitavelmente tão incrivelmente difícil e de uma raridade tão excepcional, acarretará provavelmente um castigo tão rápido e sério (pois os operários armados são pessoas práticas e não intelectuaizinhos sentimentais, e dificilmente permitirão que brinquem com eles), que a necessidade de observar as regras simples, fundamentais, de toda a convivência humana se tornará muito depressa um hábito.
+
+E então abrir-se-á de par em par a porta para passar da primeira fase da sociedade comunista para a sua fase superior e, ao mesmo tempo, para a extinção completa do Estado.
+
+
+|SOUND:intro.wav|
+|PAUSE:0.3|
+
+Obrigado por sintonizar na Boca do Sol podcast!
+|PAUSE:0.3|
+Convido a todos para conhecer o projeto e especialmente os textos marxistas.
+|PAUSE:0.3|
+A revolução brasileira está em construção por todos nós!
+Venceremos!
+
+|PAUSE:0.5|
+
+Biografia do autor
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Vladimir Ilitch Lênin
+
+   1870-1924
+
+   Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu o partido e os sovietes à tomada de poder na Revolução Russa de 1917. Fundou a Internacional Comunista, identificou o Imperialismo como fase superior do Capitalismo e enfatizou o papel do partido como vanguarda da revolução.
+
+|PAUSE:2.0|
+

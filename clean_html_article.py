@@ -8,12 +8,19 @@ soup = BeautifulSoup(html, 'html.parser')
 
 hrs = soup.find_all('hr')
 if len(hrs) >= 2:
+    h4 = None
     current = hrs[0].next_sibling
     while current and current != hrs[1]:
         next_sibling = current.next_sibling
-        if hasattr(current, 'decompose'):
+        if hasattr(current, 'name') and current.name == 'h4':
+            h4 = current.extract()
+        elif hasattr(current, 'decompose'):
             current.decompose()
         current = next_sibling
+    if h4:
+        header = soup.find('header')
+        if header:
+            header.append(h4)
 
 for tag in soup.find_all(['nav', 'footer', 'img', 'hr', 'table']):
     tag.decompose()

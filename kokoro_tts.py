@@ -17,7 +17,7 @@ output_file = sys.argv[2]
 with open(input_file, 'r', encoding='utf-8') as f:
     text = f.read()
 
-pipeline = KPipeline(lang_code='p')
+pipeline = KPipeline(lang_code='p', repo_id='hexgrad/Kokoro-82M')
 audio_chunks = []
 
 # Split by pause/sound markers

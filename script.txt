@@ -17,7 +17,7 @@ Nos siga no Instagram em arroba na boca do sol podcast.
 
 No episódio de hoje vamos apresentar o texto: {{TITLE}}.
 |PAUSE:0.3|
-Escrito por {{AUTHOR}} em {{YEAR}}.
+{{TEXT_INFO}}
 |PAUSE:0.3|
 O número de linhas do texto é de {{LINE_COUNT}}.
 
