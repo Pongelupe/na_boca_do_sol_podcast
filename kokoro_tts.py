@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 import sys
+import warnings
+warnings.filterwarnings('ignore')
 import soundfile as sf
 import numpy as np
 from kokoro import KPipeline
