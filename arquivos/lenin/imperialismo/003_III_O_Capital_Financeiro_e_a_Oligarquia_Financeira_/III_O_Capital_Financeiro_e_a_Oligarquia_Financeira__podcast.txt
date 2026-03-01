@@ -1,0 +1,161 @@
+|SOUND:intro.wav|
+|PAUSE:0.3|
+Bem-vindos ao podcast Na Boca do Sol.
+
+O podcast Na Boca do Sol visa divulgar a imortal ciência do proletariado, o marxismo.
+De forma gratuíta e livre como material de estudo para qualquer pessoa que se interessa pelo tema.
+Aqui vamos realizar a leitura de textos marxistas de vários autores, lugares e épocas.
+
+Eu me chamo Alex, sou uma voz sintetizada por inteligência artificial que conduzirá esse episódio.
+Todos os textos lidos aqui são de domínio público disponibilizados pela biblioteca internacional chamada Marxists Internet Archive, M I A.
+O código utilizado para gerar este podcast é aberto e está disponível no GitHub.
+Nos siga no Instagram em arroba na boca do sol podcast.
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+No episódio de hoje vamos apresentar o texto: Título desconhecido.
+|PAUSE:0.3|
+Capítulo III - O Capital Financeiro e a Oligarquia Financeira
+|PAUSE:0.3|
+O número de linhas do texto é de 106.
+
+Ao fim da leitura vamos ler a biografia do autor.
+|PAUSE:0.5|
+Fiquem com o texto de hoje do podcast Na Boca do Sol.
+Bons estudos!
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+O Imperialismo, Fase Superior do Capitalismo
+
+V. I. Lenine
+
+III - O Capital Financeiro e a Oligarquia Financeira
+
+"Uma parte cada vez maior do capital industrial - escreve Hilferding - não pertence aos industriais que o utilizam. Podem dispor do capital unicamente por intermédio do banco, que representa, para eles, os proprietários desse capital. Por outro lado, o banco também se vê obrigado a fixar na indústria uma parte cada vez maior do seu capital. Graças a isto, converte-se, em proporções crescentes, em capitalista industrial. Este capital bancário - por conseguinte capital sob a forma de dinheiro -, que por esse processo se transforma de fato em capital industrial, é aquilo a que chamo capital financeiro." "Capital financeiro é o capital que se encontra à disposição dos bancos e que os industriais utilizam."
+
+Esta definição não é completa porque não indica um dos aspectos mais importantes: o aumento da concentração da produção e do capital em grau tão elevado que conduz, e tem conduzido, ao monopólio. Mas em toda a exposição de Hilferding em geral, e em particular nos capítulos que precedem aquele de onde retiramos esta definição, sublinha-se o papel dos monopólios capitalistas.
+
+Concentração da produção; monopólios que resultam da mesma; fusão ou junção dos bancos com a indústria: tal é a história do aparecimento do capital financeiro e daquilo que este conceito encerra.
+
+Descreveremos agora como a "gestão" dos monopólios capitalistas se transforma inevitavelmente, nas condições gerais da produção mercantil e da propriedade privada, na dominação da oligarquia financeira. Assinalemos que as figuras representativas da ciência burguesa alemã - e não só da alemã -, tais como Riesser, Schulze-Gaevernitz, Liefmann, etc., são todas apologistas do imperialismo e do capital financeiro. Não põem a descoberto, antes dissimulam e embelezam, o "mecanismo" da formação das oligarquias, os seus processos, a importância dos seus rendimentos "lícitos e ilícitos", as suas relações com os parlamentos, etc., etc. Fogem às "questões malditas" por meio de frases altissonantes e obscuras, e de apelos ao "sentido da responsabilidade" dos diretores dos bancos; por meio de elogios ao "sentimento do dever" dos funcionários prussianos, por meio da análise séria e pormenorizada de projetos de lei nada sérios sobre a "inspeção" e a "regulamentação"; por meio de infantis jog
+os teóricos, tais como a seguinte definição "científica" a que chegou o professor Liefinann: "... o comércio é uma atividade profissional destinada a reunir bens, conservá-los e pô-los à disposição" (em itálico e em negro na obra do professor)... Daqui resulta que o comércio existia entre os homens primitivos, que não conheciam ainda a troca, e que também existirá na sociedade socialista!
+
+Mas os monstruosos fatos relativos à monstruosa dominação da oligarquia financeira são tão evidentes que em todos os países capitalistas - na América, na França, na Alemanha - surgiu uma literatura que, embora adotando o ponto de vista burguês, traça um quadro aproximadamente exato, e faz uma crítica - pequeno-burguesa, naturalmente - da oligarquia financeira.
+
+Há que dedicar uma atenção primordial ao "cisterna de participação", do qual já falamos acima sucintamente. Eis como expõe a essência do assunto o economista alemão Heymann, que foi um dos primeiros, se não o primeiro, a prestar-lhe atenção:
+
+"O dirigente controla a sociedade fundamental (literalmente, a "sociedade-mãe"); esta, por sua vez, exerce o domínio sobre as sociedades que dependem dela ("sociedades-filhas"); estas últimas, sobre as "sociedades-netas", etc. É possível, deste modo, sem possuir um capital muito grande, dominar ramos gigantescos da produção. Com efeito, se a posse de 50% do capital é sempre suficiente para controlar uma sociedade anônima, basta que o dirigente possua apenas 1 milhão para estar em condições de controlar 8 milhões do capital das "sociedades-netas". E se este "entrelaçamento" vai ainda mais longe, com 1 milhão podem-se controlar 16 milhões, 32 milhões, etc..
+
+Com efeito, a experiência demonstra que basta possuir 40% das ações para dirigir os negócios de uma sociedade anônima, pois uma certa parte dos pequenos acionistas, que se encontram dispersos, não tem na prática possibilidade alguma de assistir às assembléias gerais, etc. A "democratização", da posse das ações, de que os sofistas burgueses e os pretensos "sociais-democratas" oportunistas esperam (ou dizem que esperam) a "democratização do capital", o aumento do papel e importância da pequena produção, etc., é na realidade um dos meios de reforçar o poder da oligarquia financeira. Por isso, entre outras coisas, nos países capitalistas mais adiantados ou mais velhos e "experimentados", as leis autorizam a emissão de ações mais pequenas. Na Alemanha, a lei não permite ações de menos de 1000 marcos, e os magnatas financeiros do país lançam os olhos com inveja para a Inglaterra, onde a lei consente ações até 1 libra esterlina (quer dizer, 20 marcos, ou cerca de 10 rublos). Siemens,
+um dos industriais e "reis financeiros" mais poderosos da Alemanha, declarou em 7 de junho de 1900, no Reichtag, que "a ação de 1 libra esterlina é a base do imperialismo britânico". Este negociante tem uma concepção consideravelmente mais profunda, mais "marxista", do que é o imperialismo do que certo escritor indecoroso que se considera fundador do marxismo russo e supõe que o imperialismo é um defeito próprio de um povo determinado ...
+
+Mas o "sistema de participação" não só serve para aumentar em proporções gigantescas o poderio dos monopolistas, como, além disso, permite levar a cabo impunemente toda a espécie de negócios escuros e sujos e roubar o público, pois os dirigentes das "sociedades-mães", formalmente, segundo a lei, não respondem pela "sociedade-filha", que é considerada "independente" e através da qual se pode "fazer passar" tudo. Eis um exemplo tirado da revista alemã Die Bank, no seu número de Maio de 1914:
+
+"A Sociedade Anônima de Aço para Molas, de Cassel, era considerada há uns anos como uma das empresas mais lucrativas da Alemanha. Em conseqüência da má administração, os dividendos desceram de 15 % para 0 %. Segundo se pôde comprovar depois, a administração, sem informar os acionistas, tinha feito um empréstimo de 6 milhões de marcos a uma das suas 'sociedades-filhas', a Hassia, cujo capital nominal era apenas de algumas centenas de milhares de marcos. Esse empréstimo, quase três vezes superior ao capital em ações da 'sociedade-mãe', não figurava no balanço desta: juridicamente, tal silêncio estava perfeitamente de acordo com a lei e pôde durar dois anos inteiros, pois não infringia nem um único artigo da legislação comercial. O presidente do conselho de administração, a quem nessa qualidade incumbia a responsabilidade de assinar os balanços falsos, era e continua a ser presidente da Câmara de Comércio de Cassei. Os acionistas só se inteiraram desse empréstimo à Hassia muito
+tempo depois, quando se verificou que o mesmo tinha sido um erro... " (o autor deveria ter posto esta palavra entre aspas) ... "e quando as ações do 'aço para molas', por aqueles que tinham conhecimento disto se começarem a desfazer delas, diminuíram o seu valor em aproximadamente 100 % ...
+
+"Este exemplo típico de malabarismo nos balanços, o mais comum nas sociedades anônimas, explica-nos por que motivo os seus conselhos de administração empreendem negócios arriscados com muito mais facilidade do que os particulares. A técnica moderna de elaboração dos balanços não só lhes oferece a possibilidade de ocultar a operação arriscada ao acionista médio como permite mesmo aos principais interessados livrarem-se da responsabilidade mediante a venda oportuna das suas ações no caso de a experiência fracassar, ao passo que o negociante particular arrisca a sua pele em tudo quanto faz.
+
+"Os balanços de muitas sociedades anônimas parecem-se com os palimpsestos da Idade Média, dos quais era preciso apagar o que estava escrito para se descobrir sinais que tinham sido escritos por baixo e que representavam o conteúdo real do documento." (O palimpsesto era um pergaminho do qual o texto primitivo tinha sido apagado para escrever de novo.)
+
+"O meio mais simples e por isso mais vulgarmente utilizado para tornar um balanço indecifrável consiste em dividir uma empresa em várias partes por meio da criação de filiais ou a incorporação de estabelecimentos do mesmo gênero. As vantagens deste sistema, do ponto de vista dos diversos fins - legais e ilegais -, são tão evidentes que na atualidade as grandes sociedades que não o adotaram constituem uma verdadeira excepção."
+
+Como exemplo de empresa monopolista de grande importância que aplica, em grande escala, o referido sistema, o autor cita a famosa Sociedade Geral de Eletricidade (AEG, da qual voltaremos a falar mais adiante). Em 1912 calculava-se que esta sociedade participava noutras 175 a 200, dominando-as, é claro, e controlando assim um capital total de cerca de 1.500 milhões de marcos.
+
+Nenhuma regra de controlo, de publicação de balanços, de estabelecimento de esquemas precisos para os mesmos, de instituição de inspeção, etc., com que os professores e funcionários bem intencionados, isto é, que têm a boa intenção de defender e embelezar o capitalismo, distraem a atenção do público, pode ter, neste aspeto, a menor importância, pois que a propriedade privada é sagrada, e ninguém pode proibir comprar, vender, permutar, hipotecar ações, etc.
+
+Podem-se avaliar as proporções que o "sistema de participação" alcançou nos grandes bancos russos pelos dados fornecidos por E. Agahd, que durante quinze anos foi empregado do Banco Russo-Chinês e que em Maio de 1914 publicou uma obra com o título, não de todo exato, Os Grandes Bancos e o Mercado Mundial. O autor divide os grandes bancos russos em dois grupos fundamentais: a) os que funcionam segundo o "sistema de participação" e b) os "independentes" entendendo, contudo, arbitrariamente por " independência" a independência em relação aos bancos estrangeiros. O autor divide o primeiro grupo em três subgrupos: 1) participação alemã, 2) inglesa e 3) francesa, referindo-se à "participação" e ao domínio dos grandes bancos estrangeiros da nação em causa. Divide os capitais dos bancos em capitais de investimento "produtivo" (no comércio e na indústria) e de investimento "especulativo", (nas operações bolsistas e financeiras), supondo, de acordo com o ponto de vista pequeno-burguês
+reformista que lhe é próprio, que é possível sob o capitalismo separar a primeira forma de investimento da segunda e suprimir esta última.
+
+Os dados do autor são os seguintes:
+Activo dos Bancos
+(Segundo os balanços de Outubro-Novembro de 1913)
+(Em milhões de rublos)
+
+Estes dados mostram que, do total aproximado de 4.000 milhões de rublos que constituem o capital " ativo" dos grandes bancos, mais de 3/4, mais de 3.000 milhões, correspondem a bancos que, no fundo, são filiais dos bancos estrangeiros, em primeiro lugar dos parisienses (o famoso trio bancário União Parisiense, Banco de Paris e Países Baixos e Sociedade Geral ) e dos berlinenses (particularmente o Banco Alemão e a Sociedade de Desconto). Dois dos bancos russos mais importantes, o Russo (Banco Russo de Comércio Externo) e o Internacional (Banco Comercial Internacional de São Petersburgo), aumentaram os seus capitais, no período compreendido entre 1906 e 1912, de 44 para 98 milhões de rublos, e os fundos de reserva de 15 para 39 milhões, "trabalhando em 3/4 com capitais alemães"; o primeiro banco pertence ao "consórcio" do Banco Alemão de Berlim; o segundo pertence à Sociedade de Desconto, da mesma capital. Ao bom Agahd indigna-o profundamente que os bancos berlinenses tenham nas
+suas mãos a maioria das ações, e que, em conseqüência disso, os acionistas russos sejam impotentes. E, naturalmente, o país que exporta capitais fica com a nata: por exemplo, o Banco Alemão de Berlim, encarregado de vender nesta cidade as ações do Banco Comercial Siberiano, guardou durante um ano as referidas ações em carteira, e depois vendeu-as a 193%, quer dizer, quase o dobro, "obtendo" deste modo um lucro de cerca de 6 milhões de rublos, que Hilferding qualifica de "lucro de constituição".
+
+O autor calcula em 8.235 milhões de rublos, isto é, quase 8 '/4 milhares de milhões, a "potência" total dos bancos petersburgueses mais importantes. Quanto à "participação" ou, melhor dizendo, ao domínio dos bancos estrangeiros, estabelece-o nas proporções seguintes: bancos franceses, 55%; ingleses, 10%; alemães, 35%. Deste total, isto é, dos 8.235 milhões, 3.687 milhões de capital ativo, ou seja, mais de 40%, correspondem, segundo os cálculos do autor, aos sindicatos Prodúgol e Prodamet e aos sindicatos do petróleo, da metalurgia e do cimento. Por conseguinte, a fusão do capital bancário e industrial, derivada da constituição dos monopólios capitalistas, deu também na Rússia passos gigantescos.
+
+O capital financeiro, concentrado em muito poucas mãos e gozando do monopólio efetivo, obtém um lucro enorme, que aumenta sem cessar com a constituição de sociedades, emissão de valores, empréstimos do Estado, etc., consolidando a dominação da oligarquia financeira e impondo a toda a sociedade um tributo em proveito dos monopolistas. Eis um dos exemplos dos métodos de "administração" dos trusts americanos, citado por Hilferding: em 1887, Havemeyer constituiu o trust do açúcar mediante a fusão de 15 pequenas companhias, cujo capital total era de 6.500.000 dólares. Mas o capital do trust, "aguado", segundo a expressão americana, fixou-se em 50 milhões de dólares. A "recapitalização" tinha em conta de antemão os futuros lucros monopolistas, do mesmo modo que o trust do aço - também na América - tem em conta os futuros lucros monopolistas ao adquirir cada vez mais jazigos de minério de ferro. E, com efeito, o trust do açúcar fixou preços de monopólio e recebeu lucros tais que
+pôde pagar um dividendo de 10 % ao capital sete vezes "aguado", quer dizer, quase 70 % sobre o capital efetivamente investido no momento da constituição do trust! Em 1909, o seu capital era de 90 milhões de dólares. Em vinte e dois anos o capital foi mais do que decuplicado.
+
+Em França, a dominação da "oligarquia financeira" (Contra a Oligarquia Financeira em França é o título do conhecido livro de Lysis, cuja quinta edição apareceu em 1908) adotou uma forma apenas um pouco diferente. Os quatro bancos mais importantes gozam não do monopólio relativo, mas "do monopólio absoluto" na emissão de valores. De fato, trata-se de um "trust dos grandes bancos". E o monopólio garante lucros monopolistas das emissões. Ao fazerem-se os empréstimos, o país que os negoceia não recebe habitualmente mais de 90 % do total: os restantes 10 % vão parar aos bancos e demais intermediários. O lucro dos bancos no empréstimo russo-chinês de 400 milhões de francos foi de 8%; no russo de 800 milhões, foi de 10%; no marroquino de 62,5 milhões, foi de 18,75%. O capitalismo, que iniciou o seu desenvolvimento com o pequeno capital usurário, chega ao fim deste desenvolvimento com um capital usurário gigantesco. "Os franceses são os usurários da Europa" - diz Lysis. Todas as
+condições da vida econômica sofrem uma modificação profunda em conseqüência desta degeneração do capitalismo. Num estado de estagnação da população, da indústria, do comércio e dos transportes marítimos, o "país" pode enriquecer por meio das operações usurárias. "Cinqüenta pessoas, que representam um capital de 8 milhões de francos, podem dispor de dois mil milhões colocados em quatro bancos." O sistema de "participação" que já conhecemos conduz às mesmas conseqüências: um dos bancos mais importantes, a Sociedade Geral (Société Générale), emitiu 64.000 obrigações da sociedade-filha, as Refinarias de Açúcar do Egito. O curso da emissão era de 150%, quer dizer, o banco embolsava um lucro de 50 cêntimos por cada franco. Os dividendos da referida sociedade revelaram-se fictícios, o "público" perdeu de 90 a 100 milhões de francos; "um dos diretores da Sociedade Geral era membro do conselho de administração das Refinarias". Nada tem de surpreendente que o autor se veja o
+brigado a chegar à seguinte conclusão: "A República francesa é uma monarquia financeira"; a omnipotência da oligarquia financeira é absoluta, domina a imprensa e o governo".
+
+Os lucros excepcionais proporcionados pela emissão de valores, como uma das operações principais do capital financeiro, contribuem muito para o desenvolvimento e consolidação da oligarquia financeira. "No interior do país não há nenhum negócio que dê, nem aproximadamente, um lucro tão elevado como servir de intermediário para a emissão de empréstimos estrangeiros" - diz a revista alemã Die Bank .
+
+"Não há nenhuma operação bancária que produza lucros tão elevados como as emissões." Na emissão de valores das empresas industriais, segundo os dados de O Economista Alemão, o lucro médio anual foi o seguinte:
+
+1895 . . . . . . . . . . . . . . . 38,6% 1898 . . . . . . . . . . . . . . . 67,7%
+1896 . . . . . . . . . . . . . . . 36,1% 1899 . . . . . . . . . . . . . . . 66,9%
+1897 . . . . . . . . . . . . . . . 66,7% 1900 . . . . . . . . . . . . . . . 55,2%
+
+"Em dez anos, de 1891 a 1900, a emissão de valores industriais alemães produziu um lucro de mais de 1.000 milhões."
+
+Se os lucros do capital financeiro são desmedidos durante os períodos de ascenso industrial, durante os períodos de depressão arruinam-se as pequenas empresas e as empresas pouco fortes, enquanto os grandes bancos "participam" na aquisição das mesmas a baixo preço, ou no seu lucrativo "saneamento" e " reorganização". Ao efetuar-se o "saneamento" das empresas deficitárias, "o capital em ações sofre uma baixa, isto é, os lucros são distribuídos sobre um capital menor, e calculam-se depois com base nesse capital. Ou, se a rendibilidade fica reduzida a zero, incorpora-se novo capital que, ao unir-se com o capital velho, menos lucrativo, produz já um lucro suficiente. Convém dizer - acrescenta Hilferding - que todos esses saneamentos e reorganizações têm uma dupla importância para os bancos: primeiro como operação lucrativa, e segundo como ocasião propícia para colocar sob a sua dependência essas sociedades necessitadas".
+
+Eis um exemplo: o da sociedade anônima mineira Union, de Dortmund, fundada em 1872. Foi emitido um capital em ações de cerca de 40 milhões de marcos, e, quando no primeiro ano se recebeu um dividendo de 12%, o curso elevou-se até 170%. O capital financeiro ficou com a nata, embolsando a bagatela de uns 28 milhões de marcos. O papel principal na fundação da referida sociedade foi desempenhado por esse mesmo grande banco alemão, a Sociedade de Desconto, que, sem contratempos, alcançou um capital de 300 milhões. Os dividendos da Umon desceram depois até desaparecerem. Os acionistas tiveram de aceder a liquidar uma parte do capital, isto é, a sacrificar uma parte para não perderem tudo. Como resultado de uma série de "saneamentos", desapareceram dos livros da sociedade Union, no decurso de trinta anos, mais de 73 milhões de marcos. "Atualmente, os acionistas fundadores dessa sociedade têm nas suas mãos apenas 5 % do valor nominal das suas ações" ; e em cada novo "saneamento" os
+bancos continuaram a "ganhar alguma coisa".
+
+Uma das operações particularmente lucrativas do capital financeiro é também a especulação com terrenos situados nos subúrbios das grandes cidades que crescem rapidamente. O monopólio dos bancos funde-se neste caso com o monopólio da renda da terra e com o monopólio das vias de comunicação, pois o aumento dos preços de terrenos, a possibilidade de os vender vantajosamente por parcelas, etc., dependem principalmente das boas vias de comunicação com a parte central da cidade, as quais se encontram nas mãos de grandes companhias, ligadas a esses mesmos bancos mediante o sistema de participação e da distribuição dos cargos diretivos. Resulta de tudo isso o que o autor alemão L. Eschwege, colaborador da revista Die Bank, que estudou especialmente as operações de venda e hipoteca de terrenos, qualifica de "pântano": a desenfreada especulação com os terrenos dos subúrbios das cidades, as falências das empresas de construção, como, por exemplo, a firma berlinense Boswau & Knauer, que
+tinha embolsado uma quantia tão elevada como 100 milhões de marcos por intermédio do banco "mais importante e respeitável", o Banco Alemão (Deutsche Bank), que, naturalmente, atuava segundo o sistema de "participação", isto é, em segredo, na sombra, e livrou-se da situação perdendo "apenas" 12 milhões de marcos; depois, a ruína dos pequenos patrões e dos operários, que não recebem nem um centavo das fictícias empresas de construção; as negociatas fraudulentas com a "honrada" polícia berlinense e com a administração urbana para ganhar o controlo do serviço de informação sobre os terrenos e das autorizações do município para construir, etc., etc..
+
+Os "costumes americanos", de que tão hipocritamente se lamentam os professores europeus e os burgueses bem intencionados, converteram-se, na época do capital financeiro, em costumes de literalmente toda a cidade importante de qualquer país.
+Em Berlim, em princípios de 1914, falava-se da fundação de um "trust dos transportes", isto é, de uma "comunidade de interesses" das três empresas berlinenses de transportes: os caminhos-de-ferro elétricos urbanos, a sociedade de carros elétricos e a de autocarros. "Que este propósito existe - diz a revista Die Bank - já o sabíamos desde que se tornou do domínio público que a maioria das ações da sociedade de autocarros tinha sido adquirida pelas outras duas sociedades de transportes ... Podemos acreditar inteiramente nos que visam esse objetivo quando afirmam que, mediante a regulação uniforme dos transportes, têm a esperança de obter economias, de uma parte das quais, no fim de contas, o público poderia beneficiar. Mas a questão complica-se em virtude de, por detrás desse trust dos transportes em formação, estarem os bancos, que, se quiserem, podem subordinar as vias de comunicação que monopolizam aos interesses do seu tráfico de terrenos. Para nos convencermos do bom
+fundamento desta suposição basta recordar que, ao ser fundada a sociedade dos caminhos-de-ferro, elétricos urbanos, já se encontravam ligados a ela os interesses do grande banco que patrocinou esse empreendimento. Isto é: os interesses da referida empresa de transportes entrelaçavam-se com os do tráfico de terrenos. O cerne da questão era que a linha oriental da referida via férrea devia passar por terrenos que mais tarde, quando a construção da via férrea já estava assegurada, o banco vendeu com enorme lucro para si e para algumas pessoas que intervieram no negócio.
+
+O monopólio, uma vez que foi constituído e controla milhares de milhões, penetra de maneira absolutamente inevitável em todos os aspectos da vida social, independentemente do regime político e de qualquer outra "particularidade". Nas publicações alemãs sobre economia são habituais os elogios servis à honradez dos funcionários prussianos e as alusões ao Panamá francês ou à venalidade política americana. Mas o fato é que até as publicações burguesas consagradas aos assuntos bancários da Alemanha se vêem constantemente obrigadas a sair dos limites das operações puramente bancárias e a escrever, por exemplo, sobre a ,aspiração para entrar nos bancos", a propósito dos casos, cada vez mais freqüentes, de funcionários que passam para o serviço destes. "Que se pode dizer da incorruptibilidade do funcionário do Estado cuja secreta aspiração consiste em encontrar uma sinecura na Behrenstrasse?" (rua de Berlim onde se encontra a sede do Banco Alemão). Alfred Lansburgh, diretor da revi
+sta Die Bank, escreveu em 1909 um artigo intitulado "A Significação Econômica do Bizantinismo", a propósito, entre outras coisas, da viagem de Guilherme II à Palestina e do "resultado direto dessa viagem, a construção do caminho-de-ferro de Bagdad, essa fatal 'grande obra do espírito empreendedor alemão', que é mais culpada do nosso 'cerco' do que todos os nossos pecados políticos juntos" (por "cerco" entende-se a política de Eduardo VII, que visava isolar a Alemanha e rodeá-la de uma aliança imperialista anti-alemã). Eschwege, colaborador dessa mesma revista e referido mais acima, escreveu em 1911 um artigo intitulado "A Plutocracia e os Funcionários", no qual denunciava, por exemplo, o caso do funcionário alemão Võlker, que era membro da comissão de cartéis e se distinguia pela sua energia, mas pouco tempo depois ocupou um cargo lucrativo no cartel mais importante, o sindicato do aço. Os casos desse gênero, que não são de modo nenhum excepcionais, obrigaram esse mesmo
+escritor burguês a reconhecer que "a liberdade econômica garantida pela Constituição alemã se converteu, em muitas esferas da vida econômica, numa frase sem sentido" e que, com a dominação a que chegou a plutocracia, "nem a liberdade política mais ampla nos pode salvar de nos convertermos num povo de homens privados de liberdade".
+
+No que se refere à Rússia, limitar-nos-emos a um só exemplo: há alguns anos, todos os jornais deram a notícia de que Davídov, diretor do Departamento de Crédito, abandonava o seu lugar nesse organismo do Estado para entrar ao serviço de um banco importante, com um vencimento que, ao fim de alguns anos, deveria representar, segundo o contrato, uma soma de mais de 1 milhão de rublos. O Departamento de Crédito é uma instituição destinada a "unificar a atividade de todos os estabelecimentos de crédito do Estado" e que fornece subsídios aos bancos da capital no valor de 800 a 1.000 milhões de rublos.
+
+É próprio do capitalismo em geral separar a propriedade do capital da sua aplicação à produção, separar o capital-dinheiro do industrial ou produtivo, separar o rentier, que vive apenas dos rendimentos provenientes do capital-dinheiro, do empresário e de todas as pessoas que participam diretamente na gestão do capital. O imperialismo, ou domínio do capital financeiro, é o capitalismo no seu grau superior, em que essa separação adquire proporções imensas. O predomínio do capital financeiro sobre todas as demais formas do capital implica o predomínio do rentier e da oligarquia financeira, a situação destacada de uns quantos Estados de "poder" financeiro em relação a todos os restantes. O volume deste processo dão-no-lo a conhecer os dados estatísticos das emissões de toda a espécie de valores.
+
+No Boletim do Instituto Internacional de Estatística, A. Neymarck publicou os dados mais pormenorizados, completos e susceptíveis de comparação sobre as emissões em todo o mundo, dados que depois foram reproduzidos muitas vezes parcialmente nas publicações econômicas. Eis os dados correspondentes a quatro decênios:
+
+Total das Emissões (em milhares de milhões de francos em cada 10 anos)
+1871-1880 .................................................... 76,1
+1881-1890 .................................................... 64,5
+1891-1900 .................................................... 100,4
+1901-1910 ................................................... 197,8
+
+Na década de 1870 o total das emissões aparece elevado em todo o mundo, particularmente pelos empréstimos, em relação com a guerra franco-prussiana e com a Gründerzeit que se lhe seguiu na Alemanha. Em geral, o aumento é relativamente lento, durante os três últimos decênios do século XIX, e só no primeiro decênio do século XX atinge grandes proporções, quase duplicando em dez anos. Os começos do século XX constituem pois uma época de viragem, não só do ponto de vista do crescimento dos monopólios (cartéis, sindicatos, trusts), de que já falamos, mas também do ponto de vista do crescimento do capital financeiro.
+
+O total de valores emitidos no mundo era em 1910, segundo os cálculos de Neymarck, de uns 815 mil milhões de francos. Deduzindo aproximativamente as duplicações, o número desce para 575 ou 600 mil milhões. Eis a distribuição por países (com base no número de 600 mil milhões):
+
+Total dos Valores em 1910 (Em milhares de milhões de francos)
+
+Destes dados vê-se imediatamente com que força se destacam os quatro países capitalistas mais ricos, que dispõem aproximadamente de 100 a 150 mil milhões de francos em valores. Desses quatro, dois - Inglaterra e França são os países capitalistas mais velhos e, como veremos, os mais ricos em colônias; os outros dois - os Estados Unidos e a Alemanha - são países capitalistas avançados pela rapidez de desenvolvimento e pelo grau de difusão dos monopólios capitalistas na produção. Os quatro juntos têm 479 mil milhões de francos, isto é, cerca de 80 % do capital financeiro mundial. Quase todo o resto do mundo exerce, de uma forma ou de outra, funções de devedor e tributário desses países, banqueiros internacionais, desses quatro "pilares" do capital financeiro mundial.
+
+Convém determo-nos particularmente no papel que desempenha a exportação de capital na criação da rede internacional de dependências e de relações do capital financeiro.
+
+
+|SOUND:intro.wav|
+|PAUSE:0.3|
+
+Obrigado por sintonizar na Boca do Sol podcast!
+|PAUSE:0.3|
+Convido a todos para conhecer o projeto e especialmente os textos marxistas.
+|PAUSE:0.3|
+A revolução brasileira está em construção por todos nós!
+Venceremos!
+
+|PAUSE:0.5|
+
+Biografia do autor
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Vladimir Ilitch Lênin
+
+   1870-1924
+
+   Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu o partido e os sovietes à tomada de poder na Revolução Russa de 1917. Fundou a Internacional Comunista, identificou o Imperialismo como fase superior do Capitalismo e enfatizou o papel do partido como vanguarda da revolução.
+
+|PAUSE:2.0|
+

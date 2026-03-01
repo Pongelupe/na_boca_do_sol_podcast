@@ -1,0 +1,20 @@
+# url base do livro https://www.marxists.org/portugues/lenin/1904/passo/index.htm 
+
+https://www.marxists.org/portugues/lenin/1904/passo/a.htm
+https://www.marxists.org/portugues/lenin/1904/passo/b.htm
+https://www.marxists.org/portugues/lenin/1904/passo/c.htm
+https://www.marxists.org/portugues/lenin/1904/passo/d.htm
+https://www.marxists.org/portugues/lenin/1904/passo/e.htm
+https://www.marxists.org/portugues/lenin/1904/passo/f.htm
+https://www.marxists.org/portugues/lenin/1904/passo/g.htm
+https://www.marxists.org/portugues/lenin/1904/passo/h.htm
+https://www.marxists.org/portugues/lenin/1904/passo/i.htm
+https://www.marxists.org/portugues/lenin/1904/passo/j.htm
+https://www.marxists.org/portugues/lenin/1904/passo/l.htm
+https://www.marxists.org/portugues/lenin/1904/passo/m.htm
+https://www.marxists.org/portugues/lenin/1904/passo/n.htm
+https://www.marxists.org/portugues/lenin/1904/passo/o.htm
+https://www.marxists.org/portugues/lenin/1904/passo/p.htm
+https://www.marxists.org/portugues/lenin/1904/passo/q.htm
+https://www.marxists.org/portugues/lenin/1904/passo/r.htm
+https://www.marxists.org/portugues/lenin/1904/passo/s.htm

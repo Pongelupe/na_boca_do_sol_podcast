@@ -1,0 +1,113 @@
+|SOUND:intro.wav|
+|PAUSE:0.3|
+Bem-vindos ao podcast Na Boca do Sol.
+
+O podcast Na Boca do Sol visa divulgar a imortal ciência do proletariado, o marxismo.
+De forma gratuíta e livre como material de estudo para qualquer pessoa que se interessa pelo tema.
+Aqui vamos realizar a leitura de textos marxistas de vários autores, lugares e épocas.
+
+Eu me chamo Alex, sou uma voz sintetizada por inteligência artificial que conduzirá esse episódio.
+Todos os textos lidos aqui são de domínio público disponibilizados pela biblioteca internacional chamada Marxists Internet Archive, M I A.
+O código utilizado para gerar este podcast é aberto e está disponível no GitHub.
+Nos siga no Instagram em arroba na boca do sol podcast.
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+No episódio de hoje vamos apresentar o texto: Título desconhecido.
+|PAUSE:0.3|
+Capítulo V - A Partilha do Mundo entre as Associações de Capitalistas
+|PAUSE:0.3|
+O número de linhas do texto é de 58.
+
+Ao fim da leitura vamos ler a biografia do autor.
+|PAUSE:0.5|
+Fiquem com o texto de hoje do podcast Na Boca do Sol.
+Bons estudos!
+
+|PAUSE:0.5|
+|SOUND:virgula.wav|
+|PAUSE:0.5|
+
+O Imperialismo, Fase Superior do Capitalismo
+
+V. I. Lenine
+
+V - A Partilha do Mundo entre as Associações de Capitalistas
+
+As associações de monopolistas capitalistas - cartéis, sindicatos, trusts partilham entre si, em primeiro lugar, o mercado interno, apoderando-se mais ou menos completamente da produção do país. Mas sob o capitalismo o mercado interno está inevitavelmente entrelaçado com o externo. Há já muito que o capitalismo criou um mercado mundial. E à medida que foi aumentando a exportação de capitais e se foram alargando, sob todas as formas as relações com o estrangeiro e com as colônias e as "esferas de influência" das maiores associações monopolistas, a marcha "natura1" das coisas levou a um acordo universal entre elas, à constituição de cartéis internacionais.
+
+É um novo grau da concentração mundial do capital e da produção, um grau incomparavelmente mais elevado que os anteriores. Vejamos como surge este supermonopólio.
+
+A indústria elétrica é a mais típica, do ponto de vista dos últimos progressos da técnica, para o capitalismo de fins do século XIX e princípios do século XX. E, entre os novos países capitalistas, adquiriu maior impulso nos dois mais avançados, os Estados Unidos e a Alemanha. Na Alemanha, a crise de 1900 contribuiu particularmente para a concentração deste ramo da indústria. Os bancos, que nessa época se encontravam já bastante ligados à indústria, aceleraram e aprofundaram ao mais alto grau, durante essa crise, a ruína das empresas relativamente pequenas, a sua absorção pelas grandes. "Os bancos - diz Jeidels - negaram apoio precisamente às empresas que mais necessidade tinham dele, provocando com isso, a princípio, um ascenso vertiginoso, e depois o craque irremediável das sociedades que não estavam suficientemente ligadas a eles. "
+
+Como resultado, a concentração avançou, depois de 1900, a passos de gigante. Até 1900 tinham existido 7 ou 8 "grupos" na indústria elétrica; cada um era composto por várias sociedades (no total havia 28) e por detrás de cada um havia 2 a 11 bancos. Por volta de 1908-1912 todos esses grupos se fundiram em um ou dois. Eis como se produziu o referido processo:
+
+GRUPOS NA INDÚSTRIA ELÉTRICA
+
+A famosa AEG (Sociedade Geral de Eletricidade), assim desenvolvida, exerce o seu domínio sobre 175 ou 200 sociedades (através do sistema de "participação") e dispõe de um capital total de cerca de 1500 milhões de marcos. Só no estrangeiro conta com 34 representações diretas, 12 das quais são sociedades anônimas estabelecidas em mais de dez países. já em 1904 calculava-se que os capitais investidos pela indústria elétrica alemã no estrangeiro ascendiam a 233 milhões de marcos, dos quais 62 milhões na Rússia. Escusado será dizer que a Sociedade Geral de Eletricidade constitui uma gigantesca empresa "combinada" - só o número das suas sociedades fabris é de 16 - que produz os mais variados artigos, desde cabos e isoladores até automóveis e aparelhos de aviação.
+
+Mas a concentração na Europa foi também um elemento integrante no processo de concentração nos Estados Unidos. Eis como ele se produziu:
+
+Deste modo se formaram duas "potências" elétricas. "É impossível encontrar no mundo uma única sociedade elétrica que seja completamente independente delas" - diz Heinig no seu artigo Os Caminhos do Trust da Eletricidade. Os números seguintes dão uma idéia, que está muito longe de ser completa, das proporções do volume de negócios e da dimensão das empresas de ambos os trusts.
+
+E eis que em 1907, entre o trust americano e o trust alemão se estabeleceu um acordo para a partilha do mundo. Foi suprimida a concorrência: a GEC "recebeu" os Estados Unidos e o Canadá; à AEG "couberam" a Alemanha, a Áustria, a Rússia, a Holanda, a Dinamarca, a Suíça, a Turquia e os Balcãs. Firmaram-se acordos especiais, naturalmente secretos, em relação às filiais, que penetram em novos ramos da indústria e em países "novos", ainda não incluídos formalmente na partilha. Estabeleceu-se o intercâmbio de invenções e experiências .
+
+Compreende-se perfeitamente até que ponto é difícil a concorrência com este trust, realmente único, mundial, que dispõe de um capital de milhares de milhões, e tem as suas "sucursais", representações, agências, relações, etc., em todos os cantos do mundo. Mas a partilha do mundo entre dois trusts fortes não exclui, naturalmente, uma nova partilha, no caso de se modificar a correlação de forças em conseqüência da desigualdade do desenvolvimento, das guerras, dos craques, etc.
+
+A indústria do petróleo oferece-nos um exemplo elucidativo de urna tentativa de nova partilha deste gênero, da luta para o conseguir.
+
+"O mercado mundial do petróleo - escrevia Jeidels em 1905 - encontra-se ainda atualmente dividido entre dois grandes grupos financeiros: o trust americano Standard Oil Co., de Rockefeller, e os donos do petróleo russo de Baku, isto é, Rothschild e Nobel. Ambos os grupos estão intimamente ligados entre si, mas a sua situação de monopólio encontra-se ameaçada há alguns anos por cinco inimigos" : 1) o esgotamento dos jazigos norte-americanos de petróleo; 2) a concorrência da firma Mantáshev em Baku; 3) os jazigos da Áustria; 4) os da Romênia; 5) os jazigos de petróleo transoceânicos, particularmente nas colônias holandesas (as riquíssimas firmas Samuel e Shell, também ligadas ao capital inglês). Os três últimos grupos de empresas estão relacionados com os grandes bancos alemães, e em primeiro lugar com o Banco Alemão, o mais importante deles. Estes bancos impulsionaram de urna forma sistemática e independente a indústria petrolífera, por exemplo na Romênia, a fim de terem o "seu"
+ponto de apoio. Em 1907 calculava-se que na indústria romena do petróleo havia capitais estrangeiros no valor de 185 milhões de francos, dos quais 74 milhões eram alemães .
+
+Começou o que nas publicações econômicas se chama luta pela "partilha do mundo". Por um lado, a Standard Oil, de Rockefeller, desejosa de se apoderar de tudo, fundou uma filial na própria Holanda, adquirindo os jazigos da Índia Holandesa e procurando assestar assim um golpe no seu inimigo principal: o trust anglo-holandês Shell. Por outro lado, o Banco Alemão e outros bancos berlinenses procuravam "conservar" a Romênia e uni-la à Rússia contra Rockefeller. Este último possuía um capital incomparavelmente mais volumoso e uma magnífica organização de transportes e abastecimento aos consumidores. A luta devia terminar, e terminou, em 1907, com a derrota completa do Banco Alemão, diante do qual se abriam dois caminhos: ou liquidar, com perdas de milhões, os seus "interesses petrolíferos", ou submeter-se. Escolheu o segundo e concluiu um acordo muito pouco vantajoso com a Standard Oil. No referido acordo comprometia-se "a não fazer nada em prejuízo dos interesses norte-americanos",
+com a ressalva, no entanto, de que o convênio perderia a sua vigência no caso de a Alemanha vir a aprovar uma lei implantando o monopólio do Estado sobre o petróleo.
+
+Começa então a "comédia do petróleo". Von Gwinner, diretor do Banco Alemão e um dos reis financeiros da Alemanha, organiza, por intermédio do seu secretário particular, Stauss, uma campanha a favor do monopólio do petróleo. Põe-se em ação todo o gigantesco aparelho do mais importante banco berlinense, todas as vastas "relações" de que dispõe, a imprensa enche-se de clamores "patrióticos" contra o "jugo" do trust americano, e o Reichtag decide, quase por unanimidade, em 15 de Março de 1911, convidar o governo a preparar um projeto, de monopólio do petróleo. O governo aceitou esta idéia "popular", e o Banco Alemão, desejoso de enganar o seu rival americano e de pôr em ordem os seus negócios mediante o monopólio de Estado, pareci ter ganho a partida. Os reis alemães do petróleo esfregavam já as mãos de prazer pensando nos seus lucros fabulosos, que não seriam inferiores aos dos fabricantes de açúcar russos ... Mas em primeiro lugar, os grandes bancos alemães zangaram-se entre si
+por causa da partilha do saque, e a Sociedade de Desconto pôs a descoberto o objetivos interessados do Banco Alemão; em segundo lugar, o governo assustou-se com a idéia de uma luta com Rockefeller, pois era muito duvidoso que a Alemanha conseguisse obter petróleo sem contar com ele (o rendimento da Romênia não é muito considerável); em terceiro lugar, quase ao mesmo tempo, em 1913, votava-se um crédito de 1.000 milhões para o preparativos de guerra da Alemanha. O projeto de monopólio foi adiado. De momento, a Standard Oil de Rockefeller saiu vitoriosa da luta.
+
+A revista berlinense Die Bank escreveu a este respeito que a Alemanha não poderia lutar com a Standard Oil a não ser implantando o monopólio de eletricidade e convertendo a força hidráulica em energia elétrica barata. Mas - acrescentava – "o monopólio da eletricidade virá quando dele necessitarem os produtores: quando nos encontrarmos em vésperas de outro grande craque, desta vez na indústria elétrica, e quando já não puderem funcionar com lucro as gigantescas e caras centrais elétricas que os 'consórcios' privados da indústria elétrica estão agora construindo em toda parte e para as quais estão a obter já diversos monopólios dos municípios dos Estados, etc. Será necessário então pôr em marcha as forças hidráulicas mas não será possível convertê-las em eletricidade barata por conta do Estado, tornando-se necessário entregá-las também a um 'monopólio privado submetido ao controlo do Estado', pois a indústria privada já conclui bastantes transações e estipulou grandes
+indenizações ... Assim aconteceu com o monopólio do petróleo e assim será com o monopólio da eletricidade. Já é tempo de os nossos socialistas de Estado, que se deixam deslumbrar por princípios brilhantes, compreenderem finalmente que, na Alemanha, os monopólios nunca tiveram a intenção de proporcionar benefício aos consumidores ou, pelo menos, de pôr à disposição do Estado uma parte dos lucros patronais, tendo servido unicamente para sanear, à custa do Estado, a indústria privada, colocada quase à beira da falência".
+
+Tais são as valiosas confissões que se vêem obrigados a fazer os economistas burgueses da Alemanha. Por aqui vemos claramente como, na época do capital financeiro, os monopólios de Estado e os privados se entrelaçam, formando um todo, e como tanto uns como outros não são na realidade mais do que diferentes elos da luta imperialista travada pelos maiores monopolistas pela partilha do mundo.
+
+Na marinha mercante, o gigantesco processo de concentração conduziu também à partilha do mundo. Na Alemanha destacaram-se duas grandes sociedades: Hamburg-Amerika e a Lloyd da Alemanha do Norte, com um capital de 200 milhões de marcos (ações e obrigações) cada uma, e possuindo barcos num valor de 185 a 189 milhões de marcos. Por outro lado, foi fundado na América, em 1 de janeiro de 1903, o chamado trust Morgan, a Companhia Internacional de Comércio Marítimo, que agrupa nove companhias de navegação americanas e inglesas, e dispõe de um capital de 120 milhões de dólares (480 milhões de marcos). Já em 1903 foi assinado um contrato sobre a partilha do mundo entre os colossos alemães e esse trust anglo-americano no que se refere à partilha dos lucros. As sociedades alemãs renunciaram a entrar em concorrência nos transportes entre a Inglaterra e a América. Fixaram-se taxativamente os portos "reservados" a cada um, criou-se um comitê de controlo comum, etc. O contrato foi concluído
+para vinte anos, com a prudente reserva de que perderia a validade em caso de guerra .
+
+É também extraordinariamente elucidativa a história da constituição do cartel internacional dos carris de ferro. A primeira vez que as fábricas de carris inglesas, belgas e alemãs tentaram constituir o referido cartel foi em 1884, num período de depressão industrial muito grave. Estabeleceram um acordo para os subscritores do pacto não competirem nos mercados internos dos respectivos países, e os mercados externos foram distribuídos na proporção seguinte: Inglaterra 66 %, Alemanha 27 % e Bélgica 7 %. A índia ficou inteiramente à disposição da Inglaterra. Fez-se a guerra em comum a uma companhia inglesa que tinha ficado à margem do acordo. Os gastos dessa guerra foram cobertos com uma percentagem das vendas gerais. Mas em 1886, quando duas firmas inglesas se retiraram do cartel, este desmoronou-se. É eloqüente o fato de o acordo não ter sido possível durante os períodos de prosperidade industrial que se seguiram.
+
+Em princípios de 1904 foi fundado o sindicato do aço da Alemanha. Em Novembro do mesmo ano voltou a formar-se o cartel internacional dos carris de ferro, com a seguinte proporção: Inglaterra 53,5 %, Alemanha 28,83 % e Bélgica 17,67 %. Mais tarde foi incorporada a França com 4,8 %, 5,8 % e 6,4 % no primeiro, segundo e terceiro anos respectivamente, além dos 100 %, quer dizer, calculando sobre um total de 104,8 %, e assim sucessivamente. Em 1905 aderiu o trust do aço dos Estados Unidos (Corporação do Aço); depois juntaram-se-Ihe a Áustria e a Espanha. "No momento atual - dizia Vogelstein em 1910 -, a partilha do mundo está concluída, e os grandes consumidores, em primeiro lugar os caminhos-de-ferro do Estado, podem viver - visto que o mundo está já repartido, sem ter em conta os seus interesses -, como o poeta nos céus de júpíter-.
+
+Recordemos também o sindicato internacional do zinco, fundado em 1909, que fez uma distribuição exata do volume da produção entre cinco grupos de fábricas: alemãs, belgas, francesas, espanholas e inglesas; depois, o trust internacional da pólvora, essa "estreita aliança, perfeitamente moderna — segundo palavras de Liefmann —, de todas as fábricas alemãs de explosivos, que, reunidas mais tarde às fábricas de dinamite francesas e americanas, organizadas de maneira análoga, partilharam, por assim dizer, o mundo inteiro" .
+
+Segundo Liefmann, em 1897 havia cerca de 40 cartéis internacionais com a participação da Alemanha; em 1910 aproximavam-se já da centena.
+
+Alguns escritores burgueses (aos quais se juntou agora Kautsky, que atraiçoou completamente a sua posição marxista de 1909, por exemplo) exprimiram a opinião de que os cartéis internacionais, sendo como são uma das expressões de maior relevo da internacionalização do capital, permitem acalentar a esperança de que a paz entre os povos virá a imperar sob o capitalismo. Esta opinião é, do ponto de vista teórico, completamente absurda, e do ponto de vista prático um sofisma, um meio de defesa pouco honesto do oportunismo da pior espécie. Os cartéis internacionais mostram até que ponto cresceram os monopólios, e quais são os objetivos da luta que se desenrola entre os grupos capitalistas. Esta última circunstância é a mais importante, só ela nos esclarece sobre o sentido histórico-econômico dos acontecimentos, pois a forma de luta pode mudar, e muda constantemente, de acordo com diversas causas, relativamente particulares e temporais, enquanto a essência da luta, o seu conteúdo de
+classe, não pode mudar enquanto subsistirem as classes. Compreende-se que os interesses da burguesia alemã, por exemplo, para a qual Kautsky se passou na realidade nos seus raciocínios teóricos (como veremos mais adiante), ditem a conveniência de ocultar o conteúdo da luta econômica atual (pela partilha do mundo), de sublinhar ora uma ora outra forma dessa luta. Kautsky incorre neste mesmo erro. E não se trata apenas, naturalmente, da burguesia alemã, mas da burguesia mundial. Os capitalistas não partilham o mundo levados por uma particular perversidade, mas porque o grau de concentração a que se chegou os obriga a seguir esse caminho para obterem lucros; e repartem-no "segundo o capital", "segundo a força"; qualquer outro processo de partilha é impossível no sistema da produção mercantil e no capitalismo. A força varia, por sua vez, de acordo com o desenvolvimento econômico e político; para compreender o que está a acontecer é necessário saber que problemas são solucionados
+pelas mudanças da força, mas saber se essas mudanças são "puramente" econômicas ou extra-econômicas (por exemplo, militares), é secundário e em nada pode fazer variar a concepção fundamental sobre a época atual do capitalismo. Substituir o conteúdo da luta e das transações entre os grupos capitalistas pela forma desta luta e destas transações (hoje pacífica, amanhã não pacífica, depois de amanhã outra vez não pacífica) significa descer ao papel de sofista.
+
+A época do capitalismo contemporâneo mostra-nos que se estão a estabelecer determinadas relações entre os grupos capitalistas com base na partilha econômica do mundo, e que, ao mesmo tempo, em ligação com isto, se estão a estabelecer entre os grupos políticos, entre os Estados, determinadas relações com base na partilha territorial do mundo, na luta pelas colônias, na "luta pelo território econômico".
+
+
+|SOUND:intro.wav|
+|PAUSE:0.3|
+
+Obrigado por sintonizar na Boca do Sol podcast!
+|PAUSE:0.3|
+Convido a todos para conhecer o projeto e especialmente os textos marxistas.
+|PAUSE:0.3|
+A revolução brasileira está em construção por todos nós!
+Venceremos!
+
+|PAUSE:0.5|
+
+Biografia do autor
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Vladimir Ilitch Lênin
+
+   1870-1924
+
+   Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu o partido e os sovietes à tomada de poder na Revolução Russa de 1917. Fundou a Internacional Comunista, identificou o Imperialismo como fase superior do Capitalismo e enfatizou o papel do partido como vanguarda da revolução.
+
+|PAUSE:2.0|
+
