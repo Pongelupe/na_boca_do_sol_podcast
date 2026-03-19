@@ -10,11 +10,11 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 |------|-----|:----:|:---:|
 | A Que Herança Renunciamos? | 1897 |  | [🔗](https://www.marxists.org/portugues/lenin/1897/heranca/index.htm) |
 | Que Fazer? Problemas Candentes do Nosso Movimento | 1902 |  | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#quefazer) |
-| Um Passo em Frente, Dois Passos Atrás | 1904 - mai |  | [🔗](https://www.marxists.org/portugues/lenin/1904/passo/passo.pdf) |
+| Um Passo em Frente, Dois Passos Atrás | 1904 - mai | [📁](Um_Passo_em_Frente,_Dois_Passos_Atrás/) | [🔗](https://www.marxists.org/portugues/lenin/1904/passo/passo.pdf) |
 | Duas Tácticas da Social-Democracia na Revolução Democrática | 1905 - jul |  | [🔗](https://www.marxists.org/portugues/lenin/1905/taticas/tacticas.pdf) |
-| O Imperialismo, Fase Superior do Capitalismo | 1916 - jun |  | [🔗](https://www.marxists.org/portugues/lenin/1916/imperialismo/imperialismo.pdf) |
+| O Imperialismo, Fase Superior do Capitalismo | 1916 - jun | [📁](O_Imperialismo,_Fase_Superior_do_Capitalismo/) | [🔗](https://www.marxists.org/portugues/lenin/1916/imperialismo/imperialismo.pdf) |
 | Sobre as Tarefas do Proletariado na Presente Revolução (Teses de Abril) | 1917 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1917/04/04_teses.htm) |
-| O Estado e a Revolução | 1918 |  | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#estado) |
+| O Estado e a Revolução | 1918 | [📁](O_Estado_e_a_Revolução/) | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#estado) |
 | A Revolução Proletária e o Renegado Kautsky | 1918 - nov |  | [🔗](https://www.marxists.org/portugues/lenin/1918/renegado/renegado.pdf) |
 | A Doença Infantil do «Esquerdismo» no Comunismo | 1920 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1920/05/esquerdismo-doenca-infantil.pdf) |
 | Quem São os «Amigos do Povo» e Como Lutam Contra os Social-democratas? | 1894 |  | [🔗](https://www.marxists.org/portugues/lenin/1894/mes/40.htm) |
@@ -391,14 +391,19 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Do Projeto de Programa do PC (b) da Rússia — Parte agrária do programa | 1919~ |  | [🔗](https://www.marxists.org/portugues/lenin/ano/mes/40.htm) |
 | Carta aos operários e camponeses da Ucrânia em função das vitórias sobre Denikin | 1920 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/../tematica/livros/por/pdf/56.pdf) |
 | Às Operárias | 1920 - fev |  | [🔗](https://www.marxists.org/portugues/lenin/1920/02/22.htm) |
-| <tr>   <td>1920 - fev</td>   <td><a href="1920/02/21.htm">Conversa com o correspondente do jornal americano <i>The World</i>, Lincoln Eire</a></td>  </tr>   | 1920 - fev |  | [🔗](https://www.marxists.org/portugues/lenin/1920/02/21.htm) |
+| <tr> 
+  <td>1920 - fev</td> 
+  <td><a href="1920/02/21.htm">Conversa com o correspondente do jornal americano <i>The World</i>, Lincoln Eire</a></td> 
+ </tr> 
+ 
+ | 1920 - fev |  | [🔗](https://www.marxists.org/portugues/lenin/1920/02/21.htm) |
 | Resposta às perguntas de Karl Wigand, correspondente em Berlim da Agência de Informação americana «Universal Service» | 1920 - fev |  | [🔗](https://www.marxists.org/portugues/lenin/1920/02/18.htm) |
 | IX Congresso do PCR(b) | 1920 - mar |  | [🔗](https://www.marxists.org/portugues/lenin/1920/03/29.htm) |
 | O Dia Internacional da Mulher (1920) | 1920 - mar |  | [🔗](https://www.marxists.org/portugues/lenin/1920/03/07.htm) |
 | Sobre a Restauração dos Transportes | 1920 - mar |  | [🔗](https://www.marxists.org/portugues/lenin/discursos/transporte.htm) |
 | Sobre a Disciplina Laboral | 1920 - mar |  | [🔗](https://www.marxists.org/portugues/lenin/discursos/disciplina.htm) |
 | Da destruição de um Regime Secular à criação de um Novo Regime | 1920 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1920/04/08.htm) |
-| Esquerdismo — Doença Infantil do Comunismo | 1920 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1920/05/esquerdismo-doenca-infantil.pdf) |
+| Esquerdismo — Doença Infantil do Comunismo | 1920 - abr | [📁](Esquerdismo_—_Doença_Infantil_do_Comunismo/) | [🔗](https://www.marxists.org/portugues/lenin/1920/05/esquerdismo-doenca-infantil.pdf) |
 | Discurso aos Soldados Vermelhos que Partem para a Frente Polaca | 1920 - mai |  | [🔗](https://www.marxists.org/portugues/lenin/1920/05/05.htm) |
 | Esboço inicial das teses sobre a questão agrária para o II Congresso da Internacional Comunista | 1920 - jun |  | [🔗](https://www.marxists.org/portugues/lenin/1920/06/40.htm) |
 | II Congresso da Internacional Comunista | 1920 - jul |  | [🔗](https://www.marxists.org/portugues/lenin/1920/07/24.htm) |
