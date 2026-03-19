@@ -1,0 +1,65 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const authors = await getCollection('authors');
+  return authors.map((author) => ({
+    params: { slug: author.data.slug },
+    props: { author },
+  }));
+}
+
+const { author } = Astro.props;
+const { Content } = await render(author);
+---
+
+<Base title={author.data.name}>
+  <div class="author-header">
+    {author.data.image && <img src={author.data.image} alt={author.data.name} />}
+    <h2>{author.data.name}</h2>
+  </div>
+  <div class="content">
+    <Content />
+  </div>
+
+  <script>
+    const table = document.querySelector('.content table');
+    if (table) {
+      const controls = document.createElement('div');
+      controls.className = 'table-controls';
+
+      const input = document.createElement('input');
+      input.type = 'text';
+      input.className = 'search-bar';
+      input.placeholder = 'Buscar texto...';
+
+      const label = document.createElement('label');
+      label.className = 'filter-toggle';
+      const cb = document.createElement('input');
+      cb.type = 'checkbox';
+      label.appendChild(cb);
+      label.appendChild(document.createTextNode(' Apenas com episódio'));
+
+      controls.appendChild(input);
+      controls.appendChild(label);
+      table.parentNode!.insertBefore(controls, table);
+
+      const rows = Array.from(table.querySelectorAll('tbody tr'));
+
+      function filter() {
+        const q = input.value.toLowerCase();
+        const audioOnly = cb.checked;
+        rows.forEach((row) => {
+          const text = row.textContent!.toLowerCase();
+          const hasAudio = row.querySelector('audio') !== null || row.innerHTML.includes('📖');
+          const matchesSearch = text.includes(q);
+          (row as HTMLElement).style.display = matchesSearch && (!audioOnly || hasAudio) ? '' : 'none';
+        });
+      }
+
+      input.addEventListener('input', filter);
+      cb.addEventListener('change', filter);
+    }
+  </script>
+</Base>

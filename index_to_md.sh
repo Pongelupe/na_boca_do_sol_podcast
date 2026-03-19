@@ -21,6 +21,16 @@ img=$(echo "$html" | sed -n 's/.*<img src="\([^"]*\)".*class="bordafoto".*/\1/p'
 # Extract biography paragraphs
 bio=$(echo "$html" | sed -n 's/.*<p class="texto-sem-espaco">\(.*\)<\/p>.*/\1/p' | sed 's/<[^>]*>//g')
 
+# Generate author.json
+if [ -n "$ARQUIVOS_DIR" ] && [ -d "$ARQUIVOS_DIR" ]; then
+    full_img=""
+    [ -n "$img" ] && full_img="$BASE_URL/$img"
+    cat > "$ARQUIVOS_DIR/author.json" << EOF
+    {"name": "$author", "image": "$full_img" }
+EOF
+    echo "author.json gerado em $ARQUIVOS_DIR/" >&2
+fi
+
 echo "# $author"
 echo ""
 [ -n "$img" ] && echo "<p align=\"center\"><img src=\"$BASE_URL/$img\" alt=\"$author\"></p>"

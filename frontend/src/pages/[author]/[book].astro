@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const books = await getCollection('books');
+  return books.map((book) => ({
+    params: { author: book.data.author_slug, book: book.data.book_slug },
+    props: { book },
+  }));
+}
+
+const { book } = Astro.props;
+const { Content } = await render(book);
+---
+
+<Base title={book.data.title}>
+  <div class="author-header">
+    <p><a href={`/${book.data.author_slug}/`}>← {book.data.author_name}</a></p>
+    {book.data.image && <img src={book.data.image} alt={book.data.title} />}
+    <h2>{book.data.title}</h2>
+    {book.data.year && <p style="color: var(--text-muted);">{book.data.year}</p>}
+    {book.data.description && <p class="author-bio">{book.data.description}</p>}
+    {book.data.mia_url && <p><a href={book.data.mia_url} target="_blank">Ler no Marxists.org 🔗</a></p>}
+  </div>
+  <div class="content">
+    <Content />
+  </div>
+</Base>

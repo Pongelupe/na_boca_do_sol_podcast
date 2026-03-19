@@ -14,6 +14,7 @@ Mao ocupou a Presidência da República Popular da China até após o “Grande 
 | Um Estudo de Educação Física | 1917 - abr  |  | [🔗](https://www.marxists.org/portugues/mao/1917/04/fisica.htm) |
 | Para a glória dos Hans | 1919 - ago  |  | [🔗](https://www.marxists.org/portugues/mao/1919/08/40.htm) |
 | Comunismo e Ditadura | 1921 - jan  |  | [🔗](https://www.marxists.org/portugues/mao/1921/01/comunismo.htm) |
+| O governo chinês e os estrangeiros | 1923 - ago  |  | [🔗](https://www.marxists.org/portugues/mao/1923/08/29.htm) |
 | Algumas Questões Importantes na Comemoração da Comuna de Paris | 1926 - mar  |  | [🔗](https://www.marxists.org/portugues/mao/1926/03/18.htm) |
 | Análise das Classes na Sociedade Chinesa | 1926 - mar  |  | [🔗](https://www.marxists.org/portugues/mao/1926/03/classes.htm) |
 | Relatório Sobre uma Investigação Feita no Hunan a Respeito do Movimento Camponês | 1927 - mar  |  | [🔗](https://www.marxists.org/portugues/mao/1927/03/hunan.htm) |
@@ -33,10 +34,10 @@ Mao ocupou a Presidência da República Popular da China até após o “Grande 
 | As Tarefas do Partido Comunista da China no Período da Resistência ao Japão | 1937 - mai  |  | [🔗](https://www.marxists.org/portugues/mao/1937/05/03.htm) |
 | Lutemos Para Incorporar as Massas por Milhões na Frente Única Nacional Anti-Japonesa | 1937 - mai  |  | [🔗](https://www.marxists.org/portugues/mao/1937/05/07.htm) |
 | Sobre a  Prática | 1937 - jul |  | [🔗](https://www.marxists.org/portugues/mao/1937/07/pratica-ga.htm) |
-| Sobre a Prática | 1937 - jul  | [📁](Sobre_a_Prtica_Sobre_a_relao_entre_o_conhecimento_e_a_prtica_A_Relao_entre_o_Conhecer_o_Agir/) | [🔗](https://www.marxists.org/portugues/mao/1937/07/pratica.htm) |
+| Sobre a Prática | 1937 - jul  |  | [🔗](https://www.marxists.org/portugues/mao/1937/07/pratica.htm) |
 | Linha Política, Medidas e Perspectivas na Luta Contra a Ofensiva Japonesa | 1937 - jul  |  | [🔗](https://www.marxists.org/portugues/mao/1937/07/23.htm) |
 | Lutar Pela Mobilização de Todas as Forças Para a Vitória da Guerra de Resistência | 1937 - ago  |  | [🔗](https://www.marxists.org/portugues/mao/1937/08/25.htm) |
-| Sobre a Contradição | 1937 - ago  | [📁](Sobre_a_Contradio/) | [🔗](https://www.marxists.org/portugues/mao/1937/08/contra.htm) |
+| Sobre a Contradição | 1937 - ago  |  | [🔗](https://www.marxists.org/portugues/mao/1937/08/contra.htm) |
 | Contra o Liberalismo | 1937 - set  |  | [🔗](https://www.marxists.org/portugues/mao/1937/09/07.htm) |
 | Tarefas Urgentes Após o Estabelecimento da Cooperação Entre o Kuomintang e o Partido Comunista | 1937 - set  |  | [🔗](https://www.marxists.org/portugues/mao/1937/09/29.htm) |
 | Entrevista com o Jornalista Inglês James Bertram | 1937 - out  |  | [🔗](https://www.marxists.org/portugues/mao/1937/10/25.htm) |
@@ -61,7 +62,7 @@ Mao ocupou a Presidência da República Popular da China até após o “Grande 
 | À Memória de Norman Bethune | 1939 - dez |  | [🔗](https://www.marxists.org/portugues/mao/1939/12/21.htm) |
 | A Revolução Chinesa e o Partido Comunista da China | 1939 - dez |  | [🔗](https://www.marxists.org/portugues/mao/1939/12/revolucao.htm) |
 | Apresentação de O Comunista | 1939 - out |  | [🔗](https://www.marxists.org/portugues/mao/1939/10/04.htm) |
-| A Nova Democracia na China | 1940 - jan  |  | [🔗](https://www.marxists.org/portugues/mao/1940/01/democracia.htm) |
+| <tr>  <td>1940 - jan </td>  <td><a href="1940/01/15.htm" target="_blank">A Nova Democracia na China</a> <span class="tabela_datas">(versão Revista Problemas)</span> ou <a href="1940/01/democracia.htm" target="_blank">Sobre a Democracia Nova</a> <span class="tabela_datas">(versão das obras escolhidas)</span></td> </tr> | 1940 - jan  |  | [🔗](https://www.marxists.org/portugues/mao/1940/01/democracia.htm) |
 | Conjurar o Perigo de Capitulação, Lutar por uma Viragem Favorável na Situação | 1940 - jan |  | [🔗](https://www.marxists.org/portugues/mao/1940/01/28.htm) |
 | Petição de dez Pontos ao Kuomintang | 1940 - fev |  | [🔗](https://www.marxists.org/portugues/mao/1940/02/01.htm) |
 | Apresentação de O Operário Chinês | 1940 - fev |  | [🔗](https://www.marxists.org/portugues/mao/1940/02/07.htm) |
@@ -89,13 +90,13 @@ Mao ocupou a Presidência da República Popular da China até após o “Grande 
 | A Viragem da Segunda Guerra Mundial | 1942 - out |  | [🔗](https://www.marxists.org/portugues/mao/1942/10/12.htm) |
 | Em Comemoração do Vigésimo Quinto Aniversário da Revolução de Outubro | 1942 - nov |  | [🔗](https://www.marxists.org/portugues/mao/1942/11/06.htm) |
 | Problemas Econômicos e Financeiros no Período de Resistência ao Japão | 1942 - dez |  | [🔗](https://www.marxists.org/portugues/mao/1942/12/japao.htm) |
-| A Propósito dos Métodos de Direcção | 1943 - jun | [📁](A_Propsito_dos_Mtodos_de_Direco/) | [🔗](https://www.marxists.org/portugues/mao/1943/06/01.htm) |
+| A Propósito dos Métodos de Direcção | 1943 - jun |  | [🔗](https://www.marxists.org/portugues/mao/1943/06/01.htm) |
 | Interpelação ao Kuomintang | 1943 - jul |  | [🔗](https://www.marxists.org/portugues/mao/1943/07/12.htm) |
 | Desencadeemos nas Bases de Apoio Campanhas para a Redução das Rendas, a Produção e o "Apoio ao Governo e Preocupação pelo Povo" | 1943 - out |  | [🔗](https://www.marxists.org/portugues/mao/1943/10/01.htm) |
 | Comentário à XI Sessão Plenária do Comitê Executivo Central do Kuomintang e à II Sessão do III Conselho Político Nacional | 1943 - out |  | [🔗](https://www.marxists.org/portugues/mao/1943/10/05.htm) |
 | Organizemo-nos! | 1943 - nov |  | [🔗](https://www.marxists.org/portugues/mao/1943/11/29.htm) |
 | O Nosso Estudo e a Situação Atual | 1944 - abr |  | [🔗](https://www.marxists.org/portugues/mao/1944/04/12.htm) |
-| Servir o Povo | 1944 - set | [📁](Servir_o_Povo/) | [🔗](https://www.marxists.org/portugues/mao/1944/09/08.htm) |
+| Servir o Povo | 1944 - set |  | [🔗](https://www.marxists.org/portugues/mao/1944/09/08.htm) |
 | A Propósito do Discurso de Tchiang Kai-chek na Festa do Duplo dez | 1944 - out |  | [🔗](https://www.marxists.org/portugues/mao/1944/10/11.htm) |
 | A Frente Única no Trabalho Cultural | 1944 - out |  | [🔗](https://www.marxists.org/portugues/mao/1944/10/30.htm) |
 | Aprender a Fazer o Trabalho Econômico | 1945 - jan |  | [🔗](https://www.marxists.org/portugues/mao/1945/01/10.htm) |
@@ -118,18 +119,18 @@ Mao ocupou a Presidência da República Popular da China até após o “Grande 
 | Sobre a Ditatura da Democracia Popular | 1949  |  | [🔗](https://www.marxists.org/portugues/mao/1949/mes/ditadura.htm) |
 | Sobre o problema da cooperação agrícola | 1955 - jul  |  | [🔗](https://www.marxists.org/portugues/mao/../tematica/mst/Caderno-Exp-02.pdf#page=55) |
 | O lugar de Stálin na História | 1956 - abr  |  | [🔗](https://www.marxists.org/portugues/mao/1956/04/05.htm) |
-| Sobre o tratamento correto das contradições no seio do povo | 1957 - fev  | [📁](Sobre_o_tratamento_correto_das_contradies_no_seio_do_povo/) | [🔗](https://www.marxists.org/portugues/mao/1957/02/27.htm) |
+| Sobre o tratamento correto das contradições no seio do povo | 1957 - fev  |  | [🔗](https://www.marxists.org/portugues/mao/1957/02/27.htm) |
 | Sobre o trabalho de Propaganda | 1957 - mar  |  | [🔗](https://www.marxists.org/portugues/mao/obras/40.pdf) |
 | Sobre os "Problemas Econômicos do Socialismo na URSS" de Stalin | 1958 - nov |  | [🔗](https://www.marxists.org/portugues/mao/1958/11/sobre.htm) |
 | Exemplos de Dialética (Compilação resumida) | 1959 |  | [🔗](https://www.marxists.org/portugues/mao/1959/mes/90.htm) |
 | Princípios para Educar os Jovens | 1960 |  | [🔗](https://www.marxists.org/portugues/mao/1960/mes/jovens.htm) |
-| De Onde Vêm as Idéias Corretas | 1963 - mai  | [📁](Mao_De_Onde_Vm_as_Idias_Corretas/) | [🔗](https://www.marxists.org/portugues/mao/1963/05/ideias.htm) |
+| De Onde Vêm as Idéias Corretas | 1963 - mai  |  | [🔗](https://www.marxists.org/portugues/mao/1963/05/ideias.htm) |
 | Contra a discriminação racial do imperialismo americano | 1963 - ago  |  | [🔗](https://www.marxists.org/portugues/mao/1963/08/08.htm) |
 | A Questão Racial é uma Questão de Classe | 1963 - ago  |  | [🔗](https://www.marxists.org/portugues/mao/1963/08/09.htm) |
-| Sobre o Falso Comunismo de Khrushchev e Suas Lições Históricas para o Mundo | 1964 - jul  | [📁](Sobre_o_Falso_Comunismo_de_Khrushchev_e_Suas_Lies_Histricas_Para_o_Mundo/) | [🔗](https://www.marxists.org/portugues/mao/1964/07/14.htm) |
+| Sobre o Falso Comunismo de Khrushchev e Suas Lições Históricas para o Mundo | 1964 - jul  |  | [🔗](https://www.marxists.org/portugues/mao/1964/07/14.htm) |
 | Conversa do Presidente Mao Tsé-Tung com um Grupo de Delegados na Conferência de Paz | 1964 - ago |  | [🔗](https://www.marxists.org/portugues/mao/1964/08/22.htm) |
 | Sobre a Educação | 1964  |  | [🔗](https://www.marxists.org/portugues/mao/1964/mes/educa.htm) |
-| Citações do Presidente Mao Tsetung | 1966 | [📁](citacoes/) | [🔗](https://www.marxists.org/portugues/mao/1966/citas/index.htm) |
+| Citações do Presidente Mao Tsetung | 1966 |  | [🔗](https://www.marxists.org/portugues/mao/1966/citas/index.htm) |
 | Vinte Manifestações de Burocracia | 1970 - fev  |  | [🔗](https://www.marxists.org/portugues/mao/1970/02/burocracia.htm) |
-| Povos de todo o mundo, uni-vos e derrotai os agressores americanos e todos os seus lacaios! | 1970 - mai  | [📁](Povos_de_todo_o_mundo_univos_e_derrotai_os_agressores_americanos_e_todos_os_seus_lacaios/) | [🔗](https://www.marxists.org/portugues/mao/1970/05/20.htm) |
+| Povos de todo o mundo, uni-vos e derrotai os agressores americanos e todos os seus lacaios! | 1970 - mai  |  | [🔗](https://www.marxists.org/portugues/mao/1970/05/20.htm) |
 | Mensagem Dirigida a Todo o Partido, a Todo o Exército e ao Povo de Todas as Nacionalidades do País | 1976 - set |  | [🔗](https://www.marxists.org/portugues/mao/1976/09/mensagem.htm) |

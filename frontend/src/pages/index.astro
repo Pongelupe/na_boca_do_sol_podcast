@@ -1,0 +1,41 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const authors = (await getCollection('authors')).sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
+---
+
+<Base title="Início">
+  <section class="hero">
+    <h2>Na Boca do Sol Podcast 🎙️</h2>
+    <p>
+      Podcast de leitura de textos marxistas de domínio público, disponibilizados pelo
+      <a href="https://www.marxists.org/" target="_blank">Marxists Internet Archive</a>.
+    </p>
+    <p>
+      Episódios gerados com voz sintetizada por IA. Código aberto, livre e gratuito.
+    </p>
+  </section>
+
+  <h2 style="color: var(--accent); margin-bottom: 0.5rem;">Autores</h2>
+
+  <input type="text" id="author-search" class="search-bar" placeholder="Buscar autor..." />
+
+  <div class="authors-grid">
+    {authors.map((author) => (
+      <a class="author-card" href={`/${author.data.slug}/`} data-name={author.data.name.toLowerCase()}>
+        {author.data.image && <img src={author.data.image} alt={author.data.name} />}
+        <h3>{author.data.name}</h3>
+      </a>
+    ))}
+  </div>
+
+  <script>
+    document.getElementById('author-search')!.addEventListener('input', (e) => {
+      const q = (e.target as HTMLInputElement).value.toLowerCase();
+      document.querySelectorAll('.author-card').forEach((card) => {
+        (card as HTMLElement).style.display = (card as HTMLElement).dataset.name!.includes(q) ? '' : 'none';
+      });
+    });
+  </script>
+</Base>

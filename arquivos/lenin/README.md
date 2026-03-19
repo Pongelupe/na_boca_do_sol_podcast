@@ -16,7 +16,7 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Sobre as Tarefas do Proletariado na Presente Revolução (Teses de Abril) | 1917 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1917/04/04_teses.htm) |
 | O Estado e a Revolução | 1918 |  | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#estado) |
 | A Revolução Proletária e o Renegado Kautsky | 1918 - nov |  | [🔗](https://www.marxists.org/portugues/lenin/1918/renegado/renegado.pdf) |
-| A Doença Infantil do «Esquerdismo» no Comunismo | 1920 - abr | [📁](esquerdismo/) | [🔗](https://www.marxists.org/portugues/lenin/1920/05/esquerdismo-doenca-infantil.pdf) |
+| A Doença Infantil do «Esquerdismo» no Comunismo | 1920 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1920/05/esquerdismo-doenca-infantil.pdf) |
 | Quem São os «Amigos do Povo» e Como Lutam Contra os Social-democratas? | 1894 |  | [🔗](https://www.marxists.org/portugues/lenin/1894/mes/40.htm) |
 | Explicação da Lei sobre Multas Imposta aos Operários de Fábrica | 1895 |  | [🔗](https://www.marxists.org/portugues/lenin/1895/mes/multas.htm) |
 | Friedrich Engels | 1895 |  | [🔗](https://www.marxists.org/portugues/lenin/1895/mes/engels.htm) |
@@ -298,7 +298,7 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Relatório sobre a Situação Económica dos Operários de Petrogrado e as Tarefas da Classe Operária na Reunião da Secção Operária do Soviete de Deputados Operários e Soldados de Petrogrado | 1917 - dez |  | [🔗](https://www.marxists.org/portugues/lenin/1917/12/17.htm) |
 | Reunião do CEC de Toda a Rússia | 1917 - dez |  | [🔗](https://www.marxists.org/portugues/lenin/1917/12/14.htm) |
 | Teses Sobre a Assembleia Constituinte | 1917 - dez |  | [🔗](https://www.marxists.org/portugues/lenin/1917/12/25.htm) |
-| O Estado e a Revolução | 1918 | [📁](estado_e_revolucao/) | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#estado) |
+| O Estado e a Revolução | 1918 |  | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#estado) |
 | Como Organizar a Emulação? | 1918 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1918/01/06.htm) |
 | Os Que Estão Assustados Com a Falência do Velho e os Que Lutam Pelo Novo | 1918 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1918/01/09.htm) |
 | Discurso aos agitadores enviados às províncias | 1918 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1918/02/06.htm) |

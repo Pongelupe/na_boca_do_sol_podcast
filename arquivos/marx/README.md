@@ -7,7 +7,7 @@
 
 | Obra | Ano | Repo | MIA |
 |------|-----|:----:|:---:|
-| Teses sobre Feuerbach | 1845 | [📁](Teses_sobre_Feuerbach/) | [🔗](https://www.marxists.org/portugues/marx/1845/tesfeuer.htm) |
+| Teses sobre Feuerbach | 1845 |  | [🔗](https://www.marxists.org/portugues/marx/1845/tesfeuer.htm) |
 | Feuerbach. Oposição das Concepções Materialista e Idealista | 1846 - ago |  | [🔗](https://www.marxists.org/portugues/marx/1845/ideologia-alema-oe/index.htm) |
 | Princípios Básicos do Comunismo | 1847 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/../tematica/audiolivros.htm#principios) |
 | Manifesto do Partido Comunista | 1848 - fev |  | [🔗](https://www.marxists.org/portugues/marx/../tematica/audiolivros.htm#manifesto) |
@@ -89,6 +89,7 @@
 | Espiões Prussianos em Londres | 1850 - jun  |  | [🔗](https://www.marxists.org/portugues/marx/1850/06/14.htm) |
 | <tr>  <td>1850 - jun </td>  <td title="Marx e Engels">M/E</td>  <td><a href="1850/06/15.htm">Dos Refugiados Prussianos para o Editor do <i>The Sun</i></a></td> </tr>  | 1850 - jun  |  | [🔗](https://www.marxists.org/portugues/marx/1850/06/15.htm) |
 | <tr>  <td>1850 - jul </td>  <td title="Marx e Engels">M/E</td>  <td><a href="1850/07/04.htm">Declaração ao Editor do <i>Neue Deutsche Zeitung</i></a></td> </tr>  | 1850 - jul  |  | [🔗](https://www.marxists.org/portugues/marx/1850/07/04.htm) |
+| Reunião da Direção Central da Liga dos Comunistas | 1850 - set  |  | [🔗](https://www.marxists.org/portugues/marx/1850/09/15.htm) |
 | Sobre a solução da abolição do Estado e os “amigos da anarquia” alemães | 1850 - out  |  | [🔗](https://www.marxists.org/portugues/marx/1850/10/40.htm) |
 | As Lutas de Classes em França de 1848 a 1850 | 1850 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/1850/11/lutas_class/index.htm) |
 | O 18 de Brumário de Louis Bonaparte | 1852 - mar  |  | [🔗](https://www.marxists.org/portugues/marx/1852/brumario/index.htm) |
