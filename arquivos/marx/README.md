@@ -7,7 +7,7 @@
 
 | Obra | Ano | Repo | MIA |
 |------|-----|:----:|:---:|
-| Teses sobre Feuerbach | 1845 |  | [🔗](https://www.marxists.org/portugues/marx/1845/tesfeuer.htm) |
+| Teses sobre Feuerbach | 1845 | [📁](Teses_sobre_Feuerbach/) | [🔗](https://www.marxists.org/portugues/marx/1845/tesfeuer.htm) |
 | Feuerbach. Oposição das Concepções Materialista e Idealista | 1846 - ago |  | [🔗](https://www.marxists.org/portugues/marx/1845/ideologia-alema-oe/index.htm) |
 | Princípios Básicos do Comunismo | 1847 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/../tematica/audiolivros.htm#principios) |
 | Manifesto do Partido Comunista | 1848 - fev |  | [🔗](https://www.marxists.org/portugues/marx/../tematica/audiolivros.htm#manifesto) |
@@ -24,9 +24,21 @@
 | Sermão de F. W. Krummacher sobre o livro de Josué | 1839 - mai  |  | [🔗](https://www.marxists.org/portugues/marx/1839/05/sermao.htm) |
 | Dois Sermões de F. W. Krummacher | 1840 - set  |  | [🔗](https://www.marxists.org/portugues/marx/1840/09/semao2.htm) |
 | Ordem do Gabinete sobre a Imprensa Diária | 1842 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/1842/11/16.htm) |
-| <tr>  <td>1842 - nov </td>  <td title="Marx">M</td>  <td><a href="1842/11/17.htm">Um Correspondente do <i>K&ouml;lnische Zeitung</i> Contra o <i>Rheinische Zeitung</i></a></td> </tr>  | 1842 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/1842/11/17.htm) |
+| <tr>
+  <td>1842 - nov </td>
+  <td title="Marx">M</td>
+  <td><a href="1842/11/17.htm">Um Correspondente do <i>K&ouml;lnische Zeitung</i> Contra o <i>Rheinische Zeitung</i></a></td>
+ </tr>
+ 
+ | 1842 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/1842/11/17.htm) |
 | Os Industriais de Hannover e as Tarifas Protecionistas | 1842 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/1842/11/22.htm) |
-| <tr>  <td>1842 - nov </td>  <td title="Marx">M</td>  <td><a href="1842/11/29.htm">Atitude de Herwegh e Ruge com <i>Os Livres</i></a></td> </tr>  | 1842 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/1842/11/29.htm) |
+| <tr>
+  <td>1842 - nov </td>
+  <td title="Marx">M</td>
+  <td><a href="1842/11/29.htm">Atitude de Herwegh e Ruge com <i>Os Livres</i></a></td>
+ </tr>
+ 
+ | 1842 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/1842/11/29.htm) |
 | A Questão Judaica | 1843 |  | [🔗](https://www.marxists.org/portugues/marx/1843/questaojudaica.htm) |
 | Progresso do Comunismo na Alemanha - Perseguição de Comunistas na Suíça | 1843 - dez  |  | [🔗](https://www.marxists.org/portugues/marx/1843/12/09.htm) |
 | A Imprensa e os Déspotas Alemães | 1844 - fev  |  | [🔗](https://www.marxists.org/portugues/marx/1844/02/03.htm) |
@@ -43,7 +55,13 @@
 | Socialismo Continental | 1844 - out  |  | [🔗](https://www.marxists.org/portugues/marx/1844/10/05.htm) |
 | Às classes trabalhadoras da Grã-Bretanha | 1845 |  | [🔗](https://www.marxists.org/portugues/marx/1845/03/15.htm) |
 | Teses sobre Feuerbach | 1845 - mar |  | [🔗](https://www.marxists.org/portugues/marx/1845/tesfeuer.htm) |
-| <tr>  <td>1846 - ago</td>  <td title="Marx e Engels">M/E</td>  <td><a href="1845/ideologia-alema-oe/index.htm">Feuerbach. Oposição das Concepções Materialista e Idealista (Capitulo Primeiro de <i>A Ideologia Alemã</i>)</a></td> </tr>  | 1846 - ago |  | [🔗](https://www.marxists.org/portugues/marx/1845/ideologia-alema-oe/index.htm) |
+| <tr>
+  <td>1846 - ago</td>
+  <td title="Marx e Engels">M/E</td>
+  <td><a href="1845/ideologia-alema-oe/index.htm">Feuerbach. Oposição das Concepções Materialista e Idealista (Capitulo Primeiro de <i>A Ideologia Alemã</i>)</a></td>
+ </tr>
+ 
+ | 1846 - ago |  | [🔗](https://www.marxists.org/portugues/marx/1845/ideologia-alema-oe/index.htm) |
 | Carta a Pável V. Annenkov | 1846 - dez  |  | [🔗](https://www.marxists.org/portugues/marx/1846/12/28.htm) |
 | Luta de Classes e Luta Política | 1847 - abr  |  | [🔗](https://www.marxists.org/portugues/marx/1847/04/luta-class-luta-polit.htm) |
 | As Crises Comerciais na Inglaterra – O Movimento Cartista – Irlanda | 1847 - out  |  | [🔗](https://www.marxists.org/portugues/marx/1847/10/26.htm) |
@@ -54,17 +72,35 @@
 | Agitação Cartista | 1847 - dez  |  | [🔗](https://www.marxists.org/portugues/marx/1847/12/30.htm) |
 | Miséria da Filosofia | 1847 |  | [🔗](https://www.marxists.org/portugues/marx/1847/miseria/index.htm) |
 | Sobre a Questão do Livre-Câmbio | 1848 - jan |  | [🔗](https://www.marxists.org/portugues/marx/1848/01/07.htm) |
-| <tr>  <td>1848 - jan </td>  <td title="Engels">E</td>  <td><a href="1848/01/08.htm">A <i>Coercion Bill</i> para a Irlanda e para os Cartistas</a></td> </tr>  | 1848 - jan  |  | [🔗](https://www.marxists.org/portugues/marx/1848/01/08.htm) |
+| <tr>
+  <td>1848 - jan </td>
+  <td title="Engels">E</td>
+  <td><a href="1848/01/08.htm">A <i>Coercion Bill</i> para a Irlanda e para os Cartistas</a></td>
+ </tr>
+ 
+ | 1848 - jan  |  | [🔗](https://www.marxists.org/portugues/marx/1848/01/08.htm) |
 | A Situação na França | 1848 - jan  |  | [🔗](https://www.marxists.org/portugues/marx/1848/01/16.htm) |
 | Manifesto do Partido Comunista | 1848 - fev |  | [🔗](https://www.marxists.org/portugues/marx/../tematica/audiolivros.htm#manifesto) |
 | Manifesto do Partido Comunista | 1848 - fev |  | [🔗](https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunistaEmGalego/index.htm) |
-| <tr>  <td>1848 - mar </td>  <td title="Marx">M</td>  <td><a href="1848/03/08.htm">Para o Editor do <i>La Réforme</i></a></td> </tr>  | 1848 - mar  |  | [🔗](https://www.marxists.org/portugues/marx/1848/03/08.htm) |
+| <tr>
+  <td>1848 - mar </td>
+  <td title="Marx">M</td>
+  <td><a href="1848/03/08.htm">Para o Editor do <i>La Réforme</i></a></td>
+ </tr>
+ 
+ | 1848 - mar  |  | [🔗](https://www.marxists.org/portugues/marx/1848/03/08.htm) |
 | Perseguição de Estrangeiros em Bruxelas | 1848 - mar  |  | [🔗](https://www.marxists.org/portugues/marx/1848/03/12.htm) |
 | Exigências do Partido Comunista na Alemanha | 1848 - mar  |  | [🔗](https://www.marxists.org/portugues/marx/1848/03/24.htm) |
 | A Declaração de Camphausen na Sessão de 30 de Maio | 1848 - jun |  | [🔗](https://www.marxists.org/portugues/marx/1848/06/03.htm) |
 | O Ministério Camphausen | 1848 - jun |  | [🔗](https://www.marxists.org/portugues/marx/1848/06/04.htm) |
 | Queda do Ministério Camphausen | 1848 - jun |  | [🔗](https://www.marxists.org/portugues/marx/1848/06/23.htm) |
-| <tr>  <td>1848 - jun </td>  <td title="Marx">M</td>  <td><a href="1848/06/29.htm">Para o Editor do Jornal <i>L’Alba</i></a></td> </tr>  | 1848 - jun  |  | [🔗](https://www.marxists.org/portugues/marx/1848/06/29.htm) |
+| <tr>
+  <td>1848 - jun </td>
+  <td title="Marx">M</td>
+  <td><a href="1848/06/29.htm">Para o Editor do Jornal <i>L’Alba</i></a></td>
+ </tr>
+ 
+ | 1848 - jun  |  | [🔗](https://www.marxists.org/portugues/marx/1848/06/29.htm) |
 | O Ministério de Ação | 1848 - jul |  | [🔗](https://www.marxists.org/portugues/marx/1848/07/09.htm) |
 | A Crise Ministerial | 1848 - jul |  | [🔗](https://www.marxists.org/portugues/marx/1848/07/10.htm) |
 | Projeto de Lei Sobre a Regovação dos Encargos Feudais | 1848 - jul |  | [🔗](https://www.marxists.org/portugues/marx/1848/07/30.htm) |
@@ -87,8 +123,20 @@
 | Mensagem da Direcção Central à Liga dos Comunistas | 1850 - mar  |  | [🔗](https://www.marxists.org/portugues/marx/1850/03/mensagem-liga.htm) |
 | Resenha: “O Socialismo e os Impostos”, por Émile de Girardin | 1850 - abr  |  | [🔗](https://www.marxists.org/portugues/marx/1850/04/resenha.htm) |
 | Espiões Prussianos em Londres | 1850 - jun  |  | [🔗](https://www.marxists.org/portugues/marx/1850/06/14.htm) |
-| <tr>  <td>1850 - jun </td>  <td title="Marx e Engels">M/E</td>  <td><a href="1850/06/15.htm">Dos Refugiados Prussianos para o Editor do <i>The Sun</i></a></td> </tr>  | 1850 - jun  |  | [🔗](https://www.marxists.org/portugues/marx/1850/06/15.htm) |
-| <tr>  <td>1850 - jul </td>  <td title="Marx e Engels">M/E</td>  <td><a href="1850/07/04.htm">Declaração ao Editor do <i>Neue Deutsche Zeitung</i></a></td> </tr>  | 1850 - jul  |  | [🔗](https://www.marxists.org/portugues/marx/1850/07/04.htm) |
+| <tr>
+  <td>1850 - jun </td>
+  <td title="Marx e Engels">M/E</td>
+  <td><a href="1850/06/15.htm">Dos Refugiados Prussianos para o Editor do <i>The Sun</i></a></td>
+ </tr>
+ 
+ | 1850 - jun  |  | [🔗](https://www.marxists.org/portugues/marx/1850/06/15.htm) |
+| <tr>
+  <td>1850 - jul </td>
+  <td title="Marx e Engels">M/E</td>
+  <td><a href="1850/07/04.htm">Declaração ao Editor do <i>Neue Deutsche Zeitung</i></a></td>
+ </tr>
+ 
+ | 1850 - jul  |  | [🔗](https://www.marxists.org/portugues/marx/1850/07/04.htm) |
 | Reunião da Direção Central da Liga dos Comunistas | 1850 - set  |  | [🔗](https://www.marxists.org/portugues/marx/1850/09/15.htm) |
 | Sobre a solução da abolição do Estado e os “amigos da anarquia” alemães | 1850 - out  |  | [🔗](https://www.marxists.org/portugues/marx/1850/10/40.htm) |
 | As Lutas de Classes em França de 1848 a 1850 | 1850 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/1850/11/lutas_class/index.htm) |
@@ -195,7 +243,8 @@
 | Sobre Proudhon (Carta a J. B. Von Schweitzer)  | 1865 - jan  |  | [🔗](https://www.marxists.org/portugues/marx/1865/01/24.htm) |
 | Carta a Ludwig Kugelmann | 1865 - fev  |  | [🔗](https://www.marxists.org/portugues/marx/1865/02/23.htm) |
 |  Salário, preço e lucro | 1865 - jun  |  | [🔗](https://www.marxists.org/portugues/marx/1865/salario/Salario_Preco_Lucro.epub) |
-| Instruções para os Delegados do Conselho Geral Provisório.  As Diferentes Questões | 1866 - ago  |  | [🔗](https://www.marxists.org/portugues/marx/1866/08/instrucoes.htm) |
+| Instruções para os Delegados do Conselho Geral Provisório. 
+ As Diferentes Questões | 1866 - ago  |  | [🔗](https://www.marxists.org/portugues/marx/1866/08/instrucoes.htm) |
 | Carta a Ludwig Kugelmann | 1866 - out  |  | [🔗](https://www.marxists.org/portugues/marx/1866/10/09.htm) |
 | Carta a Engels | 1867 - jun |  | [🔗](https://www.marxists.org/portugues/marx/1867/06/22.htm) |
 | Prefácio à Primeira Edição do Livro Primeiro de «O Capital» | 1867 - jul  |  | [🔗](https://www.marxists.org/portugues/marx/1867/capital/livro1/prefacios/02.htm) |
@@ -252,7 +301,8 @@
 | Carta a Marx (em Londres) | 1876 - mai |  | [🔗](https://www.marxists.org/portugues/marx/1876/05/28.htm) |
 | Carta a Marx (em Londres) | 1876 - jul |  | [🔗](https://www.marxists.org/portugues/marx/1876/07/25.htm) |
 | Carta a Marx (em Karlsbad) | 1876 - ago |  | [🔗](https://www.marxists.org/portugues/marx/1876/08/25.htm) |
-| Sobre o Papel do  Trabalho na Transformação do Macaco em Homem | 1876 |  | [🔗](https://www.marxists.org/portugues/marx/1876/mes/macaco.htm) |
+| Sobre o Papel do 
+ Trabalho na Transformação do Macaco em Homem | 1876 |  | [🔗](https://www.marxists.org/portugues/marx/1876/mes/macaco.htm) |
 | Introdução à "Dialéctica da Natureza" | 1876 |  | [🔗](https://www.marxists.org/portugues/marx/1876/dialetica/int_dialetica.htm) |
 | Carta a Engels (em Brighton) | 1877 - mar |  | [🔗](https://www.marxists.org/portugues/marx/1877/03/05.htm) |
 | Carta a Engels (em Brighton) | 1877 - mar |  | [🔗](https://www.marxists.org/portugues/marx/1877/03/07.htm) |
@@ -283,9 +333,21 @@
 | Marx e a Neue Rheinische Zeitung | 1884 - mar |  | [🔗](https://www.marxists.org/portugues/marx/1884/03/13.htm) |
 | A Origem da Família, da Propriedade Privada e do Estado | 1884 - jun |  | [🔗](https://www.marxists.org/portugues/marx/1884/origem/Origem_da_Familia_da_Propriedade_Privada_e_do_Estado.epub) |
 | Prefácio à primeira edição alemã do livro Miséria da Filosofia | 1884 - out |  | [🔗](https://www.marxists.org/portugues/marx/1847/miseria/prefacios.htm) |
-| <tr>  <td>1885 - mai </td>  <td title="Engels">E</td>  <td><a href="1885/05/05.htm">Prefácio ao Segundo Volume de «O Capital» de Marx<span class="tabela_datas"> - extrato transcrito das Obras Escolhidas </span></a></td> </tr>  | 1885 - mai  |  | [🔗](https://www.marxists.org/portugues/marx/1885/05/05.htm) |
+| <tr>
+  <td>1885 - mai </td>
+  <td title="Engels">E</td>
+  <td><a href="1885/05/05.htm">Prefácio ao Segundo Volume de «O Capital» de Marx<span class="tabela_datas"> - extrato transcrito das Obras Escolhidas </span></a></td>
+ </tr>
+ 
+ | 1885 - mai  |  | [🔗](https://www.marxists.org/portugues/marx/1885/05/05.htm) |
 | Carta a Hermann Schlüter | 1885 - mai  |  | [🔗](https://www.marxists.org/portugues/marx/1885/05/15.htm) |
-| <tr>  <td>1885 - mai </td>  <td title="Engels">E</td>  <td><a href="1867/capital/livro2/prefacio.htm">Prefácio ao Segundo Volume de «O Capital» de Marx <span class="tabela_datas">- versão completa transcrito de O Capital</span></a> </td> </tr>  | 1885 - mai  |  | [🔗](https://www.marxists.org/portugues/marx/1867/capital/livro2/prefacio.htm) |
+| <tr>
+  <td>1885 - mai </td>
+  <td title="Engels">E</td>
+  <td><a href="1867/capital/livro2/prefacio.htm">Prefácio ao Segundo Volume de «O Capital» de Marx <span class="tabela_datas">- versão completa transcrito de O Capital</span></a> </td>
+ </tr>
+ 
+ | 1885 - mai  |  | [🔗](https://www.marxists.org/portugues/marx/1867/capital/livro2/prefacio.htm) |
 | Para a História da Liga dos Comunistas | 1885 - out  |  | [🔗](https://www.marxists.org/portugues/marx/1885/10/08.htm) |
 | Prefácio à edição inglesa de «O Capital» de Marx | 1886 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/1867/capital/livro1/prefacios/06.htm) |
 | Carta a Florence Kelley-Wischnewetzky | 1886 - dez  |  | [🔗](https://www.marxists.org/portugues/marx/1886/12/28.htm) |
