@@ -129,7 +129,7 @@ a.author-card:hover { border-color: var(--accent); }
   border-radius: 20px;
   border: 1px solid var(--border);
 }
-.content td a[href$=".wav"] {
+.content td a[href$=".mp3"] {
   display: inline-block;
   width: 14%;
   text-align: center;
@@ -141,7 +141,7 @@ a.author-card:hover { border-color: var(--accent); }
   background: var(--bg-card);
   transition: all 0.2s;
 }
-.content td a[href$=".wav"]:hover {
+.content td a[href$=".mp3"]:hover {
   border-color: var(--accent);
   background: var(--accent);
   color: white;

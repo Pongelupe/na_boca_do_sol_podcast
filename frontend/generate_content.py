@@ -57,7 +57,7 @@ def transform_repo_links(content, author_slug):
             book_slug = folder_path.replace('/', '_')
             return f'[📖 ver capítulos](/{author_slug}/{book_slug}/)'
         filename = os.path.basename(folder_path)
-        s3_url = f"{S3_BASE}/{author_slug}/{filename}.wav"
+        s3_url = f"{S3_BASE}/{author_slug}/{filename}.mp3"
         return f'[⬇️]({s3_url}) <audio controls preload="none" src="{s3_url}"></audio>'
     return re.sub(r'\[📁\]\(([^)]+)\)', replace_link, content)
 
@@ -113,7 +113,7 @@ def generate_book(author_slug, book_folder, author_name):
         ch_title = get_chapter_title(ch)
         # The wav filename is the part after the numeric prefix
         wav_name = re.sub(r'^\d+_', '', ch)
-        s3_url = f"{S3_BASE}/{author_slug}/{book_folder}/{wav_name}.wav"
+        s3_url = f"{S3_BASE}/{author_slug}/{book_folder}/{wav_name}.mp3"
         rows.append(
             f"| {ch_title} | "
             f'[⬇️]({s3_url}) <audio controls preload="none" src="{s3_url}"></audio> |'

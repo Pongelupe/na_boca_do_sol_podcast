@@ -1,0 +1,51 @@
+.PHONY: build dev generate add index update deploy docker clean podcast podcast-local batch mp3 upload
+
+# Frontend
+build: generate
+	cd frontend && npm install && npm run build
+
+dev: generate
+	cd frontend && npm run dev
+
+generate:
+	cd frontend && python3 generate_content.py
+
+# Content management
+add:
+	./tools/add_episode.sh $(FOLDER)
+
+index:
+	mkdir -p $(DIR)
+	python3 tools/index_to_md.py $(URL) $(DIR) > $(DIR)/README.md
+
+update:
+	./tools/update_readme.sh arquivos
+
+# Podcast generation
+podcast:
+	cd podcast && docker run -v ./:/app --gpus all nbsp $(URL)
+
+podcast-local:
+	cd podcast && pip install -q -r requirements.txt && ./podcast.sh $(URL)
+
+batch:
+	cd podcast && ./batch_podcast.sh $(FILE)
+
+docker:
+	cd podcast && docker build -t nbsp .
+
+# S3
+mp3:
+	find arquivos -name "*.wav" | while read f; do \
+		mp3="$${f%.wav}.mp3"; \
+		[ -f "$$mp3" ] || ffmpeg -i "$$f" -q:a 2 "$$mp3"; \
+	done
+
+upload: mp3
+	aws s3 sync arquivos/ s3://nbds-podcast/ --exclude "*.txt" --exclude "*.md" --exclude "*.json" --exclude "*.html" --exclude "*.wav"
+
+# Cleanup
+clean:
+	rm -rf frontend/node_modules frontend/dist frontend/.astro frontend/src/content/authors frontend/src/content/books
+deploy: upload
+	@echo "✅ Audio synced. Push to main to deploy site."
