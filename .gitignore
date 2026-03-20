@@ -1,5 +1,6 @@
 sounds/toWAV.sh
 arquivos/**/*.wav
+arquivos/**/*.mp3
 arquivos/**/*.html
 base/
 frontend/src/content/authors/

@@ -46,7 +46,7 @@ Prática | 1937 - jul |  | [🔗](https://www.marxists.org/portugues/mao/1937/07
 | Édito do Governo da Região Fronteiriça Xensi-Cansu-Ninsia e da Administração da Retaguarda do VIII Exército | 1938 - mai |  | [🔗](https://www.marxists.org/portugues/mao/1938/05/15.htm) |
 | Problemas Estratégicos da Guerra de Guerrilhas Contra o Japão | 1938 - mai |  | [🔗](https://www.marxists.org/portugues/mao/1938/05/guerra.htm) |
 | Sobre a Guerra Prolongada | 1938 - mai |  | [🔗](https://www.marxists.org/portugues/mao/1938/05/prolongada.htm) |
-| Materialismo Dialético | 1938 - jun |  | [🔗](https://www.marxists.org/portugues/mao/1938/06/materialismo.htm) |
+| Materialismo Dialético | 1938 - jun | [📁](Materialismo_Dialético/) | [🔗](https://www.marxists.org/portugues/mao/1938/06/materialismo.htm) |
 | O Papel do Partido Comunista da China na Guerra Nacional | 1938 - out |  | [🔗](https://www.marxists.org/portugues/mao/1938/10/papel.htm) |
 | A Questão da Independência e Autonomia no Seio da Frente Única | 1938 - nov |  | [🔗](https://www.marxists.org/portugues/mao/1938/11/05.htm) |
 | Problemas da Guerra e da Estratégia | 1938 - nov |  | [🔗](https://www.marxists.org/portugues/mao/1938/11/06.htm) |

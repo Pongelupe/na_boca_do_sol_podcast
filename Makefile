@@ -36,10 +36,7 @@ docker:
 
 # S3
 mp3:
-	find arquivos -name "*.wav" | while read f; do \
-		mp3="$${f%.wav}.mp3"; \
-		[ -f "$$mp3" ] || ffmpeg -i "$$f" -q:a 2 "$$mp3"; \
-	done
+	find arquivos -name "*.wav" -exec sh -c 'mp3="$${1%.wav}.mp3"; [ -f "$$mp3" ] || sudo ffmpeg -i "$$1" -q:a 2 "$$mp3"' _ {} \;
 
 upload: mp3
 	aws s3 sync arquivos/ s3://nbds-podcast/ --exclude "*.txt" --exclude "*.md" --exclude "*.json" --exclude "*.html" --exclude "*.wav"
