@@ -79,4 +79,4 @@ rm -f artigo_limpo.txt autor.tmp*
 
 # Move artifacts to folder
 mkdir -p "$clean_title"
-mv "$clean_title.html" "$clean_title.txt" "$clean_title.wav" "${clean_title}_podcast.txt" "$clean_title/" 2>/dev/null
+mv "$clean_title.html" "$clean_title.txt" "$clean_title.wav" "${clean_title}_podcast.txt" "${clean_title}_timestamps.json" "$clean_title/" 2>/dev/null
