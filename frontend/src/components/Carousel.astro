@@ -1,0 +1,41 @@
+---
+interface Props { label?: string; }
+const { label = 'Carrossel' } = Astro.props;
+---
+
+<div class="carousel" aria-label={label}>
+  <button class="carousel-btn carousel-btn--prev" aria-label="Anterior">‹</button>
+  <div class="carousel-track">
+    <slot />
+  </div>
+  <button class="carousel-btn carousel-btn--next" aria-label="Próximo">›</button>
+</div>
+
+<script>
+  document.querySelectorAll('.carousel').forEach((carousel) => {
+    const track = carousel.querySelector('.carousel-track') as HTMLElement;
+    const prev = carousel.querySelector('.carousel-btn--prev') as HTMLElement;
+    const next = carousel.querySelector('.carousel-btn--next') as HTMLElement;
+
+    const scrollAmount = () => {
+      const card = track.querySelector('.author-card') as HTMLElement;
+      return card ? card.offsetWidth + 24 : 300; // 24 = gap
+    };
+
+    prev.addEventListener('click', () => {
+      if (track.scrollLeft <= 0) {
+        track.scrollTo({ left: track.scrollWidth, behavior: 'smooth' });
+      } else {
+        track.scrollBy({ left: -scrollAmount(), behavior: 'smooth' });
+      }
+    });
+
+    next.addEventListener('click', () => {
+      if (track.scrollLeft + track.clientWidth >= track.scrollWidth - 10) {
+        track.scrollTo({ left: 0, behavior: 'smooth' });
+      } else {
+        track.scrollBy({ left: scrollAmount(), behavior: 'smooth' });
+      }
+    });
+  });
+</script>

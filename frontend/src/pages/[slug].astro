@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import SearchBar from '../components/SearchBar.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -16,7 +17,7 @@ const { Content } = await render(author);
 
 <Base title={author.data.name}>
   <div class="author-header">
-    {author.data.image && <img src={author.data.image} alt={author.data.name} />}
+    {author.data.image && <div class="sun-portrait sun-portrait--large"><img src={author.data.image} alt={author.data.name} /></div>}
     <h2>{author.data.name}</h2>
   </div>
   <div class="content">
@@ -26,6 +27,11 @@ const { Content } = await render(author);
   <script>
     const table = document.querySelector('.content table');
     if (table) {
+      // Build timeline from table
+      const timeline = document.createElement('div');
+      timeline.className = 'timeline';
+
+      // Controls
       const controls = document.createElement('div');
       controls.className = 'table-controls';
 
@@ -38,28 +44,133 @@ const { Content } = await render(author);
       label.className = 'filter-toggle';
       const cb = document.createElement('input');
       cb.type = 'checkbox';
+      cb.checked = true;
       label.appendChild(cb);
       label.appendChild(document.createTextNode(' Apenas com episódio'));
 
       controls.appendChild(input);
       controls.appendChild(label);
-      table.parentNode!.insertBefore(controls, table);
+      timeline.appendChild(controls);
 
       const rows = Array.from(table.querySelectorAll('tbody tr'));
 
+      rows.forEach((row) => {
+        const cells = row.querySelectorAll('td');
+        const title = cells[0]?.textContent?.trim() || '';
+        const year = cells[1]?.textContent?.trim() || '';
+        const repoCell = cells[2];
+        const miaCell = cells[3];
+
+        const hasAudio = repoCell?.querySelector('audio') !== null;
+        const hasBook = repoCell?.innerHTML.includes('📖');
+        const miaLink = miaCell?.querySelector('a')?.getAttribute('href') || '';
+        const bookLink = repoCell?.querySelector('a')?.getAttribute('href') || '';
+        const audioEl = repoCell?.querySelector('audio');
+        const audioSrc = audioEl?.getAttribute('src') || '';
+
+        // Derive episode slug from audio URL: .../author/Episode_Slug.mp3
+        let episodeUrl = '';
+        if (hasAudio && audioSrc) {
+          const parts = audioSrc.replace('.mp3', '').split('/');
+          const epSlug = parts[parts.length - 1];
+          const authorSlug = parts[parts.length - 2];
+          episodeUrl = `/${authorSlug}/${epSlug}/`;
+        } else if (hasBook && bookLink) {
+          episodeUrl = bookLink;
+        }
+
+        const item = document.createElement('div');
+        item.className = 'timeline-item';
+        item.dataset.text = title.toLowerCase() + ' ' + year.toLowerCase();
+        item.dataset.hasEpisode = (hasAudio || hasBook) ? 'true' : 'false';
+
+        // Year marker
+        const yearEl = document.createElement('div');
+        yearEl.className = 'timeline-year';
+        yearEl.textContent = year;
+        item.appendChild(yearEl);
+
+        // Card — clickable if has episode
+        let card: HTMLElement;
+        if (episodeUrl) {
+          const a = document.createElement('a');
+          a.href = episodeUrl;
+          a.className = 'timeline-card timeline-card--clickable';
+          card = a;
+        } else {
+          card = document.createElement('div');
+          card.className = 'timeline-card';
+        }
+
+        // Title row
+        const titleRow = document.createElement('div');
+        titleRow.className = 'timeline-title';
+
+        if (hasAudio) {
+          const badge = document.createElement('span');
+          badge.className = 'badge badge--audio';
+          badge.textContent = '♫';
+          badge.title = 'Episódio disponível';
+          titleRow.appendChild(badge);
+        } else if (hasBook) {
+          const badge = document.createElement('span');
+          badge.className = 'badge badge--book';
+          badge.textContent = '📖';
+          badge.title = 'Ver capítulos';
+          titleRow.appendChild(badge);
+        }
+
+        const titleSpan = document.createElement('span');
+        titleSpan.textContent = title;
+        titleRow.appendChild(titleSpan);
+
+        // MIA link as visible icon
+        if (miaLink) {
+          const mia = document.createElement('a');
+          mia.href = miaLink;
+          mia.target = '_blank';
+          mia.className = 'mia-link';
+          mia.title = 'Ler no Marxists.org';
+          mia.textContent = '🔗';
+          mia.addEventListener('click', (e) => e.stopPropagation());
+          titleRow.appendChild(mia);
+        }
+
+        // Download icon for audio episodes
+        if (hasAudio && audioSrc) {
+          const dl = document.createElement('a');
+          dl.href = audioSrc;
+          dl.className = 'timeline-download';
+          dl.title = 'Baixar episódio';
+          dl.textContent = '⬇️';
+          dl.setAttribute('download', '');
+          dl.addEventListener('click', (e) => e.stopPropagation());
+          titleRow.appendChild(dl);
+        }
+
+        card.appendChild(titleRow);
+
+        item.appendChild(card);
+        timeline.appendChild(item);
+      });
+
+      table.replaceWith(timeline);
+
+      // Filter logic
       function filter() {
         const q = input.value.toLowerCase();
         const audioOnly = cb.checked;
-        rows.forEach((row) => {
-          const text = row.textContent!.toLowerCase();
-          const hasAudio = row.querySelector('audio') !== null || row.innerHTML.includes('📖');
-          const matchesSearch = text.includes(q);
-          (row as HTMLElement).style.display = matchesSearch && (!audioOnly || hasAudio) ? '' : 'none';
+        timeline.querySelectorAll('.timeline-item').forEach((item) => {
+          const el = item as HTMLElement;
+          const matchesSearch = el.dataset.text!.includes(q);
+          const hasEp = el.dataset.hasEpisode === 'true';
+          el.style.display = matchesSearch && (!audioOnly || hasEp) ? '' : 'none';
         });
       }
 
       input.addEventListener('input', filter);
       cb.addEventListener('change', filter);
+      filter();
     }
   </script>
 </Base>

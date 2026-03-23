@@ -1,0 +1,9 @@
+---
+interface Props { name: string; slug: string; image?: string; }
+const { name, slug, image } = Astro.props;
+---
+
+<a class="author-card" href={`/${slug}/`} data-name={name.toLowerCase()}>
+  {image && <div class="sun-portrait"><img src={image} alt={name} /></div>}
+  <h3>{name}</h3>
+</a>

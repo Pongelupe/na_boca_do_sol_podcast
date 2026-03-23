@@ -14,6 +14,7 @@ S3_BASE = "https://nbds-podcast.s3.us-east-2.amazonaws.com"
 ARQUIVOS_DIR = os.path.join(os.path.dirname(__file__), "..", "arquivos")
 AUTHORS_DIR = os.path.join(os.path.dirname(__file__), "src", "content", "authors")
 BOOKS_DIR = os.path.join(os.path.dirname(__file__), "src", "content", "books")
+EPISODES_DIR = os.path.join(os.path.dirname(__file__), "src", "content", "episodes")
 
 ORDER = {
     "marx": 1,
@@ -142,6 +143,103 @@ mia_url: "{mia_url}"
 
     print(f"  📖 {book_title} ({len(chapters)} capítulos)")
 
+    # Generate episode pages for each chapter
+    for ch in chapters:
+        ch_path = os.path.join(book_path, ch)
+        wav_name = re.sub(r'^\d+_', '', ch)
+        generate_episode(author_slug, author_name, wav_name, ch_path,
+                         book_slug=book_slug, readme_content=None)
+
+# --- Episode generation ---
+
+def find_mia_url(readme_content, title):
+    """Search author README for MIA link matching a title."""
+    if not readme_content:
+        return ""
+    for line in readme_content.split('\n'):
+        if title[:30] in line:
+            m = re.search(r'\[🔗\]\(([^)]+)\)', line)
+            if m:
+                return m.group(1)
+    return ""
+
+def generate_episode(author_slug, author_name, episode_slug, episode_dir,
+                     book_slug=None, readme_content=None):
+    txt_path = os.path.join(episode_dir, f"{episode_slug}.txt")
+    if not os.path.exists(txt_path):
+        return
+
+    with open(txt_path, 'r') as f:
+        text = f.read()
+
+    lines = text.strip().split('\n')
+
+    # For book chapters, title comes from the slug (line 1 is the book title)
+    if book_slug:
+        title = get_chapter_title(episode_slug)
+    else:
+        title = lines[0].strip() if lines else episode_slug.replace('_', ' ')
+
+    # Extract year from early lines
+    year = ""
+    for line in lines[1:6]:
+        m = re.match(r'^(\d{4})', line.strip())
+        if m:
+            year = m.group(1)
+            break
+
+    mia_url = find_mia_url(readme_content, title)
+
+    if book_slug:
+        audio_url = f"{S3_BASE}/{author_slug}/{book_slug}/{episode_slug}.mp3"
+    else:
+        audio_url = f"{S3_BASE}/{author_slug}/{episode_slug}.mp3"
+
+    # Body: skip header metadata, start from actual content
+    # Heuristic: find first numbered section or long paragraph
+    body_start = 0
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+        # Numbered section like "1" or "I - Title"
+        if re.match(r'^(\d+|[IVXLC]+ ?[-–—])$', stripped) and i > 3:
+            body_start = i
+            break
+        # Long paragraph (actual content)
+        if len(stripped) > 200 and i > 3:
+            body_start = i
+            break
+    if body_start == 0:
+        body_start = min(6, len(lines))
+
+    body = '\n'.join(lines[body_start:]).strip()
+
+    # Load timestamps
+    ts_path = os.path.join(episode_dir, f"{episode_slug}_timestamps.json")
+    if os.path.exists(ts_path):
+        with open(ts_path, 'r') as f:
+            ts_data = json.load(f)
+        timestamps = ts_data.get("segments", [])
+    else:
+        timestamps = []
+
+    # Escape quotes in frontmatter values
+    safe_title = title.replace('"', '\\"')
+
+    frontmatter = f'---\ntitle: "{safe_title}"\nauthor_name: "{author_name}"\nauthor_slug: "{author_slug}"\nepisode_slug: "{episode_slug}"\n'
+    if book_slug:
+        frontmatter += f'book_slug: "{book_slug}"\n'
+    frontmatter += f'year: "{year}"\naudio_url: "{audio_url}"\nmia_url: "{mia_url}"\n'
+    frontmatter += f'timestamps: {json.dumps(timestamps, ensure_ascii=False)}\n'
+    frontmatter += '---\n\n'
+
+    os.makedirs(EPISODES_DIR, exist_ok=True)
+    prefix = f"{author_slug}_{book_slug}_" if book_slug else f"{author_slug}_"
+    out_path = os.path.join(EPISODES_DIR, f"{prefix}{episode_slug}.md")
+    with open(out_path, 'w') as f:
+        f.write(frontmatter + body)
+
+    print(f"  🎧 {title}")
+
 # --- Author generation ---
 
 def process_author(slug):
@@ -183,11 +281,15 @@ order: {ORDER.get(slug, 99)}
 
     print(f"✅ {name}")
 
-    # Generate book pages for this author
+    # Generate book + episode pages for this author
     for d in sorted(os.listdir(os.path.join(ARQUIVOS_DIR, slug))):
         full = os.path.join(ARQUIVOS_DIR, slug, d)
-        if os.path.isdir(full) and is_book(slug, d):
-            generate_book(slug, d, name)
+        if os.path.isdir(full):
+            if is_book(slug, d):
+                generate_book(slug, d, name)
+            else:
+                # Simple episode
+                generate_episode(slug, name, d, full, readme_content=content)
 
 if __name__ == '__main__':
     authors = [d for d in os.listdir(ARQUIVOS_DIR)

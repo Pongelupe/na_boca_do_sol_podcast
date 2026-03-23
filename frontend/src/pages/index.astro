@@ -1,5 +1,8 @@
 ---
 import Base from '../layouts/Base.astro';
+import AuthorCard from '../components/AuthorCard.astro';
+import SearchBar from '../components/SearchBar.astro';
+import Carousel from '../components/Carousel.astro';
 import { getCollection } from 'astro:content';
 
 const authors = (await getCollection('authors')).sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
@@ -7,7 +10,8 @@ const authors = (await getCollection('authors')).sort((a, b) => (a.data.order ??
 
 <Base title="Início">
   <section class="hero">
-    <h2>Na Boca do Sol Podcast 🎙️</h2>
+    <h2>★  Na Boca do Sol Podcast ★</h2>
+    <p class="tagline">Perto da manhã, na boca do sol</p>
     <p>
       Podcast de leitura de textos marxistas de domínio público, disponibilizados pelo
       <a href="https://www.marxists.org/" target="_blank">Marxists Internet Archive</a>.
@@ -15,20 +19,22 @@ const authors = (await getCollection('authors')).sort((a, b) => (a.data.order ??
     <p>
       Episódios gerados com voz sintetizada por IA. Código aberto, livre e gratuito.
     </p>
+    <p>
+      <a href="/sobre">Saiba como funciona →</a>
+    </p>
   </section>
 
-  <h2 style="color: var(--accent); margin-bottom: 0.5rem;">Autores</h2>
+  <hr class="divider" />
 
-  <input type="text" id="author-search" class="search-bar" placeholder="Buscar autor..." />
+  <h2 style="color: var(--accent); font-family: 'Yeseva One', serif; font-weight: 400; margin-bottom: 0.5rem;">Autores</h2>
 
-  <div class="authors-grid">
+  <SearchBar id="author-search" placeholder="Buscar autor..." />
+
+  <Carousel label="Autores">
     {authors.map((author) => (
-      <a class="author-card" href={`/${author.data.slug}/`} data-name={author.data.name.toLowerCase()}>
-        {author.data.image && <img src={author.data.image} alt={author.data.name} />}
-        <h3>{author.data.name}</h3>
-      </a>
+      <AuthorCard name={author.data.name} slug={author.data.slug} image={author.data.image} />
     ))}
-  </div>
+  </Carousel>
 
   <script>
     document.getElementById('author-search')!.addEventListener('input', (e) => {

@@ -1,0 +1,6 @@
+---
+interface Props { placeholder?: string; id?: string; }
+const { placeholder = 'Buscar...', id = 'search' } = Astro.props;
+---
+
+<input type="text" id={id} class="search-bar" placeholder={placeholder} />

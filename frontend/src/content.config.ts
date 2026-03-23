@@ -25,4 +25,23 @@ const books = defineCollection({
   }),
 });
 
-export const collections = { authors, books };
+const episodes = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/episodes' }),
+  schema: z.object({
+    title: z.string(),
+    author_name: z.string(),
+    author_slug: z.string(),
+    episode_slug: z.string(),
+    book_slug: z.string().optional(),
+    year: z.string().optional(),
+    audio_url: z.string(),
+    mia_url: z.string().optional(),
+    timestamps: z.array(z.object({
+      start: z.number(),
+      end: z.number(),
+      text: z.string(),
+    })),
+  }),
+});
+
+export const collections = { authors, books, episodes };

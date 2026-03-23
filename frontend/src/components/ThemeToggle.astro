@@ -1,0 +1,13 @@
+<button class="theme-toggle" id="theme-toggle" aria-label="Alternar tema">🌙</button>
+
+<script is:inline>
+  const btn = document.getElementById('theme-toggle');
+  const update = () => btn.textContent = document.documentElement.dataset.theme === 'dark' ? '☀️' : '🌙';
+  update();
+  btn.addEventListener('click', () => {
+    const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = next;
+    localStorage.setItem('theme', next);
+    update();
+  });
+</script>

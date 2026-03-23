@@ -1,0 +1,101 @@
+---
+interface Props { src: string; }
+const { src } = Astro.props;
+---
+
+<div class="player-sentinel"></div>
+<div class="player" data-src={src}>
+  <audio preload="metadata"></audio>
+
+  <div class="player-progress">
+    <div class="player-progress-fill"></div>
+  </div>
+
+  <span class="player-time">0:00 / 0:00</span>
+
+  <div class="player-controls">
+    <button class="player-btn player-skip" data-skip="-15" aria-label="Voltar 15s">↺ 15s</button>
+    <button class="player-btn player-play" aria-label="Reproduzir">
+      <svg class="icon-play" viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><polygon points="6,3 20,12 6,21"/></svg>
+      <svg class="icon-pause" viewBox="0 0 24 24" width="24" height="24" fill="currentColor" style="display:none"><rect x="5" y="3" width="4" height="18"/><rect x="15" y="3" width="4" height="18"/></svg>
+    </button>
+    <button class="player-btn player-skip" data-skip="15" aria-label="Avançar 15s">15s ↻</button>
+  </div>
+
+  <div class="player-meta">
+    <div class="player-toggles">
+      <button class="player-btn player-toggle active" data-toggle="highlight">Destaque</button>
+      <button class="player-btn player-toggle active" data-toggle="follow">Seguir</button>
+      <button class="player-btn player-locate" aria-label="Ir para trecho atual" style="display:none">🎯</button>
+    </div>
+    <button class="player-btn player-speed">1x</button>
+  </div>
+</div>
+
+<script>
+  document.querySelectorAll('.player').forEach((p) => {
+    const audio = p.querySelector('audio') as HTMLAudioElement;
+    const play = p.querySelector('.player-play') as HTMLElement;
+    const time = p.querySelector('.player-time') as HTMLElement;
+    const fill = p.querySelector('.player-progress-fill') as HTMLElement;
+    const bar = p.querySelector('.player-progress') as HTMLElement;
+    const speed = p.querySelector('.player-speed') as HTMLElement;
+
+    audio.src = (p as HTMLElement).dataset.src!;
+    const rates = [0.75, 1, 1.25, 1.5, 2];
+    let ri = 1;
+
+    const fmt = (s: number) => {
+      if (isNaN(s)) return '0:00';
+      const m = Math.floor(s / 60);
+      return `${m}:${Math.floor(s % 60).toString().padStart(2, '0')}`;
+    };
+
+    play.addEventListener('click', () => audio.paused ? audio.play() : audio.pause());
+    audio.addEventListener('play', () => {
+      play.querySelector('.icon-play')!.style.display = 'none';
+      play.querySelector('.icon-pause')!.style.display = '';
+    });
+    audio.addEventListener('pause', () => {
+      play.querySelector('.icon-play')!.style.display = '';
+      play.querySelector('.icon-pause')!.style.display = 'none';
+    });
+
+    audio.addEventListener('timeupdate', () => {
+      fill.style.width = `${(audio.currentTime / audio.duration) * 100 || 0}%`;
+      time.textContent = `${fmt(audio.currentTime)} / ${fmt(audio.duration)}`;
+    });
+
+    audio.addEventListener('loadedmetadata', () => {
+      time.textContent = `0:00 / ${fmt(audio.duration)}`;
+    });
+
+    bar.addEventListener('click', (e) => {
+      const r = bar.getBoundingClientRect();
+      audio.currentTime = ((e.clientX - r.left) / r.width) * audio.duration;
+    });
+
+    p.querySelectorAll('.player-skip').forEach((b) => {
+      b.addEventListener('click', () => {
+        audio.currentTime = Math.max(0, Math.min(audio.duration,
+          audio.currentTime + parseInt((b as HTMLElement).dataset.skip!)));
+      });
+    });
+
+    speed.addEventListener('click', () => {
+      ri = (ri + 1) % rates.length;
+      audio.playbackRate = rates[ri];
+      speed.textContent = `${rates[ri]}x`;
+    });
+
+    // Sticky player
+    const sentinel = (p as HTMLElement).previousElementSibling as HTMLElement;
+    if (sentinel) {
+      new IntersectionObserver(([e]) => {
+        const sticky = !e.isIntersecting;
+        p.classList.toggle('sticky', sticky);
+        document.body.style.paddingBottom = sticky ? `${p.getBoundingClientRect().height + 16}px` : '';
+      }).observe(sentinel);
+    }
+  });
+</script>

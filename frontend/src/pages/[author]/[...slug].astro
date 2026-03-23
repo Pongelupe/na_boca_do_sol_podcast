@@ -1,0 +1,126 @@
+---
+import Base from '../../layouts/Base.astro';
+import AudioPlayer from '../../components/AudioPlayer.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const episodes = await getCollection('episodes');
+  return episodes.map((ep) => {
+    const slug = ep.data.book_slug
+      ? `${ep.data.book_slug}/${ep.data.episode_slug}`
+      : ep.data.episode_slug;
+    return {
+      params: { author: ep.data.author_slug, slug },
+      props: { episode: ep },
+    };
+  });
+}
+
+const { episode } = Astro.props;
+const { Content } = await render(episode);
+const d = episode.data;
+const backHref = d.book_slug ? `/${d.author_slug}/${d.book_slug}/` : `/${d.author_slug}/`;
+const backLabel = d.book_slug ? d.book_slug.replace(/_/g, ' ') : d.author_name;
+---
+
+<Base title={d.title} description={`${d.title} — ${d.author_name}. Ouça no Na Boca do Sol.`}>
+  <div class="episode-header">
+    <p><a href={backHref}>← {backLabel}</a></p>
+    <h2>{d.title}</h2>
+    <p class="episode-meta">{d.author_name}{d.year ? ` · ${d.year}` : ''}</p>
+  </div>
+
+  <div class="episode-actions">
+    <button class="action-btn" id="share-btn" aria-label="Compartilhar">🔗 Compartilhar</button>
+    <a class="action-btn" href={d.audio_url} download aria-label="Baixar">⬇️ Baixar</a>
+    {d.mia_url && <a class="action-btn" href={d.mia_url} target="_blank" aria-label="Ler no MIA">📖 Ler original</a>}
+  </div>
+
+  <AudioPlayer src={d.audio_url} />
+
+  <hr class="divider" />
+
+  <div class="episode-transcript">
+    <h3>Transcrição</h3>
+    {d.timestamps.length > 0 ? (
+      <div id="synced-transcript">
+        {d.timestamps.map((seg, i) => (
+          <span class="ts-seg" data-start={seg.start} data-end={seg.end} data-i={i}>{seg.text}</span>
+        ))}
+      </div>
+    ) : (
+      <Content />
+    )}
+  </div>
+
+  <script>
+    document.getElementById('share-btn')?.addEventListener('click', async () => {
+      const url = window.location.href;
+      if (navigator.share) {
+        await navigator.share({ url });
+      } else {
+        await navigator.clipboard.writeText(url);
+        const btn = document.getElementById('share-btn')!;
+        btn.textContent = '✅ Link copiado!';
+        setTimeout(() => btn.textContent = '🔗 Compartilhar', 2000);
+      }
+    });
+
+    // Synced transcript
+    const transcript = document.getElementById('synced-transcript');
+    if (transcript) {
+      const segs = transcript.querySelectorAll('.ts-seg') as NodeListOf<HTMLElement>;
+      const audio = document.querySelector('.player audio') as HTMLAudioElement;
+      const highlightBtn = document.querySelector('[data-toggle="highlight"]') as HTMLElement;
+      const followBtn = document.querySelector('[data-toggle="follow"]') as HTMLElement;
+      let active: HTMLElement | null = null;
+      let highlight = true;
+      let follow = true;
+
+      highlightBtn?.addEventListener('click', () => {
+        highlight = !highlight;
+        highlightBtn.classList.toggle('active', highlight);
+        if (!highlight) active?.classList.remove('active');
+      });
+      followBtn?.addEventListener('click', () => {
+        follow = !follow;
+        followBtn.classList.toggle('active', follow);
+        if (follow && active) active.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      });
+
+      document.querySelector('.player-locate')?.addEventListener('click', () => {
+        if (active) active.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      });
+
+      const locateBtn = document.querySelector('.player-locate') as HTMLElement;
+      const checkLocateVisibility = () => {
+        if (!active || !locateBtn) return;
+        const r = active.getBoundingClientRect();
+        const visible = r.top >= 0 && r.bottom <= window.innerHeight;
+        locateBtn.style.display = visible ? 'none' : '';
+      };
+      window.addEventListener('scroll', checkLocateVisibility, { passive: true });
+
+      // Click segment to seek
+      segs.forEach(s => s.addEventListener('click', () => {
+        audio.currentTime = parseFloat(s.dataset.start!);
+        audio.play();
+      }));
+
+      audio.addEventListener('timeupdate', () => {
+        const t = audio.currentTime;
+        let found: HTMLElement | null = null;
+        for (const s of segs) {
+          if (t >= parseFloat(s.dataset.start!) && t < parseFloat(s.dataset.end!)) {
+            found = s; break;
+          }
+        }
+        if (found === active) return;
+        active?.classList.remove('active');
+        if (highlight) found?.classList.add('active');
+        active = found;
+        if (found && follow) found.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      });
+    }
+  </script>
+</Base>

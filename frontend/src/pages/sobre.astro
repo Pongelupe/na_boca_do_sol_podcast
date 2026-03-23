@@ -1,0 +1,163 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Sobre" description="Como funciona o Na Boca do Sol — pipeline técnica, TTS, transcrição sincronizada e mais.">
+  <div class="sobre-page">
+    <section class="hero">
+      <h2>Sobre o Projeto</h2>
+      <p class="tagline">Como nasce cada episódio</p>
+    </section>
+
+    <hr class="divider" />
+
+    <section class="sobre-section">
+      <h3>O que é</h3>
+      <p>
+        <strong>Na Boca do Sol</strong> é um podcast automatizado que transforma textos marxistas de domínio público
+        em episódios de áudio com voz sintetizada por IA. Todo o conteúdo vem do
+        <a href="https://www.marxists.org/" target="_blank">Marxists Internet Archive (MIA)</a>,
+        e o projeto é inteiramente código aberto, livre e gratuito.
+      </p>
+      <p>
+        O nome do projeto vem da canção
+        "Na Boca do Sol",
+        de Arthur Verocai. <em>"Na minha cidade do interior / Tudo que chegou, chegou de trem"</em>
+        — e esse podcast é o trem. Traz a teoria revolucionária mais avançada para a realidade concreta
+        de quem vive no Brasil profundo, porque <em>"pra quem mora lá, o céu é lá"</em>.
+        Com inteligência artificial e código aberto, perto da manhã, na boca do sol,
+        vamos construir a revolução brasileira.
+      </p>
+    </section>
+
+    <section class="sobre-section">
+      <h3>Pipeline: do texto ao episódio</h3>
+      <p>Cada episódio passa por uma pipeline automatizada com as seguintes etapas:</p>
+
+      <div class="pipeline">
+        <div class="pipeline-step">
+          <span class="step-num">1</span>
+          <div>
+            <strong>Extração</strong>
+            <p>O texto é extraído da página do MIA, limpo de HTML e formatado para leitura natural em português.</p>
+          </div>
+        </div>
+        <div class="pipeline-step">
+          <span class="step-num">2</span>
+          <div>
+            <strong>Síntese de voz (TTS)</strong>
+            <p>
+              O texto é convertido em áudio usando <a href="https://github.com/hexgrad/kokoro" target="_blank">Kokoro TTS</a>,
+              um modelo de síntese de voz open-source. Usamos a voz "Alex" com o modelo em português.
+              O processo roda em Docker com GPU NVIDIA para performance.
+            </p>
+          </div>
+        </div>
+        <div class="pipeline-step">
+          <span class="step-num">3</span>
+          <div>
+            <strong>Timestamps</strong>
+            <p>
+              Durante a síntese, o sistema calcula automaticamente os timestamps de cada trecho do texto
+              a partir do tamanho dos arrays de áudio gerados (24000 Hz sample rate).
+            </p>
+          </div>
+        </div>
+        <div class="pipeline-step">
+          <span class="step-num">4</span>
+          <div>
+            <strong>Conversão e upload</strong>
+            <p>
+              O áudio WAV é convertido para MP3 via <code>ffmpeg</code> e enviado para Amazon S3.
+              Os timestamps são embutidos no frontmatter do episódio.
+            </p>
+          </div>
+        </div>
+        <div class="pipeline-step">
+          <span class="step-num">5</span>
+          <div>
+            <strong>Site estático</strong>
+            <p>
+              O site é gerado com <a href="https://astro.build/" target="_blank">Astro</a> e publicado no GitHub Pages.
+              Zero dependências JavaScript além do Astro — todo o JS do player e da transcrição é inline,
+              otimizado para conexões lentas.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="sobre-section">
+      <h3>Stack técnica</h3>
+      <ul class="tech-list">
+        <li><strong>Kokoro TTS</strong> — síntese de voz open-source, modelo português, voz "Alex"</li>
+        <li><strong>Python</strong> — extração de texto, limpeza HTML, geração de timestamps</li>
+        <li><strong>Docker + NVIDIA GPU</strong> — ambiente isolado para geração de áudio</li>
+        <li><strong>ffmpeg</strong> — conversão WAV → MP3</li>
+        <li><strong>Amazon S3</strong> — hospedagem dos arquivos de áudio</li>
+        <li><strong>Astro</strong> — gerador de site estático, zero JS runtime</li>
+        <li><strong>GitHub Pages</strong> — hospedagem do site</li>
+      </ul>
+    </section>
+
+    <section class="sobre-section">
+      <h3>Código aberto</h3>
+      <p>
+        Todo o código está disponível no
+        <a href="https://github.com/Pongelupe/na_boca_do_sol_podcast" target="_blank">GitHub</a>.
+        Contribuições, sugestões e issues são bem-vindas.
+      </p>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .sobre-page { max-width: 720px; margin: 0 auto; }
+  .sobre-section { margin-bottom: 2.5rem; }
+  .sobre-section h3 {
+    font-family: 'Yeseva One', serif;
+    font-weight: 400;
+    color: var(--accent);
+    font-size: 1.4rem;
+    margin-bottom: 0.6rem;
+  }
+  .sobre-section p { color: var(--text-muted); line-height: 1.7; margin-bottom: 0.8rem; }
+  .sobre-section a { color: var(--gold); }
+  .sobre-section code {
+    background: var(--card-bg);
+    padding: 0.15em 0.4em;
+    border-radius: 4px;
+    font-size: 0.9em;
+  }
+
+  .pipeline { display: flex; flex-direction: column; gap: 1rem; margin-top: 1rem; }
+  .pipeline-step {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    background: var(--card-bg);
+    border-left: 3px solid var(--accent);
+    padding: 1rem;
+    border-radius: 0 8px 8px 0;
+  }
+  .step-num {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.6rem;
+    color: var(--gold);
+    line-height: 1;
+    min-width: 1.5rem;
+    text-align: center;
+  }
+  .pipeline-step strong { color: var(--text); }
+  .pipeline-step p { color: var(--text-muted); margin: 0.3rem 0 0; font-size: 0.95rem; line-height: 1.6; }
+
+  .tech-list { list-style: none; padding: 0; }
+  .tech-list li {
+    color: var(--text-muted);
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--border);
+    line-height: 1.6;
+  }
+  .tech-list li:last-child { border-bottom: none; }
+  .tech-list strong { color: var(--gold); }
+</style>
