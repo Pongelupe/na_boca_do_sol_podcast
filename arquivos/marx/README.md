@@ -54,7 +54,7 @@
 | Manuscritos Econômico-Filosóficos | 1844 - ago  |  | [🔗](https://www.marxists.org/portugues/marx/1844/manuscritos/index.htm) |
 | Socialismo Continental | 1844 - out  |  | [🔗](https://www.marxists.org/portugues/marx/1844/10/05.htm) |
 | Às classes trabalhadoras da Grã-Bretanha | 1845 |  | [🔗](https://www.marxists.org/portugues/marx/1845/03/15.htm) |
-| Teses sobre Feuerbach | 1845 - mar |  | [🔗](https://www.marxists.org/portugues/marx/1845/tesfeuer.htm) |
+| Teses sobre Feuerbach | 1845 - mar | [📁](Teses_sobre_Feuerbach/) | [🔗](https://www.marxists.org/portugues/marx/1845/tesfeuer.htm) |
 | <tr>
   <td>1846 - ago</td>
   <td title="Marx e Engels">M/E</td>

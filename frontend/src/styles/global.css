@@ -690,7 +690,7 @@ a.timeline-card--clickable:hover {
 }
 
 /* Hide original table (replaced by JS) */
-.content table { display: none; }
+.content:has(.timeline) table { display: none; }
 
 /* Search & filters */
 .search-bar {

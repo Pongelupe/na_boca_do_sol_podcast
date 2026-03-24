@@ -52,7 +52,7 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | A Era das Reformas | 1903 - ago |  | [🔗](https://www.marxists.org/portugues/lenin/1903/08/15.htm) |
 | As Tarefas da Juventude Revolucionária | 1903 - set |  | [🔗](https://www.marxists.org/portugues/lenin/1903/09/juventude.htm) |
 | Ao Proletariado Russo | 1904 - fev |  | [🔗](https://www.marxists.org/portugues/lenin/1904/02/03.htm) |
-| Um Passo em Frente, Dois Passos Atrás | 1904 - mai |  | [🔗](https://www.marxists.org/portugues/lenin/1904/passo/passo.pdf) |
+| Um Passo em Frente, Dois Passos Atrás | 1904 - mai | [📁](Um_Passo_em_Frente,_Dois_Passos_Atrás/) | [🔗](https://www.marxists.org/portugues/lenin/1904/passo/passo.pdf) |
 | Um Passo em Frente, Dois Passos Atrás — Resposta de N. Lénine a Rosa Luxemburg | 1904 - set |  | [🔗](https://www.marxists.org/portugues/lenin/1904/09/resposta.htm) |
 | A Autocracia e o Proletariado | 1905 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1905/01/04.htm) |
 | A Revolução na Rússia | 1905 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1905/01/10.htm) |
@@ -196,7 +196,7 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Sobre a Questão da Dialética | 1915 |  | [🔗](https://www.marxists.org/portugues/lenin/1915/mes/dialetica.htm) |
 | O Oportunismo e a Falência da II Internacional | 1916 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1916/01/falencia.htm) |
 | Os Objetivos da Oposição em França | 1916 - fev |  | [🔗](https://www.marxists.org/portugues/lenin/../tematica/livros/trotsky/04.htm#i3) |
-| O Imperialismo, Fase Superior do Capitalismo | 1916 - jun |  | [🔗](https://www.marxists.org/portugues/lenin/1916/imperialismo/imperialismo.pdf) |
+| O Imperialismo, Fase Superior do Capitalismo | 1916 - jun | [📁](O_Imperialismo,_Fase_Superior_do_Capitalismo/) | [🔗](https://www.marxists.org/portugues/lenin/1916/imperialismo/imperialismo.pdf) |
 | Acerca da Brochura de Junius | 1916 - jul |  | [🔗](https://www.marxists.org/portugues/lenin/1916/07/junius.htm) |
 | A Rebelião Irlandesa de 1916 | 1916 - jul |  | [🔗](https://www.marxists.org/portugues/lenin/1916/07/40.htm) |
 | O Programa Militar da Revolução Proletária | 1916 - set |  | [🔗](https://www.marxists.org/portugues/lenin/1916/09/programa.htm) |
@@ -298,7 +298,7 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Relatório sobre a Situação Económica dos Operários de Petrogrado e as Tarefas da Classe Operária na Reunião da Secção Operária do Soviete de Deputados Operários e Soldados de Petrogrado | 1917 - dez |  | [🔗](https://www.marxists.org/portugues/lenin/1917/12/17.htm) |
 | Reunião do CEC de Toda a Rússia | 1917 - dez |  | [🔗](https://www.marxists.org/portugues/lenin/1917/12/14.htm) |
 | Teses Sobre a Assembleia Constituinte | 1917 - dez |  | [🔗](https://www.marxists.org/portugues/lenin/1917/12/25.htm) |
-| O Estado e a Revolução | 1918 |  | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#estado) |
+| O Estado e a Revolução | 1918 | [📁](O_Estado_e_a_Revolução/) | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#estado) |
 | Como Organizar a Emulação? | 1918 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1918/01/06.htm) |
 | Os Que Estão Assustados Com a Falência do Velho e os Que Lutam Pelo Novo | 1918 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1918/01/09.htm) |
 | Discurso aos agitadores enviados às províncias | 1918 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1918/02/06.htm) |
