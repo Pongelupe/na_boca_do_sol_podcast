@@ -1,11 +1,8 @@
 # Vladimir Ilitch Lênin
 
 <p align="center"><img src="https://www.marxists.org/portugues/lenin/img/lenine.jpg" alt="Vladimir Ilitch Lênin"></p>
-
 Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu o partido e os sovietes à tomada de poder na Revolução Russa de 1917. Fundou a Internacional Comunista, identificou o Imperialismo como fase superior do Capitalismo e enfatizou o papel do partido como vanguarda da revolução.
-
 ## Obras
-
 | Obra | Ano | Repo | MIA |
 |------|-----|:----:|:---:|
 | A Que Herança Renunciamos? | 1897 |  | [🔗](https://www.marxists.org/portugues/lenin/1897/heranca/index.htm) |
@@ -21,7 +18,6 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Explicação da Lei sobre Multas Imposta aos Operários de Fábrica | 1895 |  | [🔗](https://www.marxists.org/portugues/lenin/1895/mes/multas.htm) |
 | Friedrich Engels | 1895 |  | [🔗](https://www.marxists.org/portugues/lenin/1895/mes/engels.htm) |
 | Projeto de Programa do Partido Social-Democrata e Explicação desse Projeto | 1896 |  | [🔗](https://www.marxists.org/portugues/lenin/1896/mes/projeto.htm) |
-| A Que Herança Renunciamos? | 1897 |  | [🔗](https://www.marxists.org/portugues/lenin/1897/heranca/index.htm) |
 | As Tarefas dos Social-Democratas Russos | 1897 |  | [🔗](https://www.marxists.org/portugues/lenin/1897/mes/tarefas.htm) |
 | Carta ao Conselho Editorial | 1899 |  | [🔗](https://www.marxists.org/portugues/lenin/1899/mes/40.htm) |
 | Nossa Tarefa Imediata | 1899 |  | [🔗](https://www.marxists.org/portugues/lenin/1899/mes/41.htm) |
@@ -38,7 +34,6 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Por Onde Começar | 1901 - mai |  | [🔗](https://www.marxists.org/portugues/lenin/1901/05/onde.htm) |
 | Um Novo Massacre | 1901 - jun |  | [🔗](https://www.marxists.org/portugues/lenin/1901/06/massacre.htm) |
 | Anarquismo e Socialismo | 1901 |  | [🔗](https://www.marxists.org/portugues/lenin/1901/mes/anarquismo.htm) |
-| Que Fazer? Problemas Candentes do Nosso Movimento | 1902 |  | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#quefazer) |
 | Agitação política e o Ponto de Vista de Classe | 1902 - fev |  | [🔗](https://www.marxists.org/portugues/lenin/1902/02/01.htm) |
 | Projeto de Programa do Partido Operário Social-Democrata da Rússia | 1902 - fev |  | [🔗](https://www.marxists.org/portugues/lenin/1902/02/projeto.htm) |
 | O programa agrário da social-democracia russa | 1902 - mar |  | [🔗](https://www.marxists.org/portugues/lenin/1902/03/40.htm) |
@@ -52,7 +47,6 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | A Era das Reformas | 1903 - ago |  | [🔗](https://www.marxists.org/portugues/lenin/1903/08/15.htm) |
 | As Tarefas da Juventude Revolucionária | 1903 - set |  | [🔗](https://www.marxists.org/portugues/lenin/1903/09/juventude.htm) |
 | Ao Proletariado Russo | 1904 - fev |  | [🔗](https://www.marxists.org/portugues/lenin/1904/02/03.htm) |
-| Um Passo em Frente, Dois Passos Atrás | 1904 - mai | [📁](Um_Passo_em_Frente,_Dois_Passos_Atrás/) | [🔗](https://www.marxists.org/portugues/lenin/1904/passo/passo.pdf) |
 | Um Passo em Frente, Dois Passos Atrás — Resposta de N. Lénine a Rosa Luxemburg | 1904 - set |  | [🔗](https://www.marxists.org/portugues/lenin/1904/09/resposta.htm) |
 | A Autocracia e o Proletariado | 1905 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1905/01/04.htm) |
 | A Revolução na Rússia | 1905 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1905/01/10.htm) |
@@ -64,7 +58,6 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Revolução do Tipo de 1789 ou do Tipo de 1848? | 1905 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1905/04/rev_tipo.htm) |
 | Informe sobre a Resolução acerca do apoio ao movimento camponês | 1905 - mai |  | [🔗](https://www.marxists.org/portugues/lenin/1905/05/02.htm) |
 | Sobre a Confusão entre Política e Pedagogia | 1905 - jun |  | [🔗](https://www.marxists.org/portugues/lenin/1905/06/confusao.htm) |
-| Duas Tácticas da Social-Democracia na Revolução Democrática | 1905 - jul |  | [🔗](https://www.marxists.org/portugues/lenin/1905/taticas/tacticas.pdf) |
 | A Comuna de Paris e as Tarefas da Ditadura Democrática | 1905 - jul |  | [🔗](https://www.marxists.org/portugues/lenin/1905/07/17.htm) |
 | A Revolução Educa | 1905 - jul |  | [🔗](https://www.marxists.org/portugues/lenin/1905/07/26.htm) |
 | A atitude da social-democracia ante o movimento camponês | 1905 - set |  | [🔗](https://www.marxists.org/portugues/lenin/1905/09/14.htm) |
@@ -196,7 +189,6 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Sobre a Questão da Dialética | 1915 |  | [🔗](https://www.marxists.org/portugues/lenin/1915/mes/dialetica.htm) |
 | O Oportunismo e a Falência da II Internacional | 1916 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1916/01/falencia.htm) |
 | Os Objetivos da Oposição em França | 1916 - fev |  | [🔗](https://www.marxists.org/portugues/lenin/../tematica/livros/trotsky/04.htm#i3) |
-| O Imperialismo, Fase Superior do Capitalismo | 1916 - jun | [📁](O_Imperialismo,_Fase_Superior_do_Capitalismo/) | [🔗](https://www.marxists.org/portugues/lenin/1916/imperialismo/imperialismo.pdf) |
 | Acerca da Brochura de Junius | 1916 - jul |  | [🔗](https://www.marxists.org/portugues/lenin/1916/07/junius.htm) |
 | A Rebelião Irlandesa de 1916 | 1916 - jul |  | [🔗](https://www.marxists.org/portugues/lenin/1916/07/40.htm) |
 | O Programa Militar da Revolução Proletária | 1916 - set |  | [🔗](https://www.marxists.org/portugues/lenin/1916/09/programa.htm) |
@@ -213,7 +205,6 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Informe sobre o momento atual e sobre a posição diante do governo provisório - Conferência de Petrogrado do POSDR(b) | 1917 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1917/04/27.htm) |
 | Atas da Conferência Bolchevique de abril de 1917 | 1917 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1917/04/27b.htm) |
 | O Congresso de Deputados Camponeses | 1917 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1917/04/16.htm) |
-| Sobre as Tarefas do Proletariado na Presente Revolução (Teses de Abril) | 1917 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1917/04/04_teses.htm) |
 | Sobre a Dualidade de Poderes | 1917 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1917/04/09.htm) |
 | As Tarefas do Proletariado na Nossa Revolução (Projecto de Plataforma do Partido Proletário) | 1917 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1917/04/23.htm) |
 | Cartas sobre a Táctica | 1917 - abr |  | [🔗](https://www.marxists.org/portugues/lenin/1917/04/26.htm) |
@@ -298,7 +289,6 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Relatório sobre a Situação Económica dos Operários de Petrogrado e as Tarefas da Classe Operária na Reunião da Secção Operária do Soviete de Deputados Operários e Soldados de Petrogrado | 1917 - dez |  | [🔗](https://www.marxists.org/portugues/lenin/1917/12/17.htm) |
 | Reunião do CEC de Toda a Rússia | 1917 - dez |  | [🔗](https://www.marxists.org/portugues/lenin/1917/12/14.htm) |
 | Teses Sobre a Assembleia Constituinte | 1917 - dez |  | [🔗](https://www.marxists.org/portugues/lenin/1917/12/25.htm) |
-| O Estado e a Revolução | 1918 | [📁](O_Estado_e_a_Revolução/) | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#estado) |
 | Como Organizar a Emulação? | 1918 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1918/01/06.htm) |
 | Os Que Estão Assustados Com a Falência do Velho e os Que Lutam Pelo Novo | 1918 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1918/01/09.htm) |
 | Discurso aos agitadores enviados às províncias | 1918 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1918/02/06.htm) |
@@ -342,7 +332,6 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Discurso na Inauguração do Monumento a Marx e Engels | 1918 - nov |  | [🔗](https://www.marxists.org/portugues/lenin/1918/11/16.htm) |
 | Discurso aos delegados dos comitês de camponeses pobres da região de Moscou | 1918 - nov |  | [🔗](https://www.marxists.org/portugues/lenin/1918/11/08.htm) |
 | Reunião dos funcionários do Partido de Moscou - Informe sobre a posição do proletariado diante da democracia pequeno-burguesa | 1918 - nov |  | [🔗](https://www.marxists.org/portugues/lenin/1918/11/27.htm) |
-| A Revolução Proletária e o Renegado Kautsky | 1918 - nov |  | [🔗](https://www.marxists.org/portugues/lenin/1918/renegado/renegado.pdf) |
 | Servilismo diante da burguesia a pretexto de «análise econômica» (Do livro A Revolução proletária e o Renegado Kautsky) | 1918 - nov |  | [🔗](https://www.marxists.org/portugues/lenin/1918/renegado/40.htm) |
 | Discurso pronunciado no I Congresso de Seções Agrarias, Comitês de Camponeses Pobres e Comunas de Toda a Rússia | 1918 - dez |  | [🔗](https://www.marxists.org/portugues/lenin/1918/12/11.htm) |
 | Sobre as Tarefas dos Sindicatos | 1919 - jan |  | [🔗](https://www.marxists.org/portugues/lenin/1919/01/tarefas.htm) |

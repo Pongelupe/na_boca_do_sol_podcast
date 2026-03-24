@@ -7,7 +7,7 @@ build: generate
 dev: generate
 	cd frontend && npm run dev
 
-generate:
+generate: clean-content
 	cd frontend && python3 generate_content.py
 
 # Content management
@@ -18,8 +18,14 @@ index:
 	mkdir -p $(DIR)
 	python3 tools/index_to_md.py $(URL) $(DIR) > $(DIR)/README.md
 
-update:
-	./tools/update_readme.sh arquivos
+# Cleanup
+clean:
+	rm -rf frontend/node_modules frontend/dist frontend/.astro frontend/src/content/authors frontend/src/content/books
+
+clean-content:
+	rm -rf frontend/src/content/authors/*.md
+	rm -rf frontend/src/content/books/*.md
+	rm -rf frontend/src/content/episodes/*.md
 
 # Podcast generation
 podcast:
@@ -41,8 +47,5 @@ mp3:
 upload: mp3
 	aws s3 sync arquivos/ s3://nbds-podcast/ --exclude "*.txt" --exclude "*.md" --exclude "*.json" --exclude "*.html" --exclude "*.wav"
 
-# Cleanup
-clean:
-	rm -rf frontend/node_modules frontend/dist frontend/.astro frontend/src/content/authors frontend/src/content/books
 deploy: upload
 	@echo "✅ Audio synced. Push to main to deploy site."

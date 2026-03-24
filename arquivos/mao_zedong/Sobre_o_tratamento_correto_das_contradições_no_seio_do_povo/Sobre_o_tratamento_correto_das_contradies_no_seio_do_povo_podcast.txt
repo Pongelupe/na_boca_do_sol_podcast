@@ -17,9 +17,9 @@ Nos siga no Instagram em arroba na boca do sol podcast.
 
 No episódio de hoje vamos apresentar o texto: Sobre o tratamento correto das contradições no seio do povo.
 |PAUSE:0.3|
-Escrito por Mao Tsetung em 27 de fevereiro de 1957.
+Escrito por Mao Tsetung em 27 de fevereiro de 1957
 |PAUSE:0.3|
-O número de linhas do texto é de 246.
+O número de linhas do texto é de 252.
 
 Ao fim da leitura vamos ler a biografia do autor.
 |PAUSE:0.5|
@@ -35,6 +35,14 @@ Sobre o tratamento correto das contradições no seio do povo
 Mao Tsetung
 
 27 de fevereiro de 1957
+
+Primeira Edição: Discurso pronunciado na Décima Primeira Sessão (alargada) da Conferência Suprema de Estado. O autor reviu o texto baseado nas notas taquigrafadas e fez-lhe alguns acrescentos antes da sua publicação no RenminRibao, em 19 de Junho de 1957.
+
+Fonte: Servir ao Povo de Todo Coração - https://serviraopovo.wordpress.com/2017/10/06/sobre-o-tratamento-correto-dascontradicoes-no-seio-do-povo-mao-tsetung-1957/
+
+Transcrição: Felipe Forte
+
+HTML: Fernando Araújo.
 
 O tema geral da minha intervenção é a justa solução das contradições no seio do povo. Para facilitar sua exposição, o tema está dividido em doze partes. Apesar de serem igualmente tratados os problemas das contradições existentes entre nós e o inimigo, este debate, porém, tem como assunto principal a análise das contradições que se manifestam no seio do povo.
 
@@ -274,8 +282,6 @@ Para transformar a China em um país industrializado devemos estudar seriamente 
 nosso país, isto é, assimilar a experiência que nos possa ser útil. Esta é a atitude que nós devemos adotar.
 
 É no fortalecimento da nossa solidariedade com a URSS e com todos os países socialistas que reside nossa política fundamental e os nossos interesses essenciais. Devemos também consolidar e alargar a nossa solidariedade com países da Ásia e da África, bem como com todos os países e povos amantes da paz. Unidos a estas duas forças já não estaremos sós. Quanto aos países imperialistas, devemos também unir-nos aos seus povos, esforçando-nos por conseguir a coexistência pacífica com esses países, negociar e conjurar todas as possibilidades de guerra. Porém, em relação a estes países, não devemos, em nenhuma circunstância, nutrir pontos de vista que não correspondam à realidade.
-
-Inclusão: 01/05/2020
 
 
 |SOUND:intro.wav|
