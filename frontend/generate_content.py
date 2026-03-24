@@ -114,14 +114,11 @@ def generate_book(author_slug, book_folder, author_name):
         ch_title = get_chapter_title(ch)
         # The wav filename is the part after the numeric prefix
         wav_name = re.sub(r'^\d+_', '', ch)
-        s3_url = f"{S3_BASE}/{author_slug}/{book_folder}/{wav_name}.mp3"
-        rows.append(
-            f"| {ch_title} | "
-            f'[⬇️]({s3_url}) <audio controls preload="none" src="{s3_url}"></audio> |'
-        )
+        episode_url = f"/{author_slug}/{book_slug}/{wav_name}/"
+        rows.append(f"| [{ch_title}]({episode_url}) |")
 
-    body = f"""| Capítulo | Áudio |
-|----------|-------|
+    body = f"""| Capítulo |
+|----------|
 """ + "\n".join(rows)
 
     frontmatter = f"""---
