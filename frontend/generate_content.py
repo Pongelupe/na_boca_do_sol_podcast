@@ -11,6 +11,7 @@ import json
 import html as html_mod
 
 S3_BASE = "https://nbds-podcast.s3.us-east-2.amazonaws.com"
+BASE_PATH = os.environ.get("BASE_PATH", "")  # Set BASE_PATH=/na_boca_do_sol_podcast for production
 ARQUIVOS_DIR = os.path.join(os.path.dirname(__file__), "..", "arquivos")
 AUTHORS_DIR = os.path.join(os.path.dirname(__file__), "src", "content", "authors")
 BOOKS_DIR = os.path.join(os.path.dirname(__file__), "src", "content", "books")
@@ -115,7 +116,7 @@ def generate_book(author_slug, book_folder, author_name):
     for ch in chapters:
         wav_name = re.sub(r'^\d+_', '', ch)
         ch_title = chapter_names.get(wav_name, get_chapter_title(ch))
-        episode_url = f"/{author_slug}/{book_slug}/{wav_name}/"
+        episode_url = f"{BASE_PATH}/{author_slug}/{book_slug}/{wav_name}/"
         rows.append(f"| [{ch_title}]({episode_url}) |")
 
     body = f"""| Capítulo |

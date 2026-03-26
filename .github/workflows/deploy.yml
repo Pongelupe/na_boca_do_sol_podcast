@@ -24,7 +24,7 @@ jobs:
           node-version: 20
       - run: npm ci
         working-directory: frontend
-      - run: python3 generate_content.py
+      - run: BASE_PATH=/na_boca_do_sol_podcast python3 generate_content.py
         working-directory: frontend
       - run: npm run build
         working-directory: frontend

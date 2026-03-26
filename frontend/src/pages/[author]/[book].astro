@@ -22,7 +22,7 @@ const zipUrl = `https://nbds-podcast.s3.us-east-2.amazonaws.com/${d.author_slug}
 
 <Base title={d.title || d.book_slug.replace(/_/g, ' ')} description={`${d.title || d.book_slug.replace(/_/g, ' ')} — ${d.author_name}`}>
   <div class="book-page">
-    <p class="book-back"><a href={`/${d.author_slug}/`}>← {d.author_name}</a></p>
+    <p class="book-back"><a href={`${import.meta.env.BASE_URL}/${d.author_slug}/`}>← {d.author_name}</a></p>
 
     <div class="book-hero">
       {d.image && <img src={d.image} alt={d.title} class="book-cover" />}
