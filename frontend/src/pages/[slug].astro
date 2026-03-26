@@ -80,7 +80,7 @@ const base = import.meta.env.BASE_URL;
         if (hasAudio && audioSrc) {
           const parts = audioSrc.replace('.mp3', '').split('/');
           const epSlug = parts[parts.length - 1];
-          const authorSlug = parts[parts.length - 2];
+          const authorSlug = parts[parts.length - 3];
           episodeUrl = `${base}/${authorSlug}/${epSlug}/`;
         } else if (hasBook && bookLink) {
           episodeUrl = bookLink;
