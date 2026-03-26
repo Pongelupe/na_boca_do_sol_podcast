@@ -18,11 +18,12 @@ const episodes = (await getCollection('episodes'))
   .sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
 
 const zipUrl = `https://nbds-podcast.s3.us-east-2.amazonaws.com/${d.author_slug}/${d.book_slug}.zip`;
+const base = import.meta.env.BASE_URL;
 ---
 
 <Base title={d.title || d.book_slug.replace(/_/g, ' ')} description={`${d.title || d.book_slug.replace(/_/g, ' ')} — ${d.author_name}`}>
   <div class="book-page">
-    <p class="book-back"><a href={`${import.meta.env.BASE_URL}/${d.author_slug}/`}>← {d.author_name}</a></p>
+    <p class="book-back"><a href={`${base}/${d.author_slug}/`}>← {d.author_name}</a></p>
 
     <div class="book-hero">
       {d.image && <img src={d.image} alt={d.title} class="book-cover" />}
@@ -43,7 +44,7 @@ const zipUrl = `https://nbds-podcast.s3.us-east-2.amazonaws.com/${d.author_slug}
     <ol class="chapter-list">
       {episodes.map((ep) => {
         const chTitle = ep.data.title;
-        const href = `/${d.author_slug}/${d.book_slug}/${ep.data.episode_slug}/`;
+        const href = `${base}/${d.author_slug}/${d.book_slug}/${ep.data.episode_slug}/`;
         return (
           <li>
             <a href={href} class="chapter-card">

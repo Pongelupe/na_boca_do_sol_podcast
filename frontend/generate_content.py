@@ -58,7 +58,7 @@ def transform_repo_links(content, author_slug):
         if is_book(author_slug, folder_path):
             book_slug = folder_path.replace('/', '_')
             zip_url = f"{S3_BASE}/{author_slug}/{book_slug}.zip"
-            return f'[📖 ver capítulos](/{author_slug}/{book_slug}/) [⬇️]({zip_url})'
+            return f'[📖 ver capítulos]({BASE_PATH}/{author_slug}/{book_slug}/) [⬇️]({zip_url})'
         filename = os.path.basename(folder_path)
         s3_url = f"{S3_BASE}/{author_slug}/{filename}.mp3"
         return f'[⬇️]({s3_url}) <audio controls preload="none" src="{s3_url}"></audio>'

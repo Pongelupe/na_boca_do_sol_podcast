@@ -13,10 +13,11 @@ export async function getStaticPaths() {
 
 const { author } = Astro.props;
 const { Content } = await render(author);
+const base = import.meta.env.BASE_URL;
 ---
 
 <Base title={author.data.name}>
-  <div class="author-header">
+  <div class="author-header" data-base={base}>
     {author.data.image && <div class="sun-portrait sun-portrait--large"><img src={author.data.image} alt={author.data.name} /></div>}
     <h2>{author.data.name}</h2>
   </div>
@@ -27,6 +28,7 @@ const { Content } = await render(author);
   <script>
     const table = document.querySelector('.content table');
     if (table) {
+      const base = document.querySelector('.author-header')?.getAttribute('data-base') || '';
       // Build timeline from table
       const timeline = document.createElement('div');
       timeline.className = 'timeline';
@@ -79,7 +81,7 @@ const { Content } = await render(author);
           const parts = audioSrc.replace('.mp3', '').split('/');
           const epSlug = parts[parts.length - 1];
           const authorSlug = parts[parts.length - 2];
-          episodeUrl = `/${authorSlug}/${epSlug}/`;
+          episodeUrl = `${base}/${authorSlug}/${epSlug}/`;
         } else if (hasBook && bookLink) {
           episodeUrl = bookLink;
         }
