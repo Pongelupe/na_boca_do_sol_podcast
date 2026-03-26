@@ -15,7 +15,7 @@ const d = book.data;
 
 const episodes = (await getCollection('episodes'))
   .filter((ep) => ep.data.book_slug === d.book_slug && ep.data.author_slug === d.author_slug)
-  .sort((a, b) => a.data.episode_slug.localeCompare(b.data.episode_slug));
+  .sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
 
 const zipUrl = `https://nbds-podcast.s3.us-east-2.amazonaws.com/${d.author_slug}/${d.book_slug}.zip`;
 ---

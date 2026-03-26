@@ -42,6 +42,19 @@ FOLDER_NAME=$(echo "$TITLE" | tr ' ' '_')
 sudo mv "$EPISODE" "$DEST_DIR/$FOLDER_NAME"
 echo "📁 Movido para: $DEST_DIR/$FOLDER_NAME"
 
+# Rename files inside to match folder name
+EPISODE_BASENAME=$(basename "$EPISODE")
+if [ "$EPISODE_BASENAME" != "$FOLDER_NAME" ]; then
+    echo "🔄 Renomeando arquivos de '$EPISODE_BASENAME' para '$FOLDER_NAME'..."
+    cd "$DEST_DIR/$FOLDER_NAME"
+    for file in *"$EPISODE_BASENAME"*; do
+        [ -e "$file" ] || continue
+        newname="${file//$EPISODE_BASENAME/$FOLDER_NAME}"
+        sudo mv "$file" "$newname"
+    done
+    cd - > /dev/null
+fi
+
 # Update README — add 📁 link
 python3 -c "
 lines = open('$DEST_DIR/README.md').readlines()

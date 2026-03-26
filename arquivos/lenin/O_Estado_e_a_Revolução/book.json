@@ -2,5 +2,13 @@
   "title": "O Estado e a Revolução",
   "year": "1917",
   "image": "",
-  "description": "1918"
+  "description": "",
+  "chapters": {
+    "As_Classes_Sociais_e_o_Estado": "As Classes Sociais e o Estado",
+    "A_Experincia_dos_Anos_18481851": "A Experiência dos Anos 1848-1851",
+    "A_Experincia_da_Comuna_de_Paris_de_1871_A_Anlise_de_Marx": "A Experiência da Comuna de Paris de 1871. A Análise de Marx",
+    "Continuao_Explicaes_Complementares_de_Engels": "Continuação. Explicações Complementares de Engels",
+    "As_Bases_Econmicas_da_Extino_do_Estado": "As Bases Econômicas da Extinção do Estado",
+    "A_Vulgarizao_do_Marxismo_pelos_Oportunistas": "A Vulgarização do Marxismo pelos Oportunistas"
+  }
 }

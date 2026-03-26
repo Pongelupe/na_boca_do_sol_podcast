@@ -2,6 +2,7 @@ sounds/toWAV.sh
 arquivos/**/*.wav
 arquivos/**/*.mp3
 arquivos/**/*.html
+arquivos/**/*.zip
 base/
 frontend/src/content/authors/
 frontend/src/content/books/

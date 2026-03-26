@@ -9,7 +9,7 @@
 |------|-----|:----:|:---:|
 | Teses sobre Feuerbach | 1845 | [📁](Teses_sobre_Feuerbach/) | [🔗](https://www.marxists.org/portugues/marx/1845/tesfeuer.htm) |
 | Feuerbach. Oposição das Concepções Materialista e Idealista | 1846 - ago |  | [🔗](https://www.marxists.org/portugues/marx/1845/ideologia-alema-oe/index.htm) |
-| Princípios Básicos do Comunismo | 1847 - nov  |  | [🔗](https://www.marxists.org/portugues/marx/../tematica/audiolivros.htm#principios) |
+| Princípios Básicos do Comunismo | 1847 - nov  | [📁](Princípios_Básicos_do_Comunismo/) | [🔗](https://www.marxists.org/portugues/marx/../tematica/audiolivros.htm#principios) |
 | Manifesto do Partido Comunista | 1848 - fev |  | [🔗](https://www.marxists.org/portugues/marx/../tematica/audiolivros.htm#manifesto) |
 | Trabalho Assalariado e Capital | 1849 - abr |  | [🔗](https://www.marxists.org/portugues/marx/1849/04/05.htm) |
 | O Capital - Crítica da Economia Política | 1867 - set  |  | [🔗](https://www.marxists.org/portugues/marx/1867/capital/index.htm) |

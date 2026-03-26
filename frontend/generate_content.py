@@ -142,13 +142,13 @@ mia_url: "{mia_url}"
     print(f"  📖 {book_title} ({len(chapters)} capítulos)")
 
     # Generate episode pages for each chapter
-    for ch in chapters:
+    for i, ch in enumerate(chapters):
         ch_path = os.path.join(book_path, ch)
         wav_name = re.sub(r'^\d+_', '', ch)
         ch_title = chapter_names.get(wav_name)
         generate_episode(author_slug, author_name, wav_name, ch_path,
                          book_slug=book_slug, readme_content=None,
-                         chapter_title=ch_title)
+                         chapter_title=ch_title, order=i)
 
 # --- Episode generation ---
 
@@ -164,7 +164,8 @@ def find_mia_url(readme_content, title):
     return ""
 
 def generate_episode(author_slug, author_name, episode_slug, episode_dir,
-                     book_slug=None, readme_content=None, chapter_title=None):
+                     book_slug=None, readme_content=None,
+                     chapter_title=None, order=None):
     txt_path = os.path.join(episode_dir, f"{episode_slug}.txt")
     if not os.path.exists(txt_path):
         return
@@ -228,6 +229,8 @@ def generate_episode(author_slug, author_name, episode_slug, episode_dir,
     frontmatter = f'---\ntitle: "{safe_title}"\nauthor_name: "{author_name}"\nauthor_slug: "{author_slug}"\nepisode_slug: "{episode_slug}"\n'
     if book_slug:
         frontmatter += f'book_slug: "{book_slug}"\n'
+    if order is not None:
+        frontmatter += f'order: {order}\n'
     frontmatter += f'year: "{year}"\naudio_url: "{audio_url}"\nmia_url: "{mia_url}"\n'
     frontmatter += f'timestamps: {json.dumps(timestamps, ensure_ascii=False)}\n'
     frontmatter += '---\n\n'

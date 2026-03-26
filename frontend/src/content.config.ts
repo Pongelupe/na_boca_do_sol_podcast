@@ -33,6 +33,7 @@ const episodes = defineCollection({
     author_slug: z.string(),
     episode_slug: z.string(),
     book_slug: z.string().optional(),
+    order: z.number().optional(),
     year: z.string().optional(),
     audio_url: z.string(),
     mia_url: z.string().optional(),

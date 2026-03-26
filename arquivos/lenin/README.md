@@ -23,7 +23,7 @@ Membro fundador, principal teórico e dirigente do Partido Bolchevique. Dirigiu 
 | Nossa Tarefa Imediata | 1899 |  | [🔗](https://www.marxists.org/portugues/lenin/1899/mes/41.htm) |
 | O Trabalho da Mulher na Fábrica | 1899 |  | [🔗](https://www.marxists.org/portugues/lenin/1899/03/trabalho.htm) |
 | Projeto de programa de nosso partido | 1899 |  | [🔗](https://www.marxists.org/portugues/lenin/1899/mes/43.htm) |
-| Sobre as Greves | 1899 |  | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#greves) |
+| Sobre as Greves | 1899 | [📁](Sobre_as_Greves/) | [🔗](https://www.marxists.org/portugues/lenin/../tematica/audiolivros.htm#greves) |
 | Sobre as Greves | 1899 |  | [🔗](https://www.marxists.org/portugues/lenin/1899/mes/greves_ga.htm) |
 | Tribunais de Fábrica | 1899 |  | [🔗](https://www.marxists.org/portugues/lenin/1899/mes/tribunais.htm) |
 | Nosso Programa | 1899 - set |  | [🔗](https://www.marxists.org/portugues/lenin/1899/09/programa.htm) |

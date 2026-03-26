@@ -1,6 +1,26 @@
 {
-  "title": "",
+  "title": "Um Passo em Frente, Dois Passos Atrás - Lênin",
   "year": "1904",
   "image": "",
-  "description": ""
+  "description": "",
+  "chapters": {
+    "A_preparao_do_congresso": "A preparação do congresso",
+    "O_Significado_dos_Agrupamentos_no_Congresso": "O Significado dos Agrupamentos no Congresso",
+    "O_Incio_do_Congresso_O_Incidente_com_o_Comit_de_Organizao": "O Início do Congresso - O Incidente com o Comité de Organização",
+    "Dissoluo_do_Grupo_Ijni_Rabtchi": "Dissolução do Grupo «Iújni Rabótchi»",
+    "O_Incidente_da_Igualdade_de_Direitos_das_Lnguas": "O Incidente da Igualdade de Direitos das Línguas",
+    "O_Programa_Agrrio": "O Programa Agrário",
+    "Os_Estatutos_do_Partido_Projecto_do_Camarada_Mrtov": "Os Estatutos do Partido. Projecto do Camarada Mártov",
+    "Discusso_sobre_o_Centralismo_antes_da_Ciso_entre_os_Iskristas": "Discussão sobre o Centralismo antes da Cisão entre os Iskristas",
+    "O_Pargrafo_Um_dos_Estatutos": "O Parágrafo Um dos Estatutos",
+    "Vtimas_Inocentes_de_uma_Falsa_Acusao_de_Oportunismo": "Vítimas Inocentes de uma Falsa Acusação de Oportunismo",
+    "Continuao_dos_Debates_sobre_os_Estatutos_Composio_do_Conselho": "Continuação dos Debates sobre os Estatutos. Composição do Conselho",
+    "Concluso_dos_Debates_sobre_os_Estatutos_Cooptao_para_os_Centros_Sada_dos_Delegados_da_Rabtcheie_Dielo": "Conclusão dos Debates sobre os Estatutos. Cooptação para os Centros. Saída dos Delegados da «Rabótcheie Dielo»",
+    "As_Eleies_O_Encerramento_do_Congresso": "As Eleições. O Encerramento do Congresso",
+    "Quadro_Geral_da_Luta_no_Congresso_A_Ala_Revolucionria_e_a_Ala_Oportunista_do_Partido": "Quadro Geral da Luta no Congresso. A Ala Revolucionária e a Ala Oportunista do Partido",
+    "Depois_do_Congresso_Dois_Mtodos_de_Luta": "Depois do Congresso. Dois Métodos de Luta",
+    "Pequenas_Contrariedades_No_Devem_Prejudicar_um_Grande_Prazer": "Pequenas Contrariedades Não Devem Prejudicar um Grande Prazer",
+    "O_Novo_Iskra_Oportunismo_nas_Questes_de_Organizao": "O Novo «Iskra». Oportunismo nas Questões de Organização",
+    "Algumas_Palavras_Sobre_a_Dialctica_Duas_Revolues": "Algumas Palavras Sobre a Dialéctica. Duas Revoluções"
+  }
 }

@@ -1,6 +1,18 @@
 {
-  "title": "",
+  "title": "O Imperialismo, Fase Superior do Capitalismo",
   "year": "1916",
   "image": "",
-  "description": ""
+  "description": "",
+  "chapters": {
+    "I_A_Concentrao_da_Produo_e_os_Monoplios": "A Concentração da Produção e os Monopólios",
+    "II_Os_Bancos_e_o_seu_Novo_Papel": "Os Bancos e o seu Novo Papel",
+    "III_O_Capital_Financeiro_e_a_Oligarquia_Financeira_": "O Capital Financeiro e a Oligarquia Financeira",
+    "IV_A_Exportao_de_Capital_": "A Exportação de Capital",
+    "V_A_Partilha_do_Mundo_entre_as_Associaes_de_Capitalistas_": "A Partilha do Mundo entre as Associações de Capitalistas",
+    "VI_A_Partilha_do_Mundo_entre_as_Grandes_Potncias_": "A Partilha do Mundo entre as Grandes Potências",
+    "VII_O_Imperialismo_Fase_Particular_do_Capitalismo": "O Imperialismo Fase Particular do Capitalismo",
+    "VIII_O_Parasitismo_e_a_Decomposio_do_Capitalismo": "O Parasitismo e a Decomposição do Capitalismo",
+    "IX_Crtica_do_Imperialismo": "Crítica do Imperialismo",
+    "X_O_Lugar_do_Imperialismo_na_Histria": "O Lugar do Imperialismo na História"
+  }
 }
