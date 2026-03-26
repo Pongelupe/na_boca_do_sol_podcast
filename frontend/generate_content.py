@@ -193,7 +193,8 @@ def generate_episode(author_slug, author_name, episode_slug, episode_dir,
     mia_url = find_mia_url(readme_content, title)
 
     if book_slug:
-        audio_url = f"{S3_BASE}/{author_slug}/{book_slug}/{episode_slug}/{episode_slug}.mp3"
+        chapter_dir_name = os.path.basename(episode_dir)
+        audio_url = f"{S3_BASE}/{author_slug}/{book_slug}/{chapter_dir_name}/{episode_slug}.mp3"
     else:
         audio_url = f"{S3_BASE}/{author_slug}/{episode_slug}/{episode_slug}.mp3"
 
