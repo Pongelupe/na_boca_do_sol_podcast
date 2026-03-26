@@ -60,7 +60,7 @@ def transform_repo_links(content, author_slug):
             zip_url = f"{S3_BASE}/{author_slug}/{book_slug}.zip"
             return f'[📖 ver capítulos]({BASE_PATH}/{author_slug}/{book_slug}/) [⬇️]({zip_url})'
         filename = os.path.basename(folder_path)
-        s3_url = f"{S3_BASE}/{author_slug}/{filename}.mp3"
+        s3_url = f"{S3_BASE}/{author_slug}/{filename}/{filename}.mp3"
         return f'[⬇️]({s3_url}) <audio controls preload="none" src="{s3_url}"></audio>'
     return re.sub(r'\[📁\]\(([^)]+)\)', replace_link, content)
 
@@ -193,9 +193,9 @@ def generate_episode(author_slug, author_name, episode_slug, episode_dir,
     mia_url = find_mia_url(readme_content, title)
 
     if book_slug:
-        audio_url = f"{S3_BASE}/{author_slug}/{book_slug}/{episode_slug}.mp3"
+        audio_url = f"{S3_BASE}/{author_slug}/{book_slug}/{episode_slug}/{episode_slug}.mp3"
     else:
-        audio_url = f"{S3_BASE}/{author_slug}/{episode_slug}.mp3"
+        audio_url = f"{S3_BASE}/{author_slug}/{episode_slug}/{episode_slug}.mp3"
 
     # Body: skip header metadata, start from actual content
     # Heuristic: find first numbered section or long paragraph
