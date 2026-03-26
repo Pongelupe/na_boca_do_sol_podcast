@@ -1,11 +1,25 @@
 ---
 import Base from '../layouts/Base.astro';
 import AuthorCard from '../components/AuthorCard.astro';
+import AuthorList from '../components/AuthorList.astro';
 import SearchBar from '../components/SearchBar.astro';
 import Carousel from '../components/Carousel.astro';
 import { getCollection } from 'astro:content';
 
-const authors = (await getCollection('authors')).sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
+const allAuthors = await getCollection('authors');
+
+// Pinned authors in fixed order
+const pinned = ['marx', 'lenin', 'mao_zedong'];
+const pinnedAuthors = pinned
+  .map((slug) => allAuthors.find((a) => a.data.slug === slug))
+  .filter(Boolean);
+
+// Remaining authors (shuffle happens client-side)
+const rest = allAuthors.filter((a) => !pinned.includes(a.data.slug));
+const carouselAuthors = [...pinnedAuthors, ...rest];
+
+// All authors alphabetically for the list
+const listAuthors = [...allAuthors].sort((a, b) => a.data.name.localeCompare(b.data.name));
 ---
 
 <Base title="Início">
@@ -31,17 +45,35 @@ const authors = (await getCollection('authors')).sort((a, b) => (a.data.order ??
   <SearchBar id="author-search" placeholder="Buscar autor..." />
 
   <Carousel label="Autores">
-    {authors.map((author) => (
+    {carouselAuthors.map((author) => (
       <AuthorCard name={author.data.name} slug={author.data.slug} image={author.data.image} />
     ))}
   </Carousel>
 
+  <hr class="divider" />
+
+  <h2 style="color: var(--accent); font-family: 'Yeseva One', serif; font-weight: 400; margin-bottom: 0.5rem;">Todos os Autores</h2>
+
+  <AuthorList authors={listAuthors.map((a) => ({ name: a.data.name, slug: a.data.slug, image: a.data.image }))} />
+
   <script>
+    // Shuffle non-pinned carousel items on each page load
+    const track = document.querySelector('.carousel-track') as HTMLElement;
+    const cards = Array.from(track.children) as HTMLElement[];
+    const pinnedCount = 3;
+    const rest = cards.slice(pinnedCount);
+    for (let i = rest.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [rest[i], rest[j]] = [rest[j], rest[i]];
+    }
+    rest.forEach((card) => track.appendChild(card));
+
     document.getElementById('author-search')!.addEventListener('input', (e) => {
       const q = (e.target as HTMLInputElement).value.toLowerCase();
       document.querySelectorAll('.author-card').forEach((card) => {
         (card as HTMLElement).style.display = (card as HTMLElement).dataset.name!.includes(q) ? '' : 'none';
       });
+      (window as any).__authorListFilter?.(q);
     });
   </script>
 </Base>

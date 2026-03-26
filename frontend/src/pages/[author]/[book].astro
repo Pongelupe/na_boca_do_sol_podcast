@@ -1,6 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { getCollection, render } from 'astro:content';
+import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const books = await getCollection('books');
@@ -11,19 +11,166 @@ export async function getStaticPaths() {
 }
 
 const { book } = Astro.props;
-const { Content } = await render(book);
+const d = book.data;
+
+const episodes = (await getCollection('episodes'))
+  .filter((ep) => ep.data.book_slug === d.book_slug && ep.data.author_slug === d.author_slug)
+  .sort((a, b) => a.data.episode_slug.localeCompare(b.data.episode_slug));
+
+const zipUrl = `https://nbds-podcast.s3.us-east-2.amazonaws.com/${d.author_slug}/${d.book_slug}.zip`;
 ---
 
-<Base title={book.data.title}>
-  <div class="author-header">
-    <p><a href={`/${book.data.author_slug}/`}>← {book.data.author_name}</a></p>
-    {book.data.image && <img src={book.data.image} alt={book.data.title} />}
-    <h2>{book.data.title}</h2>
-    {book.data.year && <p style="color: var(--text-muted);">{book.data.year}</p>}
-    {book.data.description && <p class="author-bio">{book.data.description}</p>}
-    {book.data.mia_url && <p><a href={book.data.mia_url} target="_blank">Ler no Marxists.org 🔗</a></p>}
-  </div>
-  <div class="content">
-    <Content />
+<Base title={d.title || d.book_slug.replace(/_/g, ' ')} description={`${d.title || d.book_slug.replace(/_/g, ' ')} — ${d.author_name}`}>
+  <div class="book-page">
+    <p class="book-back"><a href={`/${d.author_slug}/`}>← {d.author_name}</a></p>
+
+    <div class="book-hero">
+      {d.image && <img src={d.image} alt={d.title} class="book-cover" />}
+      <h2>{d.title || d.book_slug.replace(/_/g, ' ')}</h2>
+      <p class="book-meta">
+        {d.author_name}{d.year ? ` · ${d.year}` : ''}
+        {episodes.length > 0 && ` · ${episodes.length} capítulos`}
+      </p>
+      {d.description && <p class="book-description">{d.description}</p>}
+      {d.mia_url && <a href={d.mia_url} target="_blank" class="book-mia">📖 Ler no Marxists.org</a>}
+      {episodes.length > 0 && <a href={zipUrl} download class="book-mia">⬇️ Baixar livro completo</a>}
+    </div>
+
+    <hr class="divider" />
+
+    <h3 class="chapters-heading">Capítulos</h3>
+
+    <ol class="chapter-list">
+      {episodes.map((ep) => {
+        const chTitle = ep.data.title;
+        const href = `/${d.author_slug}/${d.book_slug}/${ep.data.episode_slug}/`;
+        return (
+          <li>
+            <a href={href} class="chapter-card">
+              <span class="chapter-title">{chTitle}</span>
+              <span class="chapter-badge">♫</span>
+            </a>
+          </li>
+        );
+      })}
+    </ol>
   </div>
 </Base>
+
+<style>
+  .book-page { max-width: 720px; margin: 0 auto; }
+
+  .book-back { margin: 1.5rem 0 0; }
+  .book-back a { color: var(--text-muted); font-size: 0.9rem; }
+  .book-back a:hover { color: var(--accent); }
+
+  .book-hero {
+    text-align: center;
+    padding: 2rem 0 1rem;
+  }
+  .book-cover {
+    width: 160px;
+    height: auto;
+    border-radius: 8px;
+    border: 2px solid var(--gold);
+    margin-bottom: 1rem;
+  }
+  .book-hero h2 {
+    font-family: 'Yeseva One', serif;
+    font-size: 1.8rem;
+    color: var(--accent);
+    font-weight: 400;
+    margin-bottom: 0.4rem;
+    word-break: break-word;
+  }
+  .book-meta {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    margin-bottom: 0.8rem;
+  }
+  .book-description {
+    color: var(--text-muted);
+    max-width: 600px;
+    margin: 0 auto 1rem;
+    text-align: center;
+    line-height: 1.7;
+  }
+  .book-mia {
+    display: inline-block;
+    padding: 0.4rem 0.8rem;
+    border: 1px solid var(--gold);
+    border-radius: 8px;
+    background: var(--bg-card);
+    color: var(--text);
+    font-size: 0.85rem;
+    transition: all 0.2s;
+  }
+  .book-mia:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .chapters-heading {
+    font-family: 'Yeseva One', serif;
+    font-weight: 400;
+    color: var(--accent);
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+  }
+
+  .chapter-list {
+    list-style: none;
+    padding: 0;
+    counter-reset: chapter;
+  }
+  .chapter-list li {
+    counter-increment: chapter;
+  }
+  .chapter-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.9rem 1rem;
+    margin-bottom: 0.5rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 0 8px 8px 0;
+    color: var(--text);
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+  .chapter-card::before {
+    content: counter(chapter, upper-roman);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.1rem;
+    color: var(--gold);
+    min-width: 2.5rem;
+    text-align: center;
+    flex-shrink: 0;
+  }
+  .chapter-card:hover {
+    border-color: var(--accent);
+    box-shadow: 0 2px 12px var(--glow);
+    transform: translateX(4px);
+  }
+  .chapter-title { flex: 1; font-weight: 700; }
+  .chapter-badge {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: white;
+    font-size: 0.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 600px) {
+    .book-hero h2 { font-size: 1.3rem; }
+    .chapter-card { padding: 0.7rem 0.75rem; font-size: 0.9rem; }
+    .chapter-card::before { font-size: 0.95rem; min-width: 2rem; }
+  }
+</style>

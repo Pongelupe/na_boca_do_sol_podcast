@@ -56,7 +56,8 @@ def transform_repo_links(content, author_slug):
         folder_path = match.group(1).rstrip('/')
         if is_book(author_slug, folder_path):
             book_slug = folder_path.replace('/', '_')
-            return f'[📖 ver capítulos](/{author_slug}/{book_slug}/)'
+            zip_url = f"{S3_BASE}/{author_slug}/{book_slug}.zip"
+            return f'[📖 ver capítulos](/{author_slug}/{book_slug}/) [⬇️]({zip_url})'
         filename = os.path.basename(folder_path)
         s3_url = f"{S3_BASE}/{author_slug}/{filename}.mp3"
         return f'[⬇️]({s3_url}) <audio controls preload="none" src="{s3_url}"></audio>'
@@ -105,15 +106,15 @@ def generate_book(author_slug, book_folder, author_name):
     year = meta.get("year", "")
     description = meta.get("description", "")
     image = meta.get("image", "")
+    chapter_names = meta.get("chapters", {})
     mia_url = get_book_mia_url(author_slug, book_folder)
     book_slug = book_folder.replace('/', '_')
 
     # Build chapter table
     rows = []
     for ch in chapters:
-        ch_title = get_chapter_title(ch)
-        # The wav filename is the part after the numeric prefix
         wav_name = re.sub(r'^\d+_', '', ch)
+        ch_title = chapter_names.get(wav_name, get_chapter_title(ch))
         episode_url = f"/{author_slug}/{book_slug}/{wav_name}/"
         rows.append(f"| [{ch_title}]({episode_url}) |")
 
@@ -144,8 +145,10 @@ mia_url: "{mia_url}"
     for ch in chapters:
         ch_path = os.path.join(book_path, ch)
         wav_name = re.sub(r'^\d+_', '', ch)
+        ch_title = chapter_names.get(wav_name)
         generate_episode(author_slug, author_name, wav_name, ch_path,
-                         book_slug=book_slug, readme_content=None)
+                         book_slug=book_slug, readme_content=None,
+                         chapter_title=ch_title)
 
 # --- Episode generation ---
 
@@ -161,7 +164,7 @@ def find_mia_url(readme_content, title):
     return ""
 
 def generate_episode(author_slug, author_name, episode_slug, episode_dir,
-                     book_slug=None, readme_content=None):
+                     book_slug=None, readme_content=None, chapter_title=None):
     txt_path = os.path.join(episode_dir, f"{episode_slug}.txt")
     if not os.path.exists(txt_path):
         return
@@ -171,9 +174,9 @@ def generate_episode(author_slug, author_name, episode_slug, episode_dir,
 
     lines = text.strip().split('\n')
 
-    # For book chapters, title comes from the slug (line 1 is the book title)
+    # For book chapters, prefer chapter_title from book.json, fallback to slug
     if book_slug:
-        title = get_chapter_title(episode_slug)
+        title = chapter_title or get_chapter_title(episode_slug)
     else:
         title = lines[0].strip() if lines else episode_slug.replace('_', ' ')
 

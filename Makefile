@@ -44,7 +44,22 @@ docker:
 mp3:
 	find arquivos -name "*.wav" -exec sh -c 'mp3="$${1%.wav}.mp3"; [ -f "$$mp3" ] || sudo ffmpeg -i "$$1" -q:a 2 "$$mp3"' _ {} \;
 
-upload: mp3
+zip: mp3
+	@find arquivos -name "book.json" -exec sh -c ' \
+		book_dir=$$(dirname "$$1"); \
+		book_name=$$(basename "$$book_dir"); \
+		author_dir=$$(dirname "$$book_dir"); \
+		author=$$(basename "$$author_dir"); \
+		zip_path="$$author_dir/$$book_name.zip"; \
+		mp3s=$$(find "$$book_dir" -name "*.mp3" | sort); \
+		if [ -n "$$mp3s" ]; then \
+			rm -f "$$zip_path"; \
+			echo "$$mp3s" | xargs zip -j "$$zip_path"; \
+			echo "📦 $$author/$$book_name.zip"; \
+		fi \
+	' _ {} \;
+
+upload: zip
 	aws s3 sync arquivos/ s3://nbds-podcast/ --exclude "*.txt" --exclude "*.md" --exclude "*.json" --exclude "*.html" --exclude "*.wav"
 
 deploy: upload

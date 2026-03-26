@@ -68,6 +68,11 @@ const { Content } = await render(author);
         const audioEl = repoCell?.querySelector('audio');
         const audioSrc = audioEl?.getAttribute('src') || '';
 
+        // Zip download for books
+        const zipLink = hasBook
+          ? Array.from(repoCell?.querySelectorAll('a') || []).find((a) => a.getAttribute('href')?.endsWith('.zip'))?.getAttribute('href') || ''
+          : '';
+
         // Derive episode slug from audio URL: .../author/Episode_Slug.mp3
         let episodeUrl = '';
         if (hasAudio && audioSrc) {
@@ -142,6 +147,18 @@ const { Content } = await render(author);
           dl.href = audioSrc;
           dl.className = 'timeline-download';
           dl.title = 'Baixar episódio';
+          dl.textContent = '⬇️';
+          dl.setAttribute('download', '');
+          dl.addEventListener('click', (e) => e.stopPropagation());
+          titleRow.appendChild(dl);
+        }
+
+        // Download zip for books
+        if (hasBook && zipLink) {
+          const dl = document.createElement('a');
+          dl.href = zipLink;
+          dl.className = 'timeline-download';
+          dl.title = 'Baixar livro completo (zip)';
           dl.textContent = '⬇️';
           dl.setAttribute('download', '');
           dl.addEventListener('click', (e) => e.stopPropagation());

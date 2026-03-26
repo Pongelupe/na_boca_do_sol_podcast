@@ -1,0 +1,112 @@
+---
+import AuthorListItem from './AuthorListItem.astro';
+
+interface Author { name: string; slug: string; image?: string; }
+interface Props { authors: Author[]; pageSize?: number; }
+const { authors, pageSize = 10 } = Astro.props;
+---
+
+<div class="author-list" data-page-size={pageSize}>
+  {authors.map((a) => (
+    <AuthorListItem name={a.name} slug={a.slug} image={a.image} />
+  ))}
+</div>
+
+<div class="author-list-pagination">
+  <button class="pagination-btn" data-dir="prev" disabled>← Anterior</button>
+  <span class="pagination-info"></span>
+  <button class="pagination-btn" data-dir="next">Próximo →</button>
+</div>
+
+<script>
+  const list = document.querySelector('.author-list') as HTMLElement;
+  const items = Array.from(list.querySelectorAll('.author-list-item')) as HTMLElement[];
+  const pageSize = parseInt(list.dataset.pageSize || '10');
+  const pagination = document.querySelector('.author-list-pagination') as HTMLElement;
+  const prevBtn = pagination.querySelector('[data-dir="prev"]') as HTMLButtonElement;
+  const nextBtn = pagination.querySelector('[data-dir="next"]') as HTMLButtonElement;
+  const info = pagination.querySelector('.pagination-info') as HTMLElement;
+  let page = 0;
+
+  function getVisible() {
+    return items.filter((i) => !i.dataset.filtered);
+  }
+
+  function render() {
+    const visible = getVisible();
+    const totalPages = Math.max(1, Math.ceil(visible.length / pageSize));
+    if (page >= totalPages) page = totalPages - 1;
+    if (page < 0) page = 0;
+
+    const start = page * pageSize;
+    const end = start + pageSize;
+
+    items.forEach((i) => i.style.display = 'none');
+    visible.forEach((i, idx) => {
+      i.style.display = idx >= start && idx < end ? '' : 'none';
+    });
+
+    info.textContent = `${page + 1} / ${totalPages}`;
+    prevBtn.disabled = page === 0;
+    nextBtn.disabled = page >= totalPages - 1;
+    pagination.style.display = totalPages <= 1 ? 'none' : '';
+  }
+
+  prevBtn.addEventListener('click', () => { page--; render(); });
+  nextBtn.addEventListener('click', () => { page++; render(); });
+
+  // Expose filter function for search bar
+  (window as any).__authorListFilter = (q: string) => {
+    items.forEach((i) => {
+      const match = i.dataset.name!.includes(q);
+      if (match) delete i.dataset.filtered;
+      else i.dataset.filtered = '1';
+    });
+    page = 0;
+    render();
+  };
+
+  render();
+</script>
+
+<style>
+  .author-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin: 1rem 0;
+  }
+
+  .author-list-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin: 1rem 0 2rem;
+  }
+
+  .pagination-btn {
+    background: var(--bg-card);
+    border: 1px solid var(--gold);
+    border-radius: 8px;
+    padding: 0.4rem 0.8rem;
+    color: var(--text);
+    font-family: inherit;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .pagination-btn:hover:not(:disabled) {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .pagination-btn:disabled {
+    opacity: 0.4;
+    cursor: default;
+  }
+
+  .pagination-info {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+</style>

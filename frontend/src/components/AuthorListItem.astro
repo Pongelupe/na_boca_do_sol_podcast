@@ -1,0 +1,45 @@
+---
+interface Props { name: string; slug: string; image?: string; }
+const { name, slug, image } = Astro.props;
+---
+
+<a class="author-list-item" href={`/${slug}/`} data-name={name.toLowerCase()}>
+  {image && <img src={image} alt={name} class="author-list-img" />}
+  <h3>{name}</h3>
+</a>
+
+<style>
+  .author-list-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    min-height: 3.5rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--gold);
+    border-radius: 0 8px 8px 0;
+    color: var(--text);
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+  .author-list-item:hover {
+    border-color: var(--accent);
+    transform: translateX(4px);
+    box-shadow: 0 2px 12px var(--glow);
+  }
+  .author-list-item h3 {
+    font-family: 'Yeseva One', serif;
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 0;
+  }
+  .author-list-img {
+    width: 36px;
+    height: 36px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid var(--gold);
+    flex-shrink: 0;
+  }
+</style>
