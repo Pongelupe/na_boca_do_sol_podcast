@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import SearchBar from '../components/SearchBar.astro';
 import { getCollection, render } from 'astro:content';
+import base from '../utils/base';
 
 export async function getStaticPaths() {
   const authors = await getCollection('authors');
@@ -13,7 +14,6 @@ export async function getStaticPaths() {
 
 const { author } = Astro.props;
 const { Content } = await render(author);
-const base = import.meta.env.BASE_URL;
 ---
 
 <Base title={author.data.name}>
@@ -28,7 +28,7 @@ const base = import.meta.env.BASE_URL;
   <script>
     const table = document.querySelector('.content table');
     if (table) {
-      const base = document.querySelector('.author-header')?.getAttribute('data-base') || '';
+      const base = document.querySelector('.author-header')?.getAttribute('data-base')?.replace(/\/$/, '') || '';
       // Build timeline from table
       const timeline = document.createElement('div');
       timeline.className = 'timeline';

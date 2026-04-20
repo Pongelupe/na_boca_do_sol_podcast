@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pongelupe.github.io/na_boca_do_sol_podcast/sitemap-index.xml

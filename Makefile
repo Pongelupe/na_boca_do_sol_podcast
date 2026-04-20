@@ -1,7 +1,7 @@
-.PHONY: build dev generate add index update deploy docker clean podcast podcast-local batch mp3 upload
+.PHONY: build dev generate add index update deploy docker clean podcast podcast-local batch mp3 upload instagram rss
 
 # Frontend
-build: generate
+build: generate rss
 	cd frontend && npm install && npm run build
 
 dev: generate
@@ -64,3 +64,16 @@ upload: zip
 
 deploy: upload
 	@echo "✅ Audio synced. Push to main to deploy site."
+
+# RSS
+rss:
+	python3 tools/generate_rss.py --output frontend/public/feed.xml
+
+# Instagram
+VENV := tools/.venv
+$(VENV):
+	python3 -m venv $(VENV)
+	$(VENV)/bin/pip install -q -r tools/requirements.txt
+
+instagram: $(VENV)
+	$(VENV)/bin/python tools/generate_instagram.py --episode "$(EPISODE)" $(if $(THEME),--theme $(THEME))

@@ -1,7 +1,7 @@
 ---
 interface Props { name: string; slug: string; image?: string; }
 const { name, slug, image } = Astro.props;
-const base = import.meta.env.BASE_URL;
+import base from '../utils/base';
 ---
 
 <a class="author-card" href={`${base}/${slug}/`} data-name={name.toLowerCase()}>

@@ -5,6 +5,7 @@ import AuthorList from '../components/AuthorList.astro';
 import SearchBar from '../components/SearchBar.astro';
 import Carousel from '../components/Carousel.astro';
 import { getCollection } from 'astro:content';
+import base from '../utils/base';
 
 const allAuthors = await getCollection('authors');
 
@@ -20,9 +21,18 @@ const carouselAuthors = [...pinnedAuthors, ...rest];
 
 // All authors alphabetically for the list
 const listAuthors = [...allAuthors].sort((a, b) => a.data.name.localeCompare(b.data.name));
+const jsonLd = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "PodcastSeries",
+  name: "Na Boca do Sol Podcast",
+  description: "Podcast de leitura de textos marxistas de domínio público, disponibilizados pelo Marxists Internet Archive.",
+  url: "https://pongelupe.github.io/na_boca_do_sol_podcast",
+  inLanguage: "pt-BR",
+});
 ---
 
 <Base title="Início">
+  <script type="application/ld+json" set:html={jsonLd} />
   <section class="hero">
     <h2>★  Na Boca do Sol Podcast ★</h2>
     <p class="tagline">Perto da manhã, na boca do sol</p>
@@ -34,7 +44,7 @@ const listAuthors = [...allAuthors].sort((a, b) => a.data.name.localeCompare(b.d
       Episódios gerados com voz sintetizada por IA. Código aberto, livre e gratuito.
     </p>
     <p>
-      <a href={`${import.meta.env.BASE_URL}/sobre`}>Saiba como funciona →</a>
+      <a href={`${base}/sobre/`}>Saiba como funciona →</a>
     </p>
   </section>
 

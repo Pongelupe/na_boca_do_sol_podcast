@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import AudioPlayer from '../../components/AudioPlayer.astro';
 import { getCollection, render } from 'astro:content';
+import base from '../../utils/base';
 
 export async function getStaticPaths() {
   const episodes = await getCollection('episodes');
@@ -19,11 +20,29 @@ export async function getStaticPaths() {
 const { episode } = Astro.props;
 const { Content } = await render(episode);
 const d = episode.data;
-const backHref = d.book_slug ? `${import.meta.env.BASE_URL}/${d.author_slug}/${d.book_slug}/` : `${import.meta.env.BASE_URL}/${d.author_slug}/`;
+const backHref = d.book_slug ? `${base}/${d.author_slug}/${d.book_slug}/` : `${base}/${d.author_slug}/`;
 const backLabel = d.book_slug ? d.book_slug.replace(/_/g, ' ') : d.author_name;
+const jsonLd = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  name: d.title,
+  url: Astro.url.href,
+  datePublished: d.year || undefined,
+  associatedMedia: d.audio_url ? {
+    "@type": "MediaObject",
+    contentUrl: d.audio_url,
+    encodingFormat: "audio/mpeg",
+  } : undefined,
+  partOfSeries: {
+    "@type": "PodcastSeries",
+    name: "Na Boca do Sol Podcast",
+    url: "https://pongelupe.github.io/na_boca_do_sol_podcast",
+  },
+});
 ---
 
-<Base title={d.title} description={`${d.title} — ${d.author_name}. Ouça no Na Boca do Sol.`}>
+<Base title={d.title} description={`${d.title} — ${d.author_name}. Ouça no Na Boca do Sol.`} ogType="article">
+  <script type="application/ld+json" set:html={jsonLd} />
   <div class="episode-header">
     <p><a href={backHref}>← {backLabel}</a></p>
     <h2>{d.title}</h2>

@@ -9,3 +9,6 @@ frontend/src/content/books/
 frontend/src/content/episodes/
 frontend/dist/
 frontend/node_modules/
+tools/.venv/
+__pycache__/
+.sisyphus/
