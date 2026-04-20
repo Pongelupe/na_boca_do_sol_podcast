@@ -26,6 +26,7 @@ jobs:
         working-directory: frontend
       - run: BASE_PATH=/na_boca_do_sol_podcast python3 generate_content.py
         working-directory: frontend
+      - run: python3 tools/generate_rss.py --output frontend/public/feed.xml
       - run: npm run build
         working-directory: frontend
       - uses: actions/upload-pages-artifact@v3
